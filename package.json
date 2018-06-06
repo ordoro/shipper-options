@@ -1,0 +1,16 @@
+{
+  "name": "@ordoro/shipper-options",
+  "version": "1.0.0",
+  "description": "A collection of shipper options",
+  "main": "ShipperOptions.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ordoro/shipper-options.git"
+  },
+  "author": "Ordoro LLC",
+  "license": "ISC",
+  "homepage": "https://github.com/ordoro/shipper-options#readme"
+}

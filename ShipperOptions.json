@@ -1,0 +1,1929 @@
+{
+  "other": {
+    "display_name": "Other"
+  },
+  "australia_post": {
+    "display_name": "Australia Post"
+  },
+  "canada_post": {
+    "service_option": [
+      {
+        "display": "Card for pickup",
+        "value": "HFP"
+      },
+      {
+        "display": "Do not safe drop",
+        "value": "DNS"
+      },
+      {
+        "display": "Leave at door - do not card.",
+        "value": "LAD"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Sale of Goods",
+        "value": "SOG"
+      },
+      {
+        "display": "Gift",
+        "value": "GIF"
+      },
+      {
+        "display": "Document",
+        "value": "DOC"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "SAM"
+      },
+      {
+        "display": "Repair or Warranty",
+        "value": "REP"
+      },
+      {
+        "display": "Other",
+        "value": "OTH"
+      }
+    ],
+    "box_shape": [
+      {
+        "display": "Parcel",
+        "value": "Parcel"
+      },
+      {
+        "display": "Document",
+        "value": "Document"
+      },
+      {
+        "display": "Tube",
+        "value": "Tube"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "Regular Parcel",
+        "value": "DOM.RP"
+      },
+      {
+        "display": "Expedited Parcel",
+        "value": "DOM.EP"
+      },
+      {
+        "display": "Xpresspost",
+        "value": "DOM.XP"
+      },
+      {
+        "display": "Priority",
+        "value": "DOM.PC"
+      },
+      {
+        "display": "Priority Worldwide Envelope USA",
+        "value": "USA.PW.ENV"
+      },
+      {
+        "display": "Priority Worldwide pak USA",
+        "value": "USA.PW.PAK"
+      },
+      {
+        "display": "Priority Worldwide Parcel USA",
+        "value": "USA.PW.PARCEL"
+      },
+      {
+        "display": "Xpresspost USA",
+        "value": "USA.XP"
+      },
+      {
+        "display": "Expedited Parcel USA",
+        "value": "USA.EP"
+      },
+      {
+        "display": "Small Packet USA Air",
+        "value": "USA.SP.AIR"
+      },
+      {
+        "display": "Tracked Packet - USA",
+        "value": "USA.TP"
+      },
+      {
+        "display": "International Parcel Air",
+        "value": "INT.IP.AIR"
+      },
+      {
+        "display": "International Parcel Surface",
+        "value": "INT.IP.SURF"
+      },
+      {
+        "display": "Priority Worldwide Envelope Intl",
+        "value": "INT.PW.ENV"
+      },
+      {
+        "display": "Priority Worldwide pak Intl",
+        "value": "INT.PW.PAK"
+      },
+      {
+        "display": "Priority Worldwide parcel Intl",
+        "value": "INT.PW.PARCEL"
+      },
+      {
+        "display": "Xpresspost International",
+        "value": "INT.XP"
+      },
+      {
+        "display": "Small Packet International Air",
+        "value": "INT.SP.AIR"
+      },
+      {
+        "display": "Small Packet International Surface",
+        "value": "INT.SP.SURF"
+      },
+      {
+        "display": "Tracked Packet - International",
+        "value": "INT.TP"
+      }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return at Sender Expense",
+        "value": "RASE"
+      },
+      {
+        "display": "Return to Sender",
+        "value": "RTS"
+      },
+      {
+        "display": "Abandon",
+        "value": "ABAN"
+      }
+    ],
+    "insurance": [
+      {
+        "display": "Canada Post",
+        "value": "canada_post"
+      }
+    ],
+    "display_name": "Canada Post",
+    "delivery_confirmation": [
+      {
+        "display": "Signature",
+        "value": "SO"
+      },
+      {
+        "display": "Proof of Age Required - 18",
+        "value": "PA18"
+      },
+      {
+        "display": "Proof of Age Required - 19",
+        "value": "PA19"
+      }
+    ],
+    "payment_methods": [
+      {
+        "display": "Account",
+        "value": "Account"
+      },
+      {
+        "display": "Credit Card",
+        "value": "CreditCard"
+      }
+    ]
+  },
+  "china_post": {
+    "display_name": "China Post"
+  },
+  "endicia": {
+    "customs_form": [
+      {
+        "display": "None",
+        "value": "None"
+      },
+      {
+        "display": "Form2967",
+        "value": "Form2976"
+      },
+      {
+        "display": "Form2967A",
+        "value": "Form2976A"
+      }
+    ],
+    "contents_type": [
+      {
+        "display": "Merchandise",
+        "value": "Merchandise"
+      },
+      {
+        "display": "Documents",
+        "value": "Documents"
+      },
+      {
+        "display": "Gift",
+        "value": "Gift"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "ReturnedGoods"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "Sample"
+      },
+      {
+        "display": "Other",
+        "value": "Other"
+      }
+    ],
+    "box_shape": [
+      {
+        "display": "Small Flat Rate Box",
+        "value": "SmallFlatRateBox"
+      },
+      {
+        "display": "Medium Flat Rate Box",
+        "value": "MediumFlatRateBox"
+      },
+      {
+        "display": "Large Flat Rate Box",
+        "value": "LargeFlatRateBox"
+      },
+      {
+        "display": "Parcel",
+        "value": "Parcel"
+      },
+      {
+        "display": "Softpack",
+        "value": "Softpack"
+      },
+      {
+        "display": "Card",
+        "value": "Card"
+      },
+      {
+        "display": "Flat",
+        "value": "Flat"
+      },
+      {
+        "display": "Letter",
+        "value": "Letter"
+      },
+      {
+        "display": "Flat Rate Envelope",
+        "value": "FlatRateEnvelope"
+      },
+      {
+        "display": "Flat Rate Legal Envelope",
+        "value": "FlatRateLegalEnvelope"
+      },
+      {
+        "display": "Flat Rate Padded Envelope",
+        "value": "FlatRatePaddedEnvelope"
+      },
+      {
+        "display": "Small Flat Rate Envelope",
+        "value": "SmallFlatRateEnvelope"
+      },
+      {
+        "display": "Regional Rate Box A",
+        "value": "RegionalRateBoxA"
+      },
+      {
+        "display": "Regional Rate Box B",
+        "value": "RegionalRateBoxB"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "Priority",
+        "value": "Priority"
+      },
+      {
+        "display": "Priority Mail Express",
+        "value": "PriorityExpress"
+      },
+      {
+        "display": "First",
+        "value": "First"
+      },
+      {
+        "display": "Library Mail",
+        "value": "LibraryMail"
+      },
+      {
+        "display": "Media Mail",
+        "value": "MediaMail"
+      },
+      {
+        "display": "Parcel Select Ground",
+        "value": "ParcelSelect"
+      },
+      {
+        "display": "Priority Mail Express International",
+        "value": "ExpressMailInternational"
+      },
+      {
+        "display": "First Class Mail International",
+        "value": "FirstClassMailInternational"
+      },
+      {
+        "display": "First Class Package International",
+        "value": "FirstClassPackageInternationalService"
+      },
+      {
+        "display": "Priority Mail International",
+        "value": "PriorityMailInternational"
+      }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return",
+        "value": "Return"
+      },
+      {
+        "display": "Abandon",
+        "value": "Abandon"
+      }
+    ],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      },
+      {
+        "display": "Endicia",
+        "value": "endicia"
+      }
+    ],
+    "display_name": "USPS",
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "None"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "DeliveryConfirmation"
+      },
+      {
+        "display": "Signature Required",
+        "value": "SignatureConfirmation"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "AdultSignature"
+      },
+      {
+        "display": "Adult Signature Restricted Delivery",
+        "value": "AdultSignatureRestrictedDelivery"
+      }
+    ]
+  },
+  "fastway": {
+    "display_name": "Fastway"
+  },
+  "fedex": {
+    "payor": [
+      {
+        "display": "Sender",
+        "value": "SENDER"
+      },
+      {
+        "display": "Recipient",
+        "value": "RECIPIENT"
+      },
+      {
+        "display": "Third Party",
+        "value": "THIRD_PARTY"
+      }
+    ],
+    "display_name": "FedEx",
+    "indicia": [
+      {
+        "display": "Media Mail",
+        "value": "MEDIA_MAIL"
+      },
+      {
+        "display": "Parcel Select",
+        "value": "PARCEL_SELECT"
+      },
+      {
+        "display": "Presorted Bound Printed Matter",
+        "value": "PRESORTED_BOUND_PRINTED_MATTER"
+      },
+      {
+        "display": "Presorted Standard",
+        "value": "PRESORTED_STANDARD"
+      },
+      {
+        "display": "Parcel Return",
+        "value": "PARCEL_RETURN"
+      }
+    ],
+    "box_shape": [
+      {
+        "display": "Custom Packaging",
+        "value": "YOUR_PACKAGING"
+      },
+      {
+        "display": "FedEx Box",
+        "value": "FEDEX_BOX"
+      },
+      {
+        "display": "FedEx Envelope",
+        "value": "FEDEX_ENVELOPE"
+      },
+      {
+        "display": "FedEx Pak",
+        "value": "FEDEX_PAK"
+      },
+      {
+        "display": "FedEx Tube",
+        "value": "FEDEX_TUBE"
+      },
+      {
+        "display": "One Rate Envelope",
+        "value": "ONE_RATE_ENVELOPE"
+      },
+      {
+        "display": "One Rate Small Box",
+        "value": "ONE_RATE_SMALL_BOX"
+      },
+      {
+        "display": "One Rate Medium Box",
+        "value": "ONE_RATE_MEDIUM_BOX"
+      },
+      {
+        "display": "One Rate Large Box",
+        "value": "ONE_RATE_LARGE_BOX"
+      },
+      {
+        "display": "One Rate Extra Large Box",
+        "value": "ONE_RATE_EXTRA_LARGE_BOX"
+      },
+      {
+        "display": "One Rate Pak",
+        "value": "ONE_RATE_PAK"
+      },
+      {
+        "display": "One Rate Tube",
+        "value": "ONE_RATE_TUBE"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "Home Delivery",
+        "value": "GROUND_HOME_DELIVERY"
+      },
+      {
+        "display": "Ground",
+        "value": "FEDEX_GROUND"
+      },
+      {
+        "display": "Express Saver",
+        "value": "FEDEX_EXPRESS_SAVER"
+      },
+      {
+        "display": "2 Day",
+        "value": "FEDEX_2_DAY"
+      },
+      {
+        "display": "2 Day AM",
+        "value": "FEDEX_2_DAY_AM"
+      },
+      {
+        "display": "Standard Overnight",
+        "value": "STANDARD_OVERNIGHT"
+      },
+      {
+        "display": "Priority Overnight",
+        "value": "PRIORITY_OVERNIGHT"
+      },
+      {
+        "display": "First Overnight",
+        "value": "FIRST_OVERNIGHT"
+      },
+      {
+        "display": "SmartPost",
+        "value": "SMART_POST"
+      },
+      {
+        "display": "International Priority",
+        "value": "INTERNATIONAL_PRIORITY"
+      },
+      {
+        "display": "International Economy",
+        "value": "INTERNATIONAL_ECONOMY"
+      },
+      {
+        "display": "International First",
+        "value": "INTERNATIONAL_FIRST"
+      }
+    ],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
+    "insurance_V2": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      },
+      {
+        "display": "FedEx",
+        "value": "fedex"
+      }
+    ],
+    "hub": [
+      {
+        "display": "Allentown",
+        "value": "5185"
+      },
+      {
+        "display": "Atlanta",
+        "value": "5303"
+      },
+      {
+        "display": "Charlotte",
+        "value": "5281"
+      },
+      {
+        "display": "Chicago",
+        "value": "5602"
+      },
+      {
+        "display": "Chino",
+        "value": "5929"
+      },
+      {
+        "display": "Dallas",
+        "value": "5751"
+      },
+      {
+        "display": "Denver",
+        "value": "5802"
+      },
+      {
+        "display": "Detroit",
+        "value": "5481"
+      },
+      {
+        "display": "Edison",
+        "value": "5087"
+      },
+      {
+        "display": "Grove City",
+        "value": "5431"
+      },
+      {
+        "display": "Grove Port",
+        "value": "5436"
+      },
+      {
+        "display": "Houston",
+        "value": "5771"
+      },
+      {
+        "display": "Indianapolis",
+        "value": "5465"
+      },
+      {
+        "display": "Kansas City",
+        "value": "5648"
+      },
+      {
+        "display": "Los Angeles",
+        "value": "5902"
+      },
+      {
+        "display": "Martinsburg",
+        "value": "5254"
+      },
+      {
+        "display": "Memphis",
+        "value": "5379"
+      },
+      {
+        "display": "Minneapolis",
+        "value": "5552"
+      },
+      {
+        "display": "New Berlin",
+        "value": "5531"
+      },
+      {
+        "display": "Newburgh",
+        "value": "5110"
+      },
+      {
+        "display": "Northborough",
+        "value": "5015"
+      },
+      {
+        "display": "Orlando",
+        "value": "5327"
+      },
+      {
+        "display": "Philadelphia",
+        "value": "5194"
+      },
+      {
+        "display": "Phoenix",
+        "value": "5854"
+      },
+      {
+        "display": "Pittsburgh",
+        "value": "5150"
+      },
+      {
+        "display": "Reno",
+        "value": "5893"
+      },
+      {
+        "display": "Sacramento",
+        "value": "5958"
+      },
+      {
+        "display": "Salt Lake City",
+        "value": "5843"
+      },
+      {
+        "display": "Seattle",
+        "value": "5983"
+      },
+      {
+        "display": "St. Louis",
+        "value": "5631"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "Deliver Without Signature",
+        "value": "NO_SIGNATURE_REQUIRED"
+      },
+      {
+        "display": "Indirect Signature Required",
+        "value": "INDIRECT"
+      },
+      {
+        "display": "Direct Signature Required",
+        "value": "DIRECT"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "ADULT"
+      },
+      {
+        "display": "Service Default",
+        "value": "SERVICE_DEFAULT"
+      }
+    ],
+    "alcohol_recipient_type": [
+      {
+        "value": "CONSUMER",
+        "display": "Consumer"
+      },
+      {
+        "value": "LICENSEE",
+        "display": "Licensee"
+      }
+    ],
+    "pickup_carrier_code": [
+      {
+        "value": "FDXG",
+        "display": "Fedex Ground"
+      },
+      {
+        "value": "FDXE",
+        "display": "Fedex Express"
+      }
+    ],
+    "pickup_service_category": [
+      {
+        "value": "SAME_DAY",
+        "display": "Same Day"
+      },
+      {
+        "value": "SAME_DAY_CITY",
+        "display": "Same Day City"
+      },
+      {
+        "value": "FEDEX_DISTANCE_DEFERRED",
+        "display": "FedEx Distance Deferred"
+      },
+      {
+        "value": "FEDEX_NEXT_DAY_EARLY_MORNING",
+        "display": "FedEx Next Day Early Morning"
+      },
+      {
+        "value": "FEDEX_NEXT_DAY_MID_MORNING",
+        "display": "FedEx Next Day Mid Morning"
+      },
+      {
+        "value": "FEDEX_NEXT_DAY_AFTERNOON",
+        "display": "FedEx Next Day Afternoon"
+      },
+      {
+        "value": "FEDEX_NEXT_DAY_END_OF_DAY",
+        "display": "FedEx Next Day End of Day"
+      },
+      {
+        "value": "FEDEX_NEXT_DAY_FREIGHT",
+        "display": "FedEx Next Day Freight"
+      }
+    ],
+    "dangerous_goods_option": [
+      {
+        "value": "BATTERY",
+        "display": "Battery (Ground)"
+      },
+      {
+        "value": "ORM_D",
+        "display": "Other Regulated Material (Ground)"
+      },
+      {
+        "value": "SMALL_QUANTITY_EXCEPTION",
+        "display": "Small Quantity Exception (Ground)"
+      },
+      {
+        "value": "LIMITED_QUANTITIES_COMMODITIES",
+        "display": "Limited Quantities Commodities (Air)"
+      },
+      {
+        "value": "REPORTABLE_QUANTITIES",
+        "display": "Reportable Quantities (Air)"
+      }
+    ]
+  },
+  "ontrac": {
+    "display_name": "OnTrac"
+  },
+  "parcelforce": {
+    "display_name": "Parcelforce"
+  },
+  "purolator": {
+    "display_name": "Purolator"
+  },
+  "ups": {
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
+    "insurance_V2": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      },
+      {
+        "display": "UPS",
+        "value": "ups"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "0"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "1"
+      },
+      {
+        "display": "Signature Required",
+        "value": "2"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "3"
+      }
+    ],
+    "box_shape": [
+      {
+        "display": "Custom Packaging",
+        "value": "02"
+      },
+      {
+        "display": "UPS Letter",
+        "value": "01"
+      },
+      {
+        "display": "Tube",
+        "value": "03"
+      },
+      {
+        "display": "PAK",
+        "value": "04"
+      },
+      {
+        "display": "Small Express Box",
+        "value": "2a"
+      },
+      {
+        "display": "Medium Express Box",
+        "value": "2b"
+      },
+      {
+        "display": "Large Express Box",
+        "value": "2c"
+      },
+      {
+        "display": "UPS 10 KG Box®",
+        "value": "25"
+      },
+      {
+        "display": "UPS 25 KG Box®",
+        "value": "24"
+      }
+    ],
+    "box_shape_mail_innovations": [
+      {
+        "display": "First Class",
+        "value": "59"
+      },
+      {
+        "display": "Priority Mail",
+        "value": "60"
+      },
+      {
+        "display": "Machinables",
+        "value": "61"
+      },
+      {
+        "display": "Irregulars",
+        "value": "62"
+      },
+      {
+        "display": "Parcel Post",
+        "value": "63"
+      },
+      {
+        "display": "BPM Parcel",
+        "value": "64"
+      },
+      {
+        "display": "Media Mail",
+        "value": "65"
+      },
+      {
+        "display": "BPM Flat",
+        "value": "66"
+      },
+      {
+        "display": "Standard Flat",
+        "value": "67"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "UPS® Ground",
+        "value": "03"
+      },
+      {
+        "display": "UPS® Standard",
+        "value": "11"
+      },
+      {
+        "display": "UPS Next Day Air®",
+        "value": "01"
+      },
+      {
+        "display": "UPS Next Day Air® Early",
+        "value": "14"
+      },
+      {
+        "display": "UPS Next Day Air Saver®",
+        "value": "13"
+      },
+      {
+        "display": "UPS 2nd Day Air®",
+        "value": "02"
+      },
+      {
+        "display": "UPS 2nd Day Air A.M.®",
+        "value": "59"
+      },
+      {
+        "display": "UPS 3 Day Select®",
+        "value": "12"
+      },
+      {
+        "display": "UPS Worldwide Saver®",
+        "value": "65"
+      },
+      {
+        "display": "UPS SurePost® Less than 1lb",
+        "value": "92"
+      },
+      {
+        "display": "UPS SurePost® 1lb or Greater",
+        "value": "93"
+      },
+      {
+        "display": "UPS SurePost® BPM",
+        "value": "94"
+      },
+      {
+        "display": "UPS SurePost® Media",
+        "value": "95"
+      },
+      {
+        "display": "UPS Worldwide Express®",
+        "value": "07"
+      },
+      {
+        "display": "UPS Worldwide Expedited®",
+        "value": "08"
+      },
+      {
+        "display": "UPS Worldwide Express Plus®",
+        "value": "54"
+      }
+    ],
+    "shipping_method_mail_innovations": [
+      {
+        "display": "USPS First Class Mail",
+        "value": "M2"
+      },
+      {
+        "display": "USPS Priority Mail",
+        "value": "M3"
+      },
+      {
+        "display": "Expedited Mail Innovations",
+        "value": "M4"
+      },
+      {
+        "display": "Priority Mail Innovations",
+        "value": "M5"
+      },
+      {
+        "display": "Economy Mail Innovations",
+        "value": "M6"
+      }
+    ],
+    "display_name": "UPS",
+    "maximum_dimensions_error_level": 165,
+    "maximum_dimensions_warning_level": 130,
+    "dry_ice_regulation_set": [
+      {
+        "display": "Ground (CFR)",
+        "value": "CFR"
+      },
+      {
+        "display": "Air (IATA)",
+        "value": "IATA"
+      }
+    ],
+    "payor": [
+      {
+        "display": "Sender",
+        "value": "BillShipper"
+      },
+      {
+        "display": "Recipient",
+        "value": "BillReceiver"
+      },
+      {
+        "display": "Third Party",
+        "value": "BillThirdParty"
+      }
+    ],
+    "pickup_container_type": [
+      {
+        "value": "01",
+        "display": "Package"
+      },
+      {
+        "value": "02",
+        "display": "Letter"
+      },
+      {
+        "value": "03",
+        "display": "Pallet"
+      }
+    ],
+    "usps_endorsement": [
+      {
+        "value": "5",
+        "display": "No Service Selected"
+      },
+      {
+        "value": "1",
+        "display": "Return Service Requested"
+      },
+      {
+        "value": "2",
+        "display": "Forwarding Service Requested"
+      },
+      {
+        "value": "3",
+        "display": "Address Service Requested"
+      },
+      {
+        "value": "4",
+        "display": "Change Service Requested"
+      }
+    ]
+  },
+  "usps": {
+    "display_name": "USPS"
+  },
+  "royal_mail": {
+    "display_name": "Royal Mail"
+  },
+  "pitney": {
+    "display_name": "USPS",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
+    "box_shape": [
+      {
+        "value": "SFRB",
+        "display": "Small Flat Rate Box"
+      },
+      {
+        "value": "FRB",
+        "display": "Medium Flat Rate Box"
+      },
+      {
+        "value": "LFRB",
+        "display": "Large Flat Rate Box"
+      },
+      {
+        "value": "PKG",
+        "display": "Parcel"
+      },
+      {
+        "value": "LETTER",
+        "display": "Letter"
+      },
+      {
+        "value": "FRE",
+        "display": "Flat Rate Envelope"
+      },
+      {
+        "value": "LGLFRENV",
+        "display": "Flat Rate Legal Envelope"
+      },
+      {
+        "value": "PFRENV",
+        "display": "Flat Rate Padded Envelope"
+      },
+      {
+        "value": "RBA",
+        "display": "Regional Rate Box A"
+      },
+      {
+        "value": "RBB",
+        "display": "Regional Rate Box B"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "FCM",
+        "display": "First-Class Mail"
+      },
+      {
+        "value": "PM",
+        "display": "Priority Mail"
+      },
+      {
+        "value": "PMC",
+        "display": "Priority Mail Cubic"
+      },
+      {
+        "value": "EM",
+        "display": "Express Mail"
+      },
+      {
+        "value": "STDPOST",
+        "display": "Standard Post"
+      },
+      {
+        "value": "PRCLSEL",
+        "display": "Parcel Select Ground"
+      },
+      {
+        "value": "MEDIA",
+        "display": "Media Mail"
+      },
+      {
+        "value": "LIB",
+        "display": "Library Mail"
+      },
+      {
+        "value": "FCMI",
+        "display": "First-Class Mail International"
+      },
+      {
+        "value": "FCPIS",
+        "display": "First-Class Package International"
+      },
+      {
+        "value": "EMI",
+        "display": "Priority Mail Express International"
+      },
+      {
+        "value": "PMI",
+        "display": "Priority Mail International"
+      }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return",
+        "value": "return"
+      },
+      {
+        "display": "Abandon",
+        "value": "abandon"
+      },
+      {
+        "display": "Reject",
+        "value": "reject"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "None"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "DelCon"
+      },
+      {
+        "display": "Signature Required",
+        "value": "Sig"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
+    ]
+  },
+  "amazon": {
+    "display_name": "Amazon",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [],
+    "box_shape": [
+      {
+        "value": "CUSTOM_PACKAGE",
+        "display": "Custom Packaging"
+      },
+      {
+        "value": "FedEx_Box_10kg",
+        "display": "FedEx® Box (10kg)"
+      },
+      {
+        "value": "FedEx_Box_25kg",
+        "display": "FedEx® Box (25kg)"
+      },
+      {
+        "value": "FedEx_Box_Extra_Large_1",
+        "display": "FedEx® Box (Extra Large 1)"
+      },
+      {
+        "value": "FedEx_Box_Extra_Large_2",
+        "display": "FedEx® Box (Extra Large 2)"
+      },
+      {
+        "value": "FedEx_Box_Large_1",
+        "display": "FedEx® Box (Large 1)"
+      },
+      {
+        "value": "FedEx_Box_Large_2",
+        "display": "FedEx® Box (Large 2)"
+      },
+      {
+        "value": "FedEx_Box_Medium_1",
+        "display": "FedEx® Box (Medium 1)"
+      },
+      {
+        "value": "FedEx_Box_Medium_2",
+        "display": "FedEx® Box (Medium 2)"
+      },
+      {
+        "value": "FedEx_Box_Small_1",
+        "display": "FedEx® Box (Small 1)"
+      },
+      {
+        "value": "FedEx_Box_Small_2",
+        "display": "FedEx® Box (Small 2)"
+      },
+      {
+        "value": "FedEx_Envelope",
+        "display": "FedEx® Envelope"
+      },
+      {
+        "value": "FedEx_Padded_Pak",
+        "display": "FedEx® Padded Pak"
+      },
+      {
+        "value": "FedEx_Pak_1",
+        "display": "FedEx® Pak 1"
+      },
+      {
+        "value": "FedEx_Pak_2",
+        "display": "FedEx® Pak 2"
+      },
+      {
+        "value": "FedEx_Tube",
+        "display": "FedEx® Tube"
+      },
+      {
+        "value": "FedEx_XL_Pak",
+        "display": "FedEx® XL Pak"
+      },
+      {
+        "value": "UPS_Box_10kg",
+        "display": "UPS® Box (10kg)"
+      },
+      {
+        "value": "UPS_Box_25kg",
+        "display": "UPS® Box (25kg)"
+      },
+      {
+        "value": "UPS_Express_Box",
+        "display": "UPS® Express Box"
+      },
+      {
+        "value": "UPS_Express_Box_Large",
+        "display": "UPS® Express Box (Large)"
+      },
+      {
+        "value": "UPS_Express_Box_Medium",
+        "display": "UPS® Express Box (Medium)"
+      },
+      {
+        "value": "UPS_Express_Box_Small",
+        "display": "UPS® Express Box (Small)"
+      },
+      {
+        "value": "UPS_Express_Envelope",
+        "display": "UPS® Express Envelope"
+      },
+      {
+        "value": "UPS_Express_Hard_Pak",
+        "display": "UPS® Express Hard Pak"
+      },
+      {
+        "value": "UPS_Express_Legal_Envelope",
+        "display": "UPS® Express Legal Envelope"
+      },
+      {
+        "value": "UPS_Express_Pak",
+        "display": "UPS® Express Pak"
+      },
+      {
+        "value": "UPS_Express_Tube",
+        "display": "UPS® Express Tube"
+      },
+      {
+        "value": "UPS_Laboratory_Pak",
+        "display": "UPS® Laboratory Pak"
+      },
+      {
+        "value": "UPS_Pad_Pak",
+        "display": "UPS® Pad Pak"
+      },
+      {
+        "value": "UPS_Pallet",
+        "display": "UPS® Pallet"
+      },
+      {
+        "value": "USPS_Card",
+        "display": "USPS® Card"
+      },
+      {
+        "value": "USPS_Flat",
+        "display": "USPS® Flat"
+      },
+      {
+        "value": "USPS_FlatRateCardboardEnvelope",
+        "display": "USPS® Flat Rate Cardboard Envelope"
+      },
+      {
+        "value": "USPS_FlatRateEnvelope",
+        "display": "USPS® Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_FlatRateGiftCardEnvelope",
+        "display": "USPS® Flat Rate Gift Card Envelope"
+      },
+      {
+        "value": "USPS_FlatRateLegalEnvelope",
+        "display": "USPS® Flat Rate Legal Envelope"
+      },
+      {
+        "value": "USPS_FlatRatePaddedEnvelope",
+        "display": "USPS® Flat Rate Padded Envelope"
+      },
+      {
+        "value": "USPS_FlatRateWindowEnvelope",
+        "display": "USPS® Flat Rate Window Envelope"
+      },
+      {
+        "value": "USPS_LargeFlatRateBoardGameBox",
+        "display": "USPS® Large Flat Rate Board Game Box"
+      },
+      {
+        "value": "USPS_LargeFlatRateBox",
+        "display": "USPS® Large Flat Rate Box"
+      },
+      {
+        "value": "USPS_Letter",
+        "display": "USPS® Letter"
+      },
+      {
+        "value": "USPS_MediumFlatRateBox1",
+        "display": "USPS® Medium Flat Rate Box 1"
+      },
+      {
+        "value": "USPS_MediumFlatRateBox2",
+        "display": "USPS® Medium Flat Rate Box 2"
+      },
+      {
+        "value": "USPS_RegionalRateBoxA1",
+        "display": "USPS® Regional Rate Box A1"
+      },
+      {
+        "value": "USPS_RegionalRateBoxA2",
+        "display": "USPS® Regional Rate Box A2"
+      },
+      {
+        "value": "USPS_RegionalRateBoxB1",
+        "display": "USPS® Regional Rate Box B1"
+      },
+      {
+        "value": "USPS_RegionalRateBoxB2",
+        "display": "USPS® Regional Rate Box B2"
+      },
+      {
+        "value": "USPS_RegionalRateBoxC",
+        "display": "USPS® Regional Rate Box C"
+      },
+      {
+        "value": "USPS_SmallFlatRateBox",
+        "display": "USPS® Small Flat Rate Box"
+      },
+      {
+        "value": "USPS_SmallFlatRateEnvelope",
+        "display": "USPS® Small Flat Rate Envelope"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "FEDEX_PTP_PRIORITY_OVERNIGHT",
+        "display": "FedEx® Priority Overnight®"
+      },
+      {
+        "value": "FEDEX_PTP_STANDARD_OVERNIGHT",
+        "display": "FedEx® Standard Overnight®"
+      },
+      {
+        "value": "FEDEX_PTP_SECOND_DAY_AM",
+        "display": "FedEx® 2Day®A.M."
+      },
+      {
+        "value": "FEDEX_PTP_SECOND_DAY",
+        "display": "FedEx® 2Day®"
+      },
+      {
+        "value": "FEDEX_PTP_EXPRESS_SAVER",
+        "display": "FedEx® Express Saver®"
+      },
+      {
+        "value": "FEDEX_PTP_HOME_DELIVERY",
+        "display": "FedEx® Home Delivery®"
+      },
+      {
+        "value": "FEDEX_PTP_GROUND",
+        "display": "FedEx® Ground®"
+      },
+      {
+        "value": "USPS_PTP_EXP",
+        "display": "USPS® Priority Mail Express®"
+      },
+      {
+        "value": "USPS_PTP_EXP_FRE",
+        "display": "USPS® Priority Mail Express® Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_FC",
+        "display": "USPS® First Class"
+      },
+      {
+        "value": "USPS_PTP_PRI",
+        "display": "USPS® Priority Mail®"
+      },
+      {
+        "value": "USPS_PTP_PRI_FRE",
+        "display": "USPS® Priority Mail® Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_LFRB",
+        "display": "USPS® Priority Mail® Large Flat Rate Box"
+      },
+      {
+        "value": "USPS_PTP_PRI_MFRB",
+        "display": "USPS® Priority Mail® Flat Rate Box"
+      },
+      {
+        "value": "USPS_PTP_PRI_SFRB",
+        "display": "USPS® Priority Mail® Small Flat Rate Box"
+      },
+      {
+        "value": "USPS_PTP_PSBN",
+        "display": "USPS® Parcel Select"
+      },
+      {
+        "value": "UPS_PTP_GND",
+        "display": "UPS® Ground"
+      },
+      {
+        "value": "UPS_PTP_3DAY_SELECT",
+        "display": "UPS® 3 Day Select"
+      },
+      {
+        "value": "UPS_PTP_2ND_DAY_AIR",
+        "display": "UPS® 2nd Day Air"
+      },
+      {
+        "value": "UPS_PTP_NEXT_DAY_AIR",
+        "display": "UPS® Next Day Air"
+      },
+      {
+        "value": "UPS_PTP_NEXT_DAY_AIR_SAVER",
+        "display": "UPS® Next Day Air Saver"
+      },
+      {
+        "value": "STAMPS_US_PM_SFRB",
+        "display": "Stamps USPS® Priority Mail® Small Flat Rate Box"
+      },
+      {
+        "value": "STAMPS_US_PM_FRB",
+        "display": "Stamps USPS® Priority Mail® Flat Rate Box"
+      },
+      {
+        "value": "STAMPS_US_PM_LFRB",
+        "display": "Stamps USPS® Priority Mail® Large Flat Rate Box"
+      },
+      {
+        "value": "STAMPS_US_PM_FRE",
+        "display": "Stamps USPS® Priority Mail® Flat Rate Envelope"
+      },
+      {
+        "value": "STAMPS_US_FC_PACKAGE",
+        "display": "Stamps USPS® First Class Package"
+      },
+      {
+        "value": "STAMPS_US_XM_FRE",
+        "display": "Stamps USPS® Priority Mail Express® Flat Rate Envelope"
+      },
+      {
+        "value": "STAMPS_US_XM_PACKAGE",
+        "display": "Stamps USPS® Priority Mail Express® Package"
+      },
+      {
+        "value": "STAMPS_US_PM_PACKAGE",
+        "display": "Stamps USPS® Priority Mail® Package"
+      },
+      {
+        "value": "USPS_PTP_EXP_LFRE",
+        "display": "USPS Priority Mail Express® Legal Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_EXP_PFRE",
+        "display": "USPS Priority Mail Express® Padded Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_LFRE",
+        "display": "USPS Priority Mail® Legal Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_PFRE",
+        "display": "USPS Priority Mail® Padded Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_RA",
+        "display": "USPS Priority Mail Regional Rate® Box A"
+      },
+      {
+        "value": "USPS_PTP_PRI_RB",
+        "display": "USPS Priority Mail Regional Rate® Box B"
+      },
+      {
+        "value": "USPS_PTP_BPM",
+        "display": "USPS Bound Printed Matter"
+      },
+      {
+        "value": "USPS_PTP_EXP_LFRE",
+        "display": "USPS Priority Mail Express® Legal Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_EXP_PFRE",
+        "display": "USPS Priority Mail Express® Padded Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_LFRE",
+        "display": "USPS Priority Mail® Legal Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_PFRE",
+        "display": "USPS Priority Mail® Padded Flat Rate Envelope"
+      },
+      {
+        "value": "USPS_PTP_PRI_RA",
+        "display": "USPS Priority Mail Regional Rate® Box A"
+      },
+      {
+        "value": "USPS_PTP_PRI_RB",
+        "display": "USPS Priority Mail Regional Rate® Box B"
+      },
+      {
+        "value": "USPS_PTP_BPM",
+        "display": "USPS Bound Printed Matter"
+      }
+    ],
+    "nondelivery": [],
+    "delivery_confirmation": [
+      {
+        "value": "NoTracking",
+        "display": "No delivery confirmation"
+      },
+      {
+        "value": "DeliveryConfirmationWithoutSignature",
+        "display": "Delivery Confirmation"
+      },
+      {
+        "value": "DeliveryConfirmationWithSignature",
+        "display": "Signature Required"
+      },
+      {
+        "value": "DeliveryConfirmationWithAdultSignature",
+        "display": "Adult Signature Required"
+      }
+    ],
+    "reason_for_export": []
+  },
+  "dhl": {
+    "display_name": "DHL",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [
+      {
+        "display": "DHL",
+        "value": "dhl"
+      }
+    ],
+    "box_shape": [
+      {
+        "value": "FLY",
+        "display": "Flyer/Smalls"
+      },
+      {
+        "value": "COY",
+        "display": "Parcels/Conveyables"
+      },
+      {
+        "value": "NCY",
+        "display": "Non-conveyables"
+      },
+      {
+        "value": "PAL",
+        "display": "Pallets"
+      },
+      {
+        "value": "DBL",
+        "display": "Double Pallets"
+      },
+      {
+        "value": "BOX",
+        "display": "Parcels"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "0",
+        "display": "LOGISTICS SERVICES"
+      },
+      {
+        "value": "1",
+        "display": "DOMESTIC EXPRESS 12:00"
+      },
+      {
+        "value": "2",
+        "display": "B2C"
+      },
+      {
+        "value": "3",
+        "display": "B2C"
+      },
+      {
+        "value": "4",
+        "display": "JETLINE"
+      },
+      {
+        "value": "5",
+        "display": "SPRINTLINE"
+      },
+      {
+        "value": "7",
+        "display": "EXPRESS EASY"
+      },
+      {
+        "value": "8",
+        "display": "EXPRESS EASY"
+      },
+      {
+        "value": "9",
+        "display": "EUROPACK"
+      },
+      {
+        "value": "A",
+        "display": "AUTO REVERSALS"
+      },
+      {
+        "value": "B",
+        "display": "BREAKBULK EXPRESS"
+      },
+      {
+        "value": "C",
+        "display": "MEDICAL EXPRESS"
+      },
+      {
+        "value": "D",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "E",
+        "display": "EXPRESS 9:00"
+      },
+      {
+        "value": "F",
+        "display": "FREIGHT WORLDWIDE"
+      },
+      {
+        "value": "G",
+        "display": "DOMESTIC ECONOMY SELECT"
+      },
+      {
+        "value": "H",
+        "display": "ECONOMY SELECT"
+      },
+      {
+        "value": "I",
+        "display": "DOMESTIC EXPRESS 9:00"
+      },
+      {
+        "value": "J",
+        "display": "JUMBO BOX"
+      },
+      {
+        "value": "K",
+        "display": "EXPRESS 9:00"
+      },
+      {
+        "value": "L",
+        "display": "EXPRESS 10:30"
+      },
+      {
+        "value": "M",
+        "display": "EXPRESS 10:30"
+      },
+      {
+        "value": "N",
+        "display": "DOMESTIC EXPRESS"
+      },
+      {
+        "value": "O",
+        "display": "DOMESTIC EXPRESS 10:30"
+      },
+      {
+        "value": "P",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "Q",
+        "display": "MEDICAL EXPRESS"
+      },
+      {
+        "value": "R",
+        "display": "GLOBALMAIL BUSINESS"
+      },
+      {
+        "value": "S",
+        "display": "SAME DAY"
+      },
+      {
+        "value": "T",
+        "display": "EXPRESS 12:00"
+      },
+      {
+        "value": "U",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "V",
+        "display": "EUROPACK"
+      },
+      {
+        "value": "W",
+        "display": "ECONOMY SELECT"
+      },
+      {
+        "value": "X",
+        "display": "EXPRESS ENVELOPE"
+      },
+      {
+        "value": "Y",
+        "display": "EXPRESS 12:00"
+      },
+      {
+        "value": "Z",
+        "display": "Destination Charges"
+      }
+    ],
+    "nonstandard_day": [
+      {
+        "value": "AA",
+        "display": "Saturday Delivery"
+      },
+      {
+        "value": "AB",
+        "display": "Saturday Pickup"
+      },
+      {
+        "value": "AC",
+        "display": "Holiday Delivery"
+      },
+      {
+        "value": "AD",
+        "display": "Holiday Pickup"
+      },
+      {
+        "value": "AG",
+        "display": "Domestic Saturday Delivery"
+      }
+    ],
+    "nonstandard_contents": [
+      {
+        "value": "HB",
+        "display": "Lithium Ion PI965 Section II"
+      },
+      {
+        "value": "HC",
+        "display": "Dry Ice UN1845"
+      },
+      {
+        "value": "HD",
+        "display": "Lithium Ion PI965-966 Section II"
+      },
+      {
+        "value": "HE",
+        "display": "Dangerous Goods"
+      },
+      {
+        "value": "HG",
+        "display": "Perishable Cargo"
+      },
+      {
+        "value": "HH",
+        "display": "Excepted Quantity"
+      },
+      {
+        "value": "HI",
+        "display": "Spill Cleaning"
+      },
+      {
+        "value": "HK",
+        "display": "Consumer Commodities"
+      },
+      {
+        "value": "HL",
+        "display": "Limited Quantities ADR"
+      },
+      {
+        "value": "HM",
+        "display": "Lithium Metal PI969 Section II"
+      },
+      {
+        "value": "HN",
+        "display": "ADR Load Exemption"
+      },
+      {
+        "value": "HV",
+        "display": "Lithium Ion PI967-Section II"
+      },
+      {
+        "value": "HW",
+        "display": "Lithium Metal PI970-Section II"
+      },
+      {
+        "value": "HY",
+        "display": "Biological UN3373"
+      }
+    ],
+    "duty_payment_types": [
+      {
+        "value": "S",
+        "display": "Shipper"
+      },
+      {
+        "value": "R",
+        "display": "Recipient"
+      }
+    ],
+    "signature_options": [
+      {
+        "value": "SX",
+        "display": "No Signature Required"
+      },
+      {
+        "value": "",
+        "display": "Signature Required"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Permanent",
+        "value": "P"
+      },
+      {
+        "display": "Temporary",
+        "value": "T"
+      },
+      {
+        "display": "Re-Export",
+        "value": "R"
+      }
+    ]
+  },
+  "newgistics": {
+    "display_name": "Newgistics",
+    "delivery_confirmation": [
+      {
+        "display": "Delivery Confirmation",
+        "value": "DeliveryConfirmation"
+      },
+      {
+        "display": "Signature Required",
+        "value": "SignatureConfirmation"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "Priority",
+        "value": "Priority"
+      },
+      {
+        "display": "Ground",
+        "value": "Ground"
+      },
+      {
+        "display": "Express",
+        "value": "Express"
+      },
+      {
+        "display": "First Class",
+        "value": "FirstClass"
+      },
+      {
+        "display": "Bound Printed Matter",
+        "value": "BPM"
+      }
+    ],
+    "box_shape": [
+      {"display": "Parcel", "value": "PARCEL"}
+    ]
+  }
+}
