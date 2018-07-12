@@ -1857,7 +1857,7 @@
         "display": "Biological UN3373"
       }
     ],
-    "duty_payment_types": [
+    "payor": [
       {
         "value": "S",
         "display": "Shipper"
