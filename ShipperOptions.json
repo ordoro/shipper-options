@@ -1894,6 +1894,80 @@
         "display": "Re-Export",
         "value": "R"
       }
+    ],
+    "foreign_trade_regulation": [
+      {
+        "display": "30.2(d)(2)",
+        "value": "30.2(d)(2)"
+      },
+      {
+        "display": "30.36",
+        "value": "30.36"
+      },
+      {
+        "display": "30.37(a)",
+        "value": "30.37(a)"
+      },
+      {
+        "display": "30.37(b)",
+        "value": "30.37(b)"
+      },
+      {
+        "display": "30.37(e)",
+        "value": "30.37(e)"
+      },
+      {
+        "display": "30.37(f)",
+        "value": "30.37(f)"
+      },
+      {
+        "display": "30.37(g)",
+        "value": "30.37(g)"
+      },
+      {
+        "display": "30.37(h)",
+        "value": "30.37(h)"
+      },
+      {
+        "display": "30.37(i)",
+        "value": "30.37(i)"
+      },
+      {
+        "display": "30.37(k)",
+        "value": "30.37(k)"
+      },
+      {
+        "display": "30.37(o)",
+        "value": "30.37(o)"
+      },
+      {
+        "display": "30.37(q)",
+        "value": "30.37(q)"
+      },
+      {
+        "display": "30.37(r)",
+        "value": "30.37(r)"
+      },
+      {
+        "display": "30.39",
+        "value": "30.39"
+      },
+      {
+        "display": "30.40(a)",
+        "value": "30.40(a)"
+      },
+      {
+        "display": "30.40(b)",
+        "value": "30.40(b)"
+      },
+      {
+        "display": "30.40(c)",
+        "value": "30.40(c)"
+      },
+      {
+        "display": "30.40(d)",
+        "value": "30.40(d)"
+      }
     ]
   },
   "newgistics": {
