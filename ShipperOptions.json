@@ -1975,29 +1975,29 @@
     "delivery_confirmation": [
       {
         "display": "Delivery Confirmation",
-        "value": "DeliveryConfirmation"
+        "value": "DelCon"
       },
       {
         "display": "Signature Required",
-        "value": "SignatureConfirmation"
+        "value": "Sig"
       }
     ],
     "shipping_method": [
       {
         "display": "Priority",
-        "value": "Priority"
+        "value": "PM"
       },
       {
-        "display": "Ground",
-        "value": "Ground"
+        "display": "Parcel Select",
+        "value": "PRCLSEL"
       },
       {
-        "display": "Express",
-        "value": "Express"
+        "display": "Parcel Select Lightweight",
+        "value": "PSLW"
       },
       {
         "display": "First Class",
-        "value": "FirstClass"
+        "value": "FCM"
       },
       {
         "display": "Bound Printed Matter",
@@ -2005,7 +2005,7 @@
       }
     ],
     "box_shape": [
-      {"display": "Parcel", "value": "PARCEL"}
+      {"display": "Parcel", "value": "PKG"}
     ]
   }
 }
