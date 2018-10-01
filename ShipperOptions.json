@@ -191,6 +191,9 @@
   "china_post": {
     "display_name": "China Post"
   },
+  "dhl_ecommerce": {
+    "display_name": "DHL eCommerce"
+  },
   "endicia": {
     "customs_form": [
       {
