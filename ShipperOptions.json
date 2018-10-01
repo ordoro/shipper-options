@@ -191,6 +191,377 @@
   "china_post": {
     "display_name": "China Post"
   },
+  "dhl": {
+    "display_name": "DHL",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [
+      {
+        "display": "DHL",
+        "value": "dhl"
+      }
+    ],
+    "box_shape": [
+      {
+        "value": "FLY",
+        "display": "Flyer/Smalls"
+      },
+      {
+        "value": "COY",
+        "display": "Parcels/Conveyables"
+      },
+      {
+        "value": "NCY",
+        "display": "Non-conveyables"
+      },
+      {
+        "value": "PAL",
+        "display": "Pallets"
+      },
+      {
+        "value": "DBL",
+        "display": "Double Pallets"
+      },
+      {
+        "value": "BOX",
+        "display": "Parcels"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "0",
+        "display": "LOGISTICS SERVICES"
+      },
+      {
+        "value": "1",
+        "display": "DOMESTIC EXPRESS 12:00"
+      },
+      {
+        "value": "2",
+        "display": "B2C"
+      },
+      {
+        "value": "3",
+        "display": "B2C"
+      },
+      {
+        "value": "4",
+        "display": "JETLINE"
+      },
+      {
+        "value": "5",
+        "display": "SPRINTLINE"
+      },
+      {
+        "value": "7",
+        "display": "EXPRESS EASY"
+      },
+      {
+        "value": "8",
+        "display": "EXPRESS EASY"
+      },
+      {
+        "value": "9",
+        "display": "EUROPACK"
+      },
+      {
+        "value": "A",
+        "display": "AUTO REVERSALS"
+      },
+      {
+        "value": "B",
+        "display": "BREAKBULK EXPRESS"
+      },
+      {
+        "value": "C",
+        "display": "MEDICAL EXPRESS"
+      },
+      {
+        "value": "D",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "E",
+        "display": "EXPRESS 9:00"
+      },
+      {
+        "value": "F",
+        "display": "FREIGHT WORLDWIDE"
+      },
+      {
+        "value": "G",
+        "display": "DOMESTIC ECONOMY SELECT"
+      },
+      {
+        "value": "H",
+        "display": "ECONOMY SELECT"
+      },
+      {
+        "value": "I",
+        "display": "DOMESTIC EXPRESS 9:00"
+      },
+      {
+        "value": "J",
+        "display": "JUMBO BOX"
+      },
+      {
+        "value": "K",
+        "display": "EXPRESS 9:00"
+      },
+      {
+        "value": "L",
+        "display": "EXPRESS 10:30"
+      },
+      {
+        "value": "M",
+        "display": "EXPRESS 10:30"
+      },
+      {
+        "value": "N",
+        "display": "DOMESTIC EXPRESS"
+      },
+      {
+        "value": "O",
+        "display": "DOMESTIC EXPRESS 10:30"
+      },
+      {
+        "value": "P",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "Q",
+        "display": "MEDICAL EXPRESS"
+      },
+      {
+        "value": "R",
+        "display": "GLOBALMAIL BUSINESS"
+      },
+      {
+        "value": "S",
+        "display": "SAME DAY"
+      },
+      {
+        "value": "T",
+        "display": "EXPRESS 12:00"
+      },
+      {
+        "value": "U",
+        "display": "EXPRESS WORLDWIDE"
+      },
+      {
+        "value": "V",
+        "display": "EUROPACK"
+      },
+      {
+        "value": "W",
+        "display": "ECONOMY SELECT"
+      },
+      {
+        "value": "X",
+        "display": "EXPRESS ENVELOPE"
+      },
+      {
+        "value": "Y",
+        "display": "EXPRESS 12:00"
+      },
+      {
+        "value": "Z",
+        "display": "Destination Charges"
+      }
+    ],
+    "nonstandard_day": [
+      {
+        "value": "AA",
+        "display": "Saturday Delivery"
+      },
+      {
+        "value": "AB",
+        "display": "Saturday Pickup"
+      },
+      {
+        "value": "AC",
+        "display": "Holiday Delivery"
+      },
+      {
+        "value": "AD",
+        "display": "Holiday Pickup"
+      },
+      {
+        "value": "AG",
+        "display": "Domestic Saturday Delivery"
+      }
+    ],
+    "nonstandard_contents": [
+      {
+        "value": "HB",
+        "display": "Lithium Ion PI965 Section II"
+      },
+      {
+        "value": "HC",
+        "display": "Dry Ice UN1845"
+      },
+      {
+        "value": "HD",
+        "display": "Lithium Ion PI965-966 Section II"
+      },
+      {
+        "value": "HE",
+        "display": "Dangerous Goods"
+      },
+      {
+        "value": "HG",
+        "display": "Perishable Cargo"
+      },
+      {
+        "value": "HH",
+        "display": "Excepted Quantity"
+      },
+      {
+        "value": "HI",
+        "display": "Spill Cleaning"
+      },
+      {
+        "value": "HK",
+        "display": "Consumer Commodities"
+      },
+      {
+        "value": "HL",
+        "display": "Limited Quantities ADR"
+      },
+      {
+        "value": "HM",
+        "display": "Lithium Metal PI969 Section II"
+      },
+      {
+        "value": "HN",
+        "display": "ADR Load Exemption"
+      },
+      {
+        "value": "HV",
+        "display": "Lithium Ion PI967-Section II"
+      },
+      {
+        "value": "HW",
+        "display": "Lithium Metal PI970-Section II"
+      },
+      {
+        "value": "HY",
+        "display": "Biological UN3373"
+      }
+    ],
+    "payor": [
+      {
+        "value": "S",
+        "display": "Shipper"
+      },
+      {
+        "value": "R",
+        "display": "Recipient"
+      },
+      {
+        "value": "T",
+        "display": "Third Party/Other"
+      }
+    ],
+    "signature_options": [
+      {
+        "value": "SX",
+        "display": "No Signature Required"
+      },
+      {
+        "value": "",
+        "display": "Signature Required"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Permanent",
+        "value": "P"
+      },
+      {
+        "display": "Temporary",
+        "value": "T"
+      },
+      {
+        "display": "Re-Export",
+        "value": "R"
+      }
+    ],
+    "foreign_trade_regulation": [
+      {
+        "display": "30.2(d)(2)",
+        "value": "30.2(d)(2)"
+      },
+      {
+        "display": "30.36",
+        "value": "30.36"
+      },
+      {
+        "display": "30.37(a)",
+        "value": "30.37(a)"
+      },
+      {
+        "display": "30.37(b)",
+        "value": "30.37(b)"
+      },
+      {
+        "display": "30.37(e)",
+        "value": "30.37(e)"
+      },
+      {
+        "display": "30.37(f)",
+        "value": "30.37(f)"
+      },
+      {
+        "display": "30.37(g)",
+        "value": "30.37(g)"
+      },
+      {
+        "display": "30.37(h)",
+        "value": "30.37(h)"
+      },
+      {
+        "display": "30.37(i)",
+        "value": "30.37(i)"
+      },
+      {
+        "display": "30.37(k)",
+        "value": "30.37(k)"
+      },
+      {
+        "display": "30.37(o)",
+        "value": "30.37(o)"
+      },
+      {
+        "display": "30.37(q)",
+        "value": "30.37(q)"
+      },
+      {
+        "display": "30.37(r)",
+        "value": "30.37(r)"
+      },
+      {
+        "display": "30.39",
+        "value": "30.39"
+      },
+      {
+        "display": "30.40(a)",
+        "value": "30.40(a)"
+      },
+      {
+        "display": "30.40(b)",
+        "value": "30.40(b)"
+      },
+      {
+        "display": "30.40(c)",
+        "value": "30.40(c)"
+      },
+      {
+        "display": "30.40(d)",
+        "value": "30.40(d)"
+      }
+    ]
+  },
   "dhl_ecommerce": {
     "display_name": "DHL eCommerce"
   },
@@ -1601,377 +1972,6 @@
       }
     ],
     "reason_for_export": []
-  },
-  "dhl": {
-    "display_name": "DHL",
-    "customs_form": [],
-    "contents_type": [],
-    "insurance": [
-      {
-        "display": "DHL",
-        "value": "dhl"
-      }
-    ],
-    "box_shape": [
-      {
-        "value": "FLY",
-        "display": "Flyer/Smalls"
-      },
-      {
-        "value": "COY",
-        "display": "Parcels/Conveyables"
-      },
-      {
-        "value": "NCY",
-        "display": "Non-conveyables"
-      },
-      {
-        "value": "PAL",
-        "display": "Pallets"
-      },
-      {
-        "value": "DBL",
-        "display": "Double Pallets"
-      },
-      {
-        "value": "BOX",
-        "display": "Parcels"
-      }
-    ],
-    "shipping_method": [
-      {
-        "value": "0",
-        "display": "LOGISTICS SERVICES"
-      },
-      {
-        "value": "1",
-        "display": "DOMESTIC EXPRESS 12:00"
-      },
-      {
-        "value": "2",
-        "display": "B2C"
-      },
-      {
-        "value": "3",
-        "display": "B2C"
-      },
-      {
-        "value": "4",
-        "display": "JETLINE"
-      },
-      {
-        "value": "5",
-        "display": "SPRINTLINE"
-      },
-      {
-        "value": "7",
-        "display": "EXPRESS EASY"
-      },
-      {
-        "value": "8",
-        "display": "EXPRESS EASY"
-      },
-      {
-        "value": "9",
-        "display": "EUROPACK"
-      },
-      {
-        "value": "A",
-        "display": "AUTO REVERSALS"
-      },
-      {
-        "value": "B",
-        "display": "BREAKBULK EXPRESS"
-      },
-      {
-        "value": "C",
-        "display": "MEDICAL EXPRESS"
-      },
-      {
-        "value": "D",
-        "display": "EXPRESS WORLDWIDE"
-      },
-      {
-        "value": "E",
-        "display": "EXPRESS 9:00"
-      },
-      {
-        "value": "F",
-        "display": "FREIGHT WORLDWIDE"
-      },
-      {
-        "value": "G",
-        "display": "DOMESTIC ECONOMY SELECT"
-      },
-      {
-        "value": "H",
-        "display": "ECONOMY SELECT"
-      },
-      {
-        "value": "I",
-        "display": "DOMESTIC EXPRESS 9:00"
-      },
-      {
-        "value": "J",
-        "display": "JUMBO BOX"
-      },
-      {
-        "value": "K",
-        "display": "EXPRESS 9:00"
-      },
-      {
-        "value": "L",
-        "display": "EXPRESS 10:30"
-      },
-      {
-        "value": "M",
-        "display": "EXPRESS 10:30"
-      },
-      {
-        "value": "N",
-        "display": "DOMESTIC EXPRESS"
-      },
-      {
-        "value": "O",
-        "display": "DOMESTIC EXPRESS 10:30"
-      },
-      {
-        "value": "P",
-        "display": "EXPRESS WORLDWIDE"
-      },
-      {
-        "value": "Q",
-        "display": "MEDICAL EXPRESS"
-      },
-      {
-        "value": "R",
-        "display": "GLOBALMAIL BUSINESS"
-      },
-      {
-        "value": "S",
-        "display": "SAME DAY"
-      },
-      {
-        "value": "T",
-        "display": "EXPRESS 12:00"
-      },
-      {
-        "value": "U",
-        "display": "EXPRESS WORLDWIDE"
-      },
-      {
-        "value": "V",
-        "display": "EUROPACK"
-      },
-      {
-        "value": "W",
-        "display": "ECONOMY SELECT"
-      },
-      {
-        "value": "X",
-        "display": "EXPRESS ENVELOPE"
-      },
-      {
-        "value": "Y",
-        "display": "EXPRESS 12:00"
-      },
-      {
-        "value": "Z",
-        "display": "Destination Charges"
-      }
-    ],
-    "nonstandard_day": [
-      {
-        "value": "AA",
-        "display": "Saturday Delivery"
-      },
-      {
-        "value": "AB",
-        "display": "Saturday Pickup"
-      },
-      {
-        "value": "AC",
-        "display": "Holiday Delivery"
-      },
-      {
-        "value": "AD",
-        "display": "Holiday Pickup"
-      },
-      {
-        "value": "AG",
-        "display": "Domestic Saturday Delivery"
-      }
-    ],
-    "nonstandard_contents": [
-      {
-        "value": "HB",
-        "display": "Lithium Ion PI965 Section II"
-      },
-      {
-        "value": "HC",
-        "display": "Dry Ice UN1845"
-      },
-      {
-        "value": "HD",
-        "display": "Lithium Ion PI965-966 Section II"
-      },
-      {
-        "value": "HE",
-        "display": "Dangerous Goods"
-      },
-      {
-        "value": "HG",
-        "display": "Perishable Cargo"
-      },
-      {
-        "value": "HH",
-        "display": "Excepted Quantity"
-      },
-      {
-        "value": "HI",
-        "display": "Spill Cleaning"
-      },
-      {
-        "value": "HK",
-        "display": "Consumer Commodities"
-      },
-      {
-        "value": "HL",
-        "display": "Limited Quantities ADR"
-      },
-      {
-        "value": "HM",
-        "display": "Lithium Metal PI969 Section II"
-      },
-      {
-        "value": "HN",
-        "display": "ADR Load Exemption"
-      },
-      {
-        "value": "HV",
-        "display": "Lithium Ion PI967-Section II"
-      },
-      {
-        "value": "HW",
-        "display": "Lithium Metal PI970-Section II"
-      },
-      {
-        "value": "HY",
-        "display": "Biological UN3373"
-      }
-    ],
-    "payor": [
-      {
-        "value": "S",
-        "display": "Shipper"
-      },
-      {
-        "value": "R",
-        "display": "Recipient"
-      },
-      {
-        "value": "T",
-        "display": "Third Party/Other"
-      }
-    ],
-    "signature_options": [
-      {
-        "value": "SX",
-        "display": "No Signature Required"
-      },
-      {
-        "value": "",
-        "display": "Signature Required"
-      }
-    ],
-    "reason_for_export": [
-      {
-        "display": "Permanent",
-        "value": "P"
-      },
-      {
-        "display": "Temporary",
-        "value": "T"
-      },
-      {
-        "display": "Re-Export",
-        "value": "R"
-      }
-    ],
-    "foreign_trade_regulation": [
-      {
-        "display": "30.2(d)(2)",
-        "value": "30.2(d)(2)"
-      },
-      {
-        "display": "30.36",
-        "value": "30.36"
-      },
-      {
-        "display": "30.37(a)",
-        "value": "30.37(a)"
-      },
-      {
-        "display": "30.37(b)",
-        "value": "30.37(b)"
-      },
-      {
-        "display": "30.37(e)",
-        "value": "30.37(e)"
-      },
-      {
-        "display": "30.37(f)",
-        "value": "30.37(f)"
-      },
-      {
-        "display": "30.37(g)",
-        "value": "30.37(g)"
-      },
-      {
-        "display": "30.37(h)",
-        "value": "30.37(h)"
-      },
-      {
-        "display": "30.37(i)",
-        "value": "30.37(i)"
-      },
-      {
-        "display": "30.37(k)",
-        "value": "30.37(k)"
-      },
-      {
-        "display": "30.37(o)",
-        "value": "30.37(o)"
-      },
-      {
-        "display": "30.37(q)",
-        "value": "30.37(q)"
-      },
-      {
-        "display": "30.37(r)",
-        "value": "30.37(r)"
-      },
-      {
-        "display": "30.39",
-        "value": "30.39"
-      },
-      {
-        "display": "30.40(a)",
-        "value": "30.40(a)"
-      },
-      {
-        "display": "30.40(b)",
-        "value": "30.40(b)"
-      },
-      {
-        "display": "30.40(c)",
-        "value": "30.40(c)"
-      },
-      {
-        "display": "30.40(d)",
-        "value": "30.40(d)"
-      }
-    ]
   },
   "newgistics": {
     "display_name": "Newgistics",
