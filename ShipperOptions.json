@@ -1563,6 +1563,163 @@
       }
     ]
   },
+  "pitney_merchant": {
+    "display_name": "USPS",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
+    "box_shape": [
+      {
+        "value": "SFRB",
+        "display": "Small Flat Rate Box"
+      },
+      {
+        "value": "FRB",
+        "display": "Medium Flat Rate Box"
+      },
+      {
+        "value": "LFRB",
+        "display": "Large Flat Rate Box"
+      },
+      {
+        "value": "PKG",
+        "display": "Parcel"
+      },
+      {
+        "value": "LETTER",
+        "display": "Letter"
+      },
+      {
+        "value": "FRE",
+        "display": "Flat Rate Envelope"
+      },
+      {
+        "value": "LGLFRENV",
+        "display": "Flat Rate Legal Envelope"
+      },
+      {
+        "value": "PFRENV",
+        "display": "Flat Rate Padded Envelope"
+      },
+      {
+        "value": "RBA",
+        "display": "Regional Rate Box A"
+      },
+      {
+        "value": "RBB",
+        "display": "Regional Rate Box B"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "FCM",
+        "display": "First-Class Mail"
+      },
+      {
+        "value": "PM",
+        "display": "Priority Mail"
+      },
+      {
+        "value": "PMC",
+        "display": "Priority Mail Cubic"
+      },
+      {
+        "value": "EM",
+        "display": "Express Mail"
+      },
+      {
+        "value": "STDPOST",
+        "display": "Standard Post"
+      },
+      {
+        "value": "PRCLSEL",
+        "display": "Parcel Select Ground"
+      },
+      {
+        "value": "MEDIA",
+        "display": "Media Mail"
+      },
+      {
+        "value": "LIB",
+        "display": "Library Mail"
+      },
+      {
+        "value": "FCMI",
+        "display": "First-Class Mail International"
+      },
+      {
+        "value": "FCPIS",
+        "display": "First-Class Package International"
+      },
+      {
+        "value": "EMI",
+        "display": "Priority Mail Express International"
+      },
+      {
+        "value": "PMI",
+        "display": "Priority Mail International"
+      }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return",
+        "value": "return"
+      },
+      {
+        "display": "Abandon",
+        "value": "abandon"
+      },
+      {
+        "display": "Reject",
+        "value": "reject"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "None"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "DelCon"
+      },
+      {
+        "display": "Signature Required",
+        "value": "Sig"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
+    ]
+  },
   "amazon": {
     "display_name": "Amazon",
     "customs_form": [],
