@@ -2166,6 +2166,36 @@
     ],
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
+    ],
+    "nondelivery": [
+      {
+        "value": "AddressServiceRequested",
+        "display": "Address Service Requested"
+      },
+      {
+        "value": "AddressServiceRequestedBPRS",
+        "display": "Address Service Requested (BPRS)"
+      },
+      {
+        "value": "ReturnServiceRequested",
+        "display": "Return Service Requested"
+      },
+      {
+        "value": "ReturnServiceRequestedBPRS",
+        "display": "Return Service Requested (BPRS)"
+      },
+      {
+        "value": "ChangeServiceRequested",
+        "display": "Change Service Requested"
+      },
+      {
+        "value": "ForwardingServiceRequested",
+        "display": "Forwarding Service Requested"
+      },
+      {
+        "value": "ElectronicServiceRequested",
+        "display": "Electronic Service Requested"
+      }
     ]
   }
 }
