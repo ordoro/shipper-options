@@ -1,0 +1,8 @@
+steps:
+- id: Build Docker Image
+  name: 'gcr.io/cloud-builders/docker'
+  args: ["build", "-t", "gcr.io/ordoro-dev/shipper-options:test", "--file", "Dockerfile", "."]
+
+- id: Run Tests
+  name: 'gcr.io/cloud-builders/docker'
+  args: ['run', '--tty', 'gcr.io/$PROJECT_ID/$REPO_NAME:test', 'npm', 'test']
