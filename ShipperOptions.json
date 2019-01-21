@@ -747,6 +747,10 @@
       {
         "display": "Adult Signature Restricted Delivery",
         "value": "AdultSignatureRestrictedDelivery"
+      },
+      {
+        "display": "Signature Restricted Delivery",
+        "value": "RestrictedDelivery"
       }
     ]
   },
