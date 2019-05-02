@@ -1965,6 +1965,26 @@
         "display": "FedEx® Ground®"
       },
       {
+        "value": "FEDEX_PTP_PRIORITY_OVERNIGHT_ONE_RATE",
+        "display": "FedEx® Priority Overnight® One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_STANDARD_OVERNIGHT_ONE_RATE",
+        "display": "FedEx® Standard Overnight® One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_SECOND_DAY_AM_ONE_RATE",
+        "display": "FedEx® 2Day®A.M. One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_SECOND_DAY_ONE_RATE",
+        "display": "FedEx® 2Day® One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_EXPRESS_SAVER_ONE_RATE",
+        "display": "FedEx® Express Saver®"
+      },
+      {
         "value": "USPS_PTP_EXP",
         "display": "USPS® Priority Mail Express®"
       },
