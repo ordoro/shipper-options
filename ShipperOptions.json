@@ -1946,7 +1946,7 @@
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY_AM",
-        "display": "FedEx® 2Day®A.M."
+        "display": "FedEx® 2Day® A.M."
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY",
@@ -1974,7 +1974,7 @@
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY_AM_ONE_RATE",
-        "display": "FedEx® 2Day®A.M. One Rate®"
+        "display": "FedEx® 2Day® A.M. One Rate®"
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY_ONE_RATE",
@@ -1982,7 +1982,7 @@
       },
       {
         "value": "FEDEX_PTP_EXPRESS_SAVER_ONE_RATE",
-        "display": "FedEx® Express Saver®"
+        "display": "FedEx® Express Saver® One Rate®"
       },
       {
         "value": "USPS_PTP_EXP",
