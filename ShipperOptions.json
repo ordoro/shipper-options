@@ -2154,6 +2154,22 @@
     ],
     "reason_for_export": []
   },
+  "amazon_shipper": {
+    "display_name": "Amazon Shipping",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [],
+    "box_shape": [],
+    "shipping_method": [
+      {
+        "value": "std-us-swa-mfn",
+        "display": "Amazon Shipping Ground"
+      }
+    ],
+    "nondelivery": [],
+    "delivery_confirmation": [],
+    "reason_for_export": []
+  },
   "newgistics": {
     "display_name": "Newgistics",
     "delivery_confirmation": [
