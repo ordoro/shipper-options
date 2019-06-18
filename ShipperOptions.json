@@ -2159,7 +2159,12 @@
     "customs_form": [],
     "contents_type": [],
     "insurance": [],
-    "box_shape": [],
+    "box_shape": [
+      {
+        "value": "CUSTOM_PACKAGE",
+        "display": "Custom Packaging"
+      }
+    ],
     "shipping_method": [
       {
         "value": "std-us-swa-mfn",
