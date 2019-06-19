@@ -2156,9 +2156,6 @@
   },
   "amazon_shipper": {
     "display_name": "Amazon Shipping",
-    "customs_form": [],
-    "contents_type": [],
-    "insurance": [],
     "box_shape": [
       {
         "value": "CUSTOM_PACKAGE",
@@ -2171,9 +2168,32 @@
         "display": "Amazon Shipping Ground"
       }
     ],
-    "nondelivery": [],
-    "delivery_confirmation": [],
-    "reason_for_export": []
+    "shipping_purpose": [
+      {
+        "value": "SALE",
+        "display": "Sale"
+      },
+      {
+        "value": "STOCK_TRANSFER",
+        "display": "Stock Transfer"
+      },
+      {
+        "value": "RETURN",
+        "display": "Return"
+      },
+      {
+        "value": "PERSONAL",
+        "display": "Personal"
+      },
+      {
+        "value": "GIFT",
+        "display": "Gift"
+      },
+      {
+        "value": "SAMPLE",
+        "display": "Sample"
+      }
+    ]
   },
   "newgistics": {
     "display_name": "Newgistics",
