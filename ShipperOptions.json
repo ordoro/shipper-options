@@ -1737,7 +1737,7 @@
     ]
   },
   "amazon": {
-    "display_name": "Amazon",
+    "display_name": "Amazon SFP",
     "customs_form": [],
     "contents_type": [],
     "insurance": [],
@@ -2143,6 +2143,10 @@
       {
         "value": "ONTRAC_MFN_GROUND",
         "display": "OnTrac MFN Ground"
+      },
+      {
+        "value": "std-us-swa-mfn",
+        "display": "Amazon Shipping Ground"
       }
     ],
     "nondelivery": [],
@@ -2168,19 +2172,44 @@
   },
   "amazon_shipper": {
     "display_name": "Amazon Shipping",
-    "customs_form": [],
-    "contents_type": [],
-    "insurance": [],
-    "box_shape": [],
+    "box_shape": [
+      {
+        "value": "CUSTOM_PACKAGE",
+        "display": "Custom Packaging"
+      }
+    ],
     "shipping_method": [
       {
         "value": "std-us-swa-mfn",
         "display": "Amazon Shipping Ground"
       }
     ],
-    "nondelivery": [],
-    "delivery_confirmation": [],
-    "reason_for_export": []
+    "shipping_purpose": [
+      {
+        "value": "SALE",
+        "display": "Sale"
+      },
+      {
+        "value": "STOCK_TRANSFER",
+        "display": "Stock Transfer"
+      },
+      {
+        "value": "RETURN",
+        "display": "Return"
+      },
+      {
+        "value": "PERSONAL",
+        "display": "Personal"
+      },
+      {
+        "value": "GIFT",
+        "display": "Gift"
+      },
+      {
+        "value": "SAMPLE",
+        "display": "Sample"
+      }
+    ]
   },
   "newgistics": {
     "display_name": "Newgistics",
