@@ -1212,9 +1212,21 @@
       {
         "display": "UPS 25 KG Box®",
         "value": "24"
+      },
+      {
+        "display": "Flats",
+        "value": "56"
+      },
+      {
+        "display": "Parcels",
+        "value": "57"
       }
     ],
     "box_shape_mail_innovations": [
+      {
+        "display": "BPM",
+        "value": "58"
+      },
       {
         "display": "First Class",
         "value": "59"
