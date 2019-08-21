@@ -2278,5 +2278,142 @@
         "display": "Electronic Service Requested"
       }
     ]
+  },
+  "visible_usps": {
+    "display_name": "USPS",
+    "box_shape": [
+      {
+        "value": "SmallFlatRateBox",
+        "display": "Small Flat Rate Box"
+      },
+      {
+        "value": "MediumFlatRateBox",
+        "display": "Medium Flat Rate Box"
+      },
+      {
+        "value": "LargeFlatRateBox",
+        "display": "Large Flat Rate Box"
+      },
+      {
+        "value": "LargeFlatRateBoxAPO",
+        "display": "Large Flat Rate Box APO"
+      },
+      {
+        "value": "Package",
+        "display": "Parcel"
+      },
+      {
+        "value": "OversizedParcel",
+        "display": "Oversized Parcel"
+      },
+      {
+        "value": "Letter",
+        "display": "Letter"
+      },
+      {
+        "value": "Softpack",
+        "display": "Softpack"
+      },
+      {
+        "value": "Flat",
+        "display": "Flat"
+      },
+      {
+        "value": "Envelope",
+        "display": "Envelope"
+      },
+      {
+        "value": "FlatRateEnvelope",
+        "display": "Flat Rate Envelope"
+      },
+      {
+        "value": "LegalFlatRateEnvelope",
+        "display": "Flat Rate Legal Envelope"
+      },
+      {
+        "value": "PaddedFlatRateEnvelope",
+        "display": "Flat Rate Padded Envelope"
+      },
+      {
+        "value": "RegionalRateBoxA",
+        "display": "Regional Rate Box A"
+      },
+      {
+        "value": "RegionalRateBoxB",
+        "display": "Regional Rate Box B"
+      },
+      {
+        "value": "RegionalRateBoxC",
+        "display": "Regional Rate Box C"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "FirstClassMail",
+        "display": "First-Class Mail"
+      },
+      {
+        "value": "PriorityMail",
+        "display": "Priority Mail"
+      },
+      {
+        "value": "ExpressMail",
+        "display": "Priority Mail Express"
+      },
+      {
+        "value": "ParcelPost",
+        "display": "Standard Post"
+      },
+      {
+        "value": "USPSParcelSelectGround",
+        "display": "Parcel Select Ground"
+      },
+      {
+        "value": "ReturnsService",
+        "display": "Returns Service"
+      },
+      {
+        "value": "MediaMail",
+        "display": "Media Mail"
+      },
+      {
+        "value": "LibraryMail",
+        "display": "Library Mail"
+      },
+      {
+        "value": "FirstClassMailInternational",
+        "display": "First-Class Mail International"
+      },
+      {
+        "value": "FirstClassPackageInternational",
+        "display": "First-Class Package International"
+      },
+      {
+        "value": "ExpressMailInternational",
+        "display": "Priority Mail Express International"
+      },
+      {
+        "value": "PriorityMailInternational",
+        "display": "Priority Mail International"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "None"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "REQUIRE_CONFIRMATION"
+      },
+      {
+        "display": "Signature Required",
+        "value": "REQUIRE_SIGNATURE"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "REQUIRE_ADULT_SIGNATURE"
+      }
+    ]
   }
 }
