@@ -2404,15 +2404,15 @@
       },
       {
         "display": "Delivery Confirmation",
-        "value": "REQUIRE_CONFIRMATION"
+        "value": "DELIVERY CONFIRMATION"
       },
       {
         "display": "Signature Required",
-        "value": "REQUIRE_SIGNATURE"
+        "value": "SIGNATURE CONFIRMATION"
       },
       {
         "display": "Adult Signature Required",
-        "value": "REQUIRE_ADULT_SIGNATURE"
+        "value": "ADULT SIGNATURE REQUIRED"
       }
     ]
   }
