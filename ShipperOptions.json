@@ -2414,6 +2414,32 @@
         "display": "Adult Signature Required",
         "value": "ADULT SIGNATURE REQUIRED"
       }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
     ]
   }
 }
