@@ -2303,20 +2303,8 @@
         "display": "Parcel"
       },
       {
-        "value": "OversizedParcel",
-        "display": "Oversized Parcel"
-      },
-      {
         "value": "Letter",
         "display": "Letter"
-      },
-      {
-        "value": "Softpack",
-        "display": "Softpack"
-      },
-      {
-        "value": "Flat",
-        "display": "Flat"
       },
       {
         "value": "Envelope",
@@ -2341,10 +2329,6 @@
       {
         "value": "RegionalRateBoxB",
         "display": "Regional Rate Box B"
-      },
-      {
-        "value": "RegionalRateBoxC",
-        "display": "Regional Rate Box C"
       }
     ],
     "shipping_method": [
