@@ -3,7 +3,27 @@
     "display_name": "Other"
   },
   "australia_post": {
-    "display_name": "Australia Post"
+    "display_name": "Australia Post",
+    "box_shape": [
+      {"display": "Parcel", "value": "PKG"}
+    ],
+    "shipping_method": [
+      {"display": "Express Post", "value": "ExpressPost"},
+      {"display": "Express Post w/ Signature", "value": "ExpressPostSignature"},
+      {"display": "Parcel Post", "value": "ParcelPost"},
+      {"display": "Parcel Post w/ Signature", "value": "ParcelPostSignature"},
+      {"display": "Parcel Post Extra", "value": "ParcelPostExtra"},
+      {"display": "Parcel Post Wine + Signature", "value": "ParcelPostWinePlusSignature"},
+      {"display": "Priority", "value": "Priority", "comment": "Added so we can get rates from EasyPost"}
+    ],
+    "reason_for_export": [
+      {"display": "Merchandise", "value": "merchandise"},
+      {"display": "Documents", "value": "documents"},
+      {"display": "Gift", "value": "gift"},
+      {"display": "Returned Goods", "value": "returned_goods"},
+      {"display": "Commercial Sample", "value": "sample"},
+      {"display": "Other", "value": "other" }
+    ]
   },
   "canada_post": {
     "service_option": [
