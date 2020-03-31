@@ -1150,6 +1150,32 @@
         "value": "REPORTABLE_QUANTITIES",
         "display": "Reportable Quantities (Air)"
       }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
     ]
   },
   "ontrac": {
@@ -1433,6 +1459,40 @@
       {
         "value": "4",
         "display": "Change Service Requested"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Sale",
+        "value": "SALE"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURN"
+      },
+      {
+        "display": "Repaired Goods",
+        "value": "REPAIR"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "SAMPLE"
+      },
+      {
+        "display": "Inter-Company Data",
+        "value": "INTERCOMPANYDATA"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
       }
     ]
   },
