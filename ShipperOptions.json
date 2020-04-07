@@ -1153,28 +1153,28 @@
     ],
     "reason_for_export": [
       {
-        "display": "Merchandise",
-        "value": "MERCHANDISE"
+        "display": "Sold",
+        "value": "SOLD"
       },
       {
-        "display": "Documents",
-        "value": "DOCUMENTS"
+        "display": "Not Sold",
+        "value": "NOT_SOLD"
+      },
+      {
+        "display": "Personal Effects",
+        "value": "PERSONAL_EFFECTS"
       },
       {
         "display": "Gift",
         "value": "GIFT"
       },
       {
-        "display": "Returned Goods",
-        "value": "RETURNED_GOODS"
+        "display": "Repair And Return",
+        "value": "REPAIR_AND_RETURN"
       },
       {
         "display": "Commercial Sample",
-        "value": "COMMERCIAL_SAMPLE"
-      },
-      {
-        "display": "Other",
-        "value": "OTHER"
+        "value": "SAMPLE"
       }
     ]
   },
@@ -1469,10 +1469,6 @@
       {
         "display": "Gift",
         "value": "GIFT"
-      },
-      {
-        "display": "Documents",
-        "value": "DOCUMENTS"
       },
       {
         "display": "Returned Goods",
