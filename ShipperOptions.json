@@ -2189,34 +2189,6 @@
         "display": "USPS Bound Printed Matter"
       },
       {
-        "value": "USPS_PTP_EXP_LFRE",
-        "display": "USPS Priority Mail Express® Legal Flat Rate Envelope"
-      },
-      {
-        "value": "USPS_PTP_EXP_PFRE",
-        "display": "USPS Priority Mail Express® Padded Flat Rate Envelope"
-      },
-      {
-        "value": "USPS_PTP_PRI_LFRE",
-        "display": "USPS Priority Mail® Legal Flat Rate Envelope"
-      },
-      {
-        "value": "USPS_PTP_PRI_PFRE",
-        "display": "USPS Priority Mail® Padded Flat Rate Envelope"
-      },
-      {
-        "value": "USPS_PTP_PRI_RA",
-        "display": "USPS Priority Mail Regional Rate® Box A"
-      },
-      {
-        "value": "USPS_PTP_PRI_RB",
-        "display": "USPS Priority Mail Regional Rate® Box B"
-      },
-      {
-        "value": "USPS_PTP_BPM",
-        "display": "USPS Bound Printed Matter"
-      },
-      {
         "value": "ONTRAC_MFN_GROUND",
         "display": "OnTrac MFN Ground"
       },
