@@ -2089,6 +2089,10 @@
         "display": "USPS® Priority Mail®"
       },
       {
+        "value": "USPS_PTP_PRI_CUBIC",
+        "display": "USPS® Priority Mail® Cubic"
+      },
+      {
         "value": "USPS_PTP_PRI_FRE",
         "display": "USPS® Priority Mail® Flat Rate Envelope"
       },
