@@ -1824,44 +1824,12 @@
     ],
     "box_shape": [
       {
-        "value": "SFRB",
-        "display": "Small Flat Rate Box"
-      },
-      {
-        "value": "FRB",
-        "display": "Medium Flat Rate Box"
-      },
-      {
-        "value": "LFRB",
-        "display": "Large Flat Rate Box"
-      },
-      {
         "value": "PKG",
         "display": "Parcel"
       },
       {
-        "value": "LETTER",
-        "display": "Letter"
-      },
-      {
-        "value": "FRE",
-        "display": "Flat Rate Envelope"
-      },
-      {
-        "value": "LGLFRENV",
-        "display": "Flat Rate Legal Envelope"
-      },
-      {
-        "value": "PFRENV",
-        "display": "Flat Rate Padded Envelope"
-      },
-      {
-        "value": "RBA",
-        "display": "Regional Rate Box A"
-      },
-      {
-        "value": "RBB",
-        "display": "Regional Rate Box B"
+        "value": "LGENV",
+        "display": "Large Envelope"
       }
     ],
     "shipping_method": [
@@ -1871,7 +1839,7 @@
       },
       {
         "value": "BPM",
-        "display": "Bulk Priority Mail"
+        "display": "Bound Printed Matter"
       }
     ],
     "nondelivery": [
