@@ -1896,10 +1896,6 @@
       {
         "display": "Delivery Confirmation",
         "value": "DelCon"
-      },
-      {
-        "display": "Signature Required",
-        "value": "Sig"
       }
     ],
     "reason_for_export": [
