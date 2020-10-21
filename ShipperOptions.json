@@ -2038,8 +2038,16 @@
         "display": "FedEx® Standard Overnight®"
       },
       {
+        "value": "FEDEX_PTP_PRI_OVERNIGHT_SAT",
+        "display": "FedEx® Priority Overnight® (Saturday)"
+      },
+      {
         "value": "FEDEX_PTP_SECOND_DAY_AM",
         "display": "FedEx® 2Day® A.M."
+      },
+      {
+        "value": "FEDEX_PTP_SECOND_DAY_SAT",
+        "display": "FedEx® 2Day® (Saturday)."
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY",
@@ -2062,12 +2070,20 @@
         "display": "FedEx® Priority Overnight® One Rate®"
       },
       {
+        "value": "FEDEX_PTP_PRI_OVERN_ONE_R_SAT",
+        "display": "FedEx® Priority Overnight® One Rate® (Saturday)"
+      },
+      {
         "value": "FEDEX_PTP_STANDARD_OVERNIGHT_ONE_RATE",
         "display": "FedEx® Standard Overnight® One Rate®"
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY_AM_ONE_RATE",
         "display": "FedEx® 2Day® A.M. One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_SEC_DAY_ONE_RATE_SAT",
+        "display": "FedEx® 2Day® One Rate® (Saturday)"
       },
       {
         "value": "FEDEX_PTP_SECOND_DAY_ONE_RATE",
