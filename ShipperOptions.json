@@ -14,6 +14,11 @@
       {"display": "Parcel Post w/ Signature", "value": "ParcelPostSignature"},
       {"display": "Parcel Post Extra", "value": "ParcelPostExtra"},
       {"display": "Parcel Post Wine + Signature", "value": "ParcelPostWinePlusSignature"},
+      {"display": "INTL EXPRESS", "value": "IntlExpressMerchEciMerch"},
+      {"display": "INTL ECONOMY W SOD/ REGD POST", "value": "IntlEconomyWSodRegdPost"},
+      {"display": "INTL ECONOMY AIRMAIL PARCELS", "value": "IntlEconomyAirmailParcels"},
+      {"display": "INTL STANDARD PACK TRACK", "value": "IntlStandardPackTrack"},
+      {"display": "APGL WW", "value": "ApglWw"},
       {"display": "Priority", "value": "Priority", "comment": "Added so we can get rates from EasyPost"}
     ],
     "reason_for_export": [
