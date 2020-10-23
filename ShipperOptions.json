@@ -1817,6 +1817,87 @@
       }
     ]
   },
+  "pitney_presort": {
+    "display_name": "USPS Presort",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
+    "box_shape": [
+      {
+        "value": "PKG",
+        "display": "Parcel"
+      },
+      {
+        "value": "LGENV",
+        "display": "Large Envelope"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "STANDARD",
+        "display": "Standard Mail"
+      },
+      {
+        "value": "BPM",
+        "display": "Bound Printed Matter"
+      }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return",
+        "value": "return"
+      },
+      {
+        "display": "Abandon",
+        "value": "abandon"
+      },
+      {
+        "display": "Reject",
+        "value": "reject"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "No delivery confirmation",
+        "value": "None"
+      },
+      {
+        "display": "Delivery Confirmation",
+        "value": "DelCon"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
+    ]
+  },
   "amazon": {
     "display_name": "Amazon SFP",
     "customs_form": [],
