@@ -28,6 +28,16 @@
       {"display": "Returned Goods", "value": "returned_goods"},
       {"display": "Commercial Sample", "value": "sample"},
       {"display": "Other", "value": "other" }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "Signature",
+        "value": "SIGNATURE"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "ADULT_SIGNATURE"
+      },
     ]
   },
   "canada_post": {
