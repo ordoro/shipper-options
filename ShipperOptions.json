@@ -1641,6 +1641,14 @@
       {
         "display": "Signature Required",
         "value": "Sig"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "ADSIG"
+      },
+      {
+        "display": "Adult Signature Restricted Delivery",
+        "value": "ADSIGRD"
       }
     ],
     "reason_for_export": [
