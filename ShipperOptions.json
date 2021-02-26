@@ -2197,6 +2197,10 @@
         "display": "USPS® Priority Mail Express®"
       },
       {
+        "value": "USPS_PTP_EXP_CUSTOMS",
+        "display": "USPS® Priority Mail Express (Customs)"
+      },
+      {
         "value": "USPS_PTP_EXP_FRE",
         "display": "USPS® Priority Mail Express® Flat Rate Envelope"
       },
@@ -2205,8 +2209,16 @@
         "display": "USPS® First Class"
       },
       {
+        "value": "USPS_PTP_FC_CUSTOMS",
+        "display": "USPS® First Class (Customs)"
+      },
+      {
         "value": "USPS_PTP_PRI",
         "display": "USPS® Priority Mail®"
+      },
+      {
+        "value": "USPS_PTP_PRI_CUSTOMS",
+        "display": "USPS® Priority Mail® (Customs)"
       },
       {
         "value": "USPS_PTP_PRI_CUBIC",
@@ -2219,6 +2231,10 @@
       {
         "value": "USPS_PTP_PRI_LFRB",
         "display": "USPS® Priority Mail® Large Flat Rate Box"
+      },
+      {
+        "value": "USPS_PTP_PRI_LFRB_CUSTOMS",
+        "display": "USPS® Priority Mail® Large Flat Rate Box (Customs)"
       },
       {
         "value": "USPS_PTP_PRI_MFRB",
