@@ -739,6 +739,14 @@
       {
         "display": "Priority Mail International",
         "value": "PriorityMailInternational"
+      },
+      {
+        "display": "GlobalPost Economy",
+        "value": "GlobalPostEconomy"
+      },
+      {
+        "display": "GlobalPost Priority",
+        "value": "GlobalPostPriority"
       }
     ],
     "nondelivery": [
