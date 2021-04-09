@@ -61,4 +61,5 @@ typings/
 .next
 
 # python shit
-__pycache__
+*.pyc
+
