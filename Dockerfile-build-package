@@ -1,0 +1,10 @@
+FROM ordoro/python-build-package:latest
+
+COPY shipper_options /app/shipper_options
+COPY setup.py /app/setup.py
+COPY package.json /app/shipper_options/package.json
+COPY ShipperOptions.json /app/shipper_options/ShipperOptions.json
+
+WORKDIR /app
+
+CMD ["/app/build-and-upload-package.sh"]
