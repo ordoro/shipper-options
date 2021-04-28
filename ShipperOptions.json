@@ -2621,5 +2621,28 @@
         "value": "OTHER"
       }
     ]
+  },
+  "onelivex": {
+    "display_name": "X Delivery",
+    "box_shape": [
+      {"display": "Parcel", "value": "PKG"}
+    ],
+    "shipping_method": [
+      {"display": "Standard", "value": "standard"}
+    ],
+    "controlled_substance": [
+      {"display": "Tobacco", "value": "tobacco"},
+      {"display": "Flavored Tobacco", "value": "flavored_tobacco"}
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "Signature",
+        "value": "signature_required"
+      },
+      {
+        "display": "Over 21 Signature Required",
+        "value": "21_signature_required"
+      }
+    ]
   }
 }
