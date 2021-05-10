@@ -2473,6 +2473,52 @@
         "value": "ElectronicServiceRequested",
         "display": "Electronic Service Requested"
       }
+    ],
+    "dangerous_goods": [
+      {
+        "value": "Explosives",
+        "display": "Explosives"
+      },
+      {
+        "value": "Gases",
+        "display": "Gases"
+      },
+      {
+        "value": "FlammableCombustibleLiquids",
+        "display": "Flammable Combustible Liquids"
+      },
+      {
+        "value": "FlammableSolids",
+        "display": "Flammable Solids"
+      },
+      {
+        "value": "OxidizingSubstancesOrganicPeroxides",
+        "display": "Oxidizing Substances Organic Peroxides"
+      },
+      {
+        "value": "ToxicSubstancesAndInfectiousSubstances",
+        "display": "Toxic Substances And Infectious Substances"
+      },
+      {
+        "value": "RadioactiveMaterial",
+        "display": "Radioactive Material"
+      },
+      {
+        "value": "Corrosives",
+        "display": "Corrosives"
+      },
+      {
+        "value": "ORMD",
+        "display": "ORM-D"
+      },
+      {
+        "value": "ConsumerCommodities",
+        "display": "Consumer Commodities"
+      },
+      {
+        "value": "MiscellaneousHazardousMaterial",
+        "display": "Miscellaneous Hazardous Material"
+      }
     ]
   },
   "visible_usps": {
