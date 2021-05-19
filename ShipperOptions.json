@@ -1289,6 +1289,26 @@
       {
         "display": "Parcels",
         "value": "57"
+      },
+      {
+        "display": "Simple Rate Extra Small",
+        "value": "XS"
+      },
+      {
+        "display": "Simple Rate Small",
+        "value": "S"
+      },
+      {
+        "display": "Simple Rate Medium",
+        "value": "M"
+      },
+      {
+        "display": "Simple Rate Large",
+        "value": "L"
+      },
+      {
+        "display": "Simple Rate Extra Large",
+        "value": "XL"
       }
     ],
     "box_shape_mail_innovations": [
