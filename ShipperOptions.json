@@ -2710,5 +2710,24 @@
         "value": "21_signature_required"
       }
     ]
+  },
+  "sendle": {
+    "display_name": "Sendle",
+    "box_shape": [
+      {"display": "Parcel", "value": "PKG"}
+    ],
+    "shipping_method": [
+      {"display": "Standard", "value": "standard"}
+    ],
+    "first_mile_option": [
+      {
+        "display": "Pickup",
+        "value": "pickup"
+      },
+      {
+        "display": "Drop Off",
+        "value": "drop off"
+      }
+    ]
   }
 }
