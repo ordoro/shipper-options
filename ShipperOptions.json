@@ -2717,7 +2717,7 @@
       {"display": "Parcel", "value": "PKG"}
     ],
     "shipping_method": [
-      {"display": "Standard", "value": "standard"}
+      {"display": "Easy", "value": "Easy"}
     ],
     "first_mile_option": [
       {
