@@ -1482,6 +1482,24 @@
         "display": "Pallet"
       }
     ],
+    "package_bill_type": [
+      {
+        "value": "02",
+        "display": "Document Only"
+      },
+      {
+        "value": "03",
+        "display": "Non Document"
+      },
+      {
+        "value": "04",
+        "display": "WWEF Pallet"
+      },
+      {
+        "value": "07",
+        "display": "Domestic Pallet"
+      }
+    ],
     "usps_endorsement": [
       {
         "value": "5",
