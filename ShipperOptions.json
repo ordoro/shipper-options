@@ -595,6 +595,60 @@
         "display": "30.40(d)",
         "value": "30.40(d)"
       }
+    ],
+    "tax_id_type": [
+      {
+        "display": "SDT (IOSS)",
+        "value": "SDT"
+      },
+      {
+        "display": "VAT",
+        "value": "VAT"
+      },
+      {
+        "display": "FTZ",
+        "value": "FTZ"
+      },
+      {
+        "display": "DAN",
+        "value": "DAN"
+      },
+      {
+        "display": "TAN",
+        "value": "TAN"
+      },
+      {
+        "display": "DTF",
+        "value": "DTF"
+      },
+      {
+        "display": "CNP",
+        "value": "CNP"
+      },
+      {
+        "display": "DUN",
+        "value": "DUN"
+      },
+      {
+        "display": "EIN",
+        "value": "EIN"
+      },
+      {
+        "display": "EOR (EORI)",
+        "value": "EOR"
+      },
+      {
+        "display": "SSN",
+        "value": "SSN"
+      },
+      {
+        "display": "FED",
+        "value": "FED"
+      },
+      {
+        "display": "STA",
+        "value": "STA"
+      }
     ]
   },
   "dhl_ecommerce": {
@@ -1721,6 +1775,16 @@
       {
         "display": "Other",
         "value": "OTHER"
+      }
+    ],
+    "tax_id_type": [
+      {
+        "display": "VAT",
+        "value": "VAT_NUMBER"
+      },
+      {
+        "display": "IOSS",
+        "value": "IOSS_NUMBER"
       }
     ]
   },
