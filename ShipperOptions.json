@@ -702,6 +702,15 @@
       {"value": "USISP1", "display": "Edgewood, NY"},
       {"value": "CNYYZ1", "display": "Mississauga, ON, CA"},
       {"value": "GBLHR1", "display": "Axis Park, Langley, GB"}
+    ],
+    "reason_for_export": [
+      {"value": "P", "display": "Permanent"},
+      {"value": "T", "display": "Temporary"},
+      {"value": "R", "display": "Re-Export"},
+    ],
+    "delivery_confirmation": [
+      {"value": "DELCON", "display": "Delivery Confirmation"},
+      {"value": "SIGCON", "display": "Signature Required"},
     ]
   },
   "endicia": {
