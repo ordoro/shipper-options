@@ -652,7 +652,57 @@
     ]
   },
   "dhl_ecommerce": {
-    "display_name": "DHL eCommerce"
+    "display_name": "DHL eCommerce",
+    "box_shape": [
+      {"display": "Parcel", "value": "PKG"}
+    ],
+    "shipping_method": [
+      {"value": "EXP", "display": "Parcel Expedited"},
+      {"value": "MAX", "display": "Parcel Expedited Max"},
+      {"value": "GND", "display": "Parcel Ground"},
+      {"value": "BEX", "display": "BPM Expedited"},
+      {"value": "BGN", "display": "BPM Ground"},
+      {"value": "PLT", "display": "Parcel International Direct"},
+      {"value": "PLY", "display": "Parcel International Standard"},
+      {"value": "PKY", "display": "Packet International"},
+      {"value": "PIY", "display": "Parcel International Direct Priority"},
+      {"value": "PID", "display": "Parcel International Direct Standard"}
+    ],
+    "dangerous_goods": [
+      {"value": "01", "display": "Lithium Contained"},
+      {"value": "02", "display": "Lithium Packaged"},
+      {"value": "03", "display": "Lithium Standalone"},
+      {"value": "04", "display": "Lithium Ion Contained"},
+      {"value": "05", "display": "Lithium Ion Packaged"},
+      {"value": "06", "display": "Lithium Ion Standalone"},
+      {"value": "08", "display": "ORM-D"},
+      {"value": "09", "display": "Small Quantity Exception"},
+      {"value": "40", "display": "Limited Quantities Ca"}
+    ],
+    "distribution_center": [
+      {"value": "USATL1", "display": "Forest Park, GA"},
+      {"value": "USBOS1", "display": "Franklin, MA"},
+      {"value": "USBWI1", "display": "Elkridge, MD"},
+      {"value": "USCAK1", "display": "Stow, OH"},
+      {"value": "USCVG1", "display": "Hebron, KY"},
+      {"value": "USDEN1", "display": "Denver, CO"},
+      {"value": "USDFW1", "display": "Grand Prairie, TX"},
+      {"value": "USEWR1", "display": "Secaucus, NJ"},
+      {"value": "USLAX1", "display": "Compton, CA"},
+      {"value": "USMCO1", "display": "Orlando, FL"},
+      {"value": "USMEM1", "display": "Memphis, TN"},
+      {"value": "USORD1", "display": "Melrose Park, IL"},
+      {"value": "USPHX1", "display": "Phoenix, AZ"},
+      {"value": "USRDU1", "display": "Raleigh, NC"},
+      {"value": "USSEA1", "display": "Auburn, WA"},
+      {"value": "USSFO1", "display": "Union City, CA"},
+      {"value": "USSLC1", "display": "Salt Lake City, UT"},
+      {"value": "USSTL1", "display": "St. Louis, MO"},
+      {"value": "USIAH1", "display": "Houston, TX"},
+      {"value": "USISP1", "display": "Edgewood, NY"},
+      {"value": "CNYYZ1", "display": "Mississauga, ON, CA"},
+      {"value": "GBLHR1", "display": "Axis Park, Langley, GB"}
+    ]
   },
   "endicia": {
     "customs_form": [
