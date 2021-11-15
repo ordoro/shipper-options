@@ -706,11 +706,11 @@
     "reason_for_export": [
       {"value": "P", "display": "Permanent"},
       {"value": "T", "display": "Temporary"},
-      {"value": "R", "display": "Re-Export"},
+      {"value": "R", "display": "Re-Export"}
     ],
     "delivery_confirmation": [
       {"value": "DELCON", "display": "Delivery Confirmation"},
-      {"value": "SIGCON", "display": "Signature Required"},
+      {"value": "SIGCON", "display": "Signature Required"}
     ]
   },
   "endicia": {
