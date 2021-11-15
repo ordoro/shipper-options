@@ -703,14 +703,16 @@
       {"value": "CNYYZ1", "display": "Mississauga, ON, CA"},
       {"value": "GBLHR1", "display": "Axis Park, Langley, GB"}
     ],
-    "reason_for_export": [
-      {"value": "P", "display": "Permanent"},
-      {"value": "T", "display": "Temporary"},
-      {"value": "R", "display": "Re-Export"}
-    ],
     "delivery_confirmation": [
       {"value": "DELCON", "display": "Delivery Confirmation"},
       {"value": "SIGCON", "display": "Signature Required"}
+    ],
+    "tax_id_type": [
+      {"value": "0", "display": "Other / Unknown"},
+      {"value": "1", "display": "GST / VAT"},
+      {"value": "2", "display": "EORI"},
+      {"value": "3", "display": "IOSS"},
+      {"value": "5", "display": "PAN"}
     ]
   },
   "endicia": {
