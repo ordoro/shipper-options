@@ -666,7 +666,10 @@
       {"value": "PLY", "display": "Parcel International Standard"},
       {"value": "PKY", "display": "Packet International"},
       {"value": "PIY", "display": "Parcel International Direct Priority"},
-      {"value": "PID", "display": "Parcel International Direct Standard"}
+      {"value": "PID", "display": "Parcel International Direct Standard"},
+      {"value": "RGN", "display": "DHL SmartMail Parcel Return Ground", "type": "return"},
+      {"value": "RPL", "display": "DHL SmartMail Parcel Return Plus", "type": "return"},
+      {"value": "RLT", "display": "DHL SmartMail Parcel Return Light", "type": "return"}
     ],
     "dangerous_goods": [
       {"value": "01", "display": "Lithium Contained"},
