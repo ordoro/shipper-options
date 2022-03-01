@@ -657,19 +657,66 @@
       {"display": "Parcel", "value": "PKG"}
     ],
     "shipping_method": [
-      {"value": "EXP", "display": "Parcel Expedited"},
-      {"value": "MAX", "display": "Parcel Expedited Max"},
-      {"value": "GND", "display": "Parcel Ground"},
-      {"value": "BEX", "display": "BPM Expedited"},
-      {"value": "BGN", "display": "BPM Ground"},
-      {"value": "PLT", "display": "Parcel International Direct"},
-      {"value": "PLY", "display": "Parcel International Standard"},
-      {"value": "PKY", "display": "Packet International"},
-      {"value": "PIY", "display": "Parcel International Direct Priority"},
-      {"value": "PID", "display": "Parcel International Direct Standard"},
-      {"value": "RGN", "display": "DHL SmartMail Parcel Return Ground", "type": "return"},
-      {"value": "RPL", "display": "DHL SmartMail Parcel Return Plus", "type": "return"},
-      {"value": "RLT", "display": "DHL SmartMail Parcel Return Light", "type": "return"}
+      {
+        "value": "EXP",
+        "display": "Parcel Expedited"
+      },
+      {
+        "value": "MAX",
+        "display": "Parcel Expedited Max"
+      },
+      {
+        "value": "GND",
+        "display": "Parcel Ground"
+      },
+      {
+        "value": "BEX",
+        "display": "BPM Expedited",
+        "no_rates": true
+      },
+      {
+        "value": "BGN",
+        "display": "BPM Ground",
+        "no_rates": true
+      },
+      {
+        "value": "PLT",
+        "display": "Parcel International Direct"
+      },
+      {
+        "value": "PLY",
+        "display": "Parcel International Standard"
+      },
+      {
+        "value": "PKY",
+        "display": "Packet International"
+      },
+      {
+        "value": "PIY",
+        "display": "Parcel International Direct Priority"
+      },
+      {
+        "value": "PID",
+        "display": "Parcel International Direct Standard"
+      },
+      {
+        "value": "RGN",
+        "display": "DHL SmartMail Parcel Return Ground",
+        "type": "return",
+        "no_rates": true
+      },
+      {
+        "value": "RPL",
+        "display": "DHL SmartMail Parcel Return Plus",
+        "type": "return",
+        "no_rates": true
+      },
+      {
+        "value": "RLT",
+        "display": "DHL SmartMail Parcel Return Light",
+        "type": "return",
+        "no_rates": true
+      }
     ],
     "dangerous_goods": [
       {"value": "01", "display": "Lithium Contained"},
