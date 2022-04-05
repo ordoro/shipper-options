@@ -763,6 +763,12 @@
       {"value": "2", "display": "EORI"},
       {"value": "3", "display": "IOSS"},
       {"value": "5", "display": "PAN"}
+    ],
+    "service_endorsement": [
+      {"value": "1", "display": "Address Service Requested"},
+      {"value": "2", "display": "Forwarding Service Requested"},
+      {"value": "3", "display": "Change Service Requested"},
+      {"value": "4", "display": "Return Service Requested"}
     ]
   },
   "endicia": {
