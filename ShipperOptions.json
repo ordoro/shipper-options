@@ -716,6 +716,26 @@
         "display": "DHL SmartMail Parcel Return Light",
         "type": "return",
         "no_rates": true
+      },
+      {
+        "value": "MPG",
+        "display": "DHL Smart Mail Marketing Parcel Ground",
+        "no_rates": true
+      },
+      {
+        "value": "MPE",
+        "display": "DHL Smart Mail Marketing Parcel Expedited",
+        "no_rates": true
+      },
+      {
+        "value": "PKT",
+        "display": "DHL Packet Plus International",
+        "no_rates": true
+      },
+      {
+        "value": "PKA",
+        "display": "DHL Global Mail Packet - IPA",
+        "no_rates": true
       }
     ],
     "dangerous_goods": [
