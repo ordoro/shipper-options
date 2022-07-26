@@ -1612,23 +1612,23 @@
     ],
     "shipping_method_mail_innovations": [
       {
-        "display": "USPS First Class Mail",
+        "display": "UPS Mail Innovations® First Class",
         "value": "M2"
       },
       {
-        "display": "USPS Priority Mail",
+        "display": "UPS Mail Innovations® Priority Mail",
         "value": "M3"
       },
       {
-        "display": "Expedited Mail Innovations",
+        "display": "UPS Mail Innovations® Expedited",
         "value": "M4"
       },
       {
-        "display": "Priority Mail Innovations",
+        "display": "UPS Mail Innovations® Priority Intl.",
         "value": "M5"
       },
       {
-        "display": "Economy Mail Innovations",
+        "display": "UPS Mail Innovations® Economy Intl.",
         "value": "M6"
       }
     ],
