@@ -1424,10 +1424,6 @@
         "value": "0"
       },
       {
-        "display": "Delivery Confirmation",
-        "value": "1"
-      },
-      {
         "display": "Signature Required",
         "value": "2"
       },
