@@ -2657,23 +2657,28 @@
     "shipping_method": [
       {
         "display": "Priority",
-        "value": "PM"
+        "value": "PM",
+        "no_rates": true
       },
       {
         "display": "Parcel Select",
-        "value": "PRCLSEL"
+        "value": "PRCLSEL",
+        "no_rates": true
       },
       {
         "display": "Parcel Select Lightweight",
-        "value": "PSLW"
+        "value": "PSLW",
+        "no_rates": true
       },
       {
         "display": "First Class",
-        "value": "FCM"
+        "value": "FCM",
+        "no_rates": true
       },
       {
         "display": "Bound Printed Matter",
-        "value": "BPM"
+        "value": "BPM",
+        "no_rates": true
       }
     ],
     "box_shape": [
