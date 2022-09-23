@@ -1882,6 +1882,10 @@
       {
         "display": "Adult Signature Restricted Delivery",
         "value": "ADSIGRD"
+      },
+      {
+        "display": "Signature with Restricted Delivery",
+        "value": "SigRD"
       }
     ],
     "reason_for_export": [
