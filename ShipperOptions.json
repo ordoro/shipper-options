@@ -1796,6 +1796,10 @@
       {
         "value": "RBB",
         "display": "Regional Rate Box B"
+      },
+      {
+        "value": "SOFTPACK",
+        "display": "softpack"
       }
     ],
     "shipping_method": [
