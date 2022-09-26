@@ -1798,8 +1798,12 @@
         "display": "Regional Rate Box B"
       },
       {
+        "value": "FLAT",
+        "display": "Flat"
+      },
+      {
         "value": "SOFTPACK",
-        "display": "softpack"
+        "display": "Softpack"
       }
     ],
     "shipping_method": [
