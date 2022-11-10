@@ -2949,9 +2949,9 @@
       {"display": "Parcel", "value": "PKG"}
     ],
     "shipping_method": [
-      {"value": "SAVER-DROPOFF", "display": "Sendle Saver"},
+      {"value": "SAVER-DROPOFF", "display": "Sendle Saver Drop Off"},
       {"value": "SAVER-PICKUP", "display": "Sendle Saver Pickup"},
-      {"value": "STANDARD-DROPOFF", "display": "Sendle Preferred"},
+      {"value": "STANDARD-DROPOFF", "display": "Sendle Preferred Drop Off"},
       {"value": "STANDARD-PICKUP", "display": "Sendle Preferred Pickup"},
       {"value": "EXPRESS-PICKUP", "display": "Sendle Express Pickup"},
       {"value": "FIRST-CLASS-DROPOFF", "display": "First Class Mail Plus"},
