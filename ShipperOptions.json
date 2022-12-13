@@ -223,6 +223,29 @@
       }
     ]
   },
+  "cbds": {
+    "display_name": "USPS (CBDS)",
+    "box_shape": [
+      {
+        "value": "PKG",
+        "display": "Parcel"
+      }
+    ],
+    "shipping_method": [
+      {
+        "value": "PBXPE",
+        "display": "Expedited DDP"
+      },
+      {
+        "value": "PBXPS",
+        "display": "Standard DDP"
+      },
+      {
+        "value": "PBXUS",
+        "display": "Standard DDU"
+      }
+    ]
+  },
   "china_post": {
     "display_name": "China Post"
   },
