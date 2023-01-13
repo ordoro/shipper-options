@@ -223,7 +223,7 @@
       }
     ]
   },
-  "cbds": {
+  "pitney_cbds": {
     "display_name": "USPS (CBDS)",
     "box_shape": [
       {
