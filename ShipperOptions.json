@@ -903,14 +903,6 @@
       {
         "display": "Small Flat Rate Envelope",
         "value": "SmallFlatRateEnvelope"
-      },
-      {
-        "display": "Regional Rate Box A",
-        "value": "RegionalRateBoxA"
-      },
-      {
-        "display": "Regional Rate Box B",
-        "value": "RegionalRateBoxB"
       }
     ],
     "shipping_method": [
@@ -1813,14 +1805,6 @@
         "display": "Flat Rate Padded Envelope"
       },
       {
-        "value": "RBA",
-        "display": "Regional Rate Box A"
-      },
-      {
-        "value": "RBB",
-        "display": "Regional Rate Box B"
-      },
-      {
         "value": "FLAT",
         "display": "Flat"
       },
@@ -1998,14 +1982,6 @@
       {
         "value": "PFRENV",
         "display": "Flat Rate Padded Envelope"
-      },
-      {
-        "value": "RBA",
-        "display": "Regional Rate Box A"
-      },
-      {
-        "value": "RBB",
-        "display": "Regional Rate Box B"
       }
     ],
     "shipping_method": [
@@ -2377,26 +2353,6 @@
         "display": "USPS® Medium Flat Rate Box 2"
       },
       {
-        "value": "USPS_RegionalRateBoxA1",
-        "display": "USPS® Regional Rate Box A1"
-      },
-      {
-        "value": "USPS_RegionalRateBoxA2",
-        "display": "USPS® Regional Rate Box A2"
-      },
-      {
-        "value": "USPS_RegionalRateBoxB1",
-        "display": "USPS® Regional Rate Box B1"
-      },
-      {
-        "value": "USPS_RegionalRateBoxB2",
-        "display": "USPS® Regional Rate Box B2"
-      },
-      {
-        "value": "USPS_RegionalRateBoxC",
-        "display": "USPS® Regional Rate Box C"
-      },
-      {
         "value": "USPS_SmallFlatRateBox",
         "display": "USPS® Small Flat Rate Box"
       },
@@ -2593,14 +2549,6 @@
       {
         "value": "USPS_PTP_PRI_PFRE",
         "display": "USPS Priority Mail® Padded Flat Rate Envelope"
-      },
-      {
-        "value": "USPS_PTP_PRI_RA",
-        "display": "USPS Priority Mail Regional Rate® Box A"
-      },
-      {
-        "value": "USPS_PTP_PRI_RB",
-        "display": "USPS Priority Mail Regional Rate® Box B"
       },
       {
         "value": "USPS_PTP_BPM",
@@ -2838,14 +2786,6 @@
       {
         "value": "PaddedFlatRateEnvelope",
         "display": "Flat Rate Padded Envelope"
-      },
-      {
-        "value": "RegionalRateBoxA",
-        "display": "Regional Rate Box A"
-      },
-      {
-        "value": "RegionalRateBoxB",
-        "display": "Regional Rate Box B"
       }
     ],
     "shipping_method": [
