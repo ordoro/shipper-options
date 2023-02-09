@@ -1823,10 +1823,6 @@
         "display": "Priority Mail"
       },
       {
-        "value": "PMC",
-        "display": "Priority Mail Cubic"
-      },
-      {
         "value": "EM",
         "display": "Express Mail"
       },
@@ -1992,10 +1988,6 @@
       {
         "value": "PM",
         "display": "Priority Mail"
-      },
-      {
-        "value": "PMC",
-        "display": "Priority Mail Cubic"
       },
       {
         "value": "EM",
