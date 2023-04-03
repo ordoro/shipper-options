@@ -1450,39 +1450,50 @@
     "box_shape": [
       {
         "display": "Custom Packaging",
-        "value": "02"
+        "value": "02",
+        "max_dims": [108],
+        "max_len_plus_girth": 165,
+        "max_oz": 2400
       },
       {
         "display": "UPS Letter",
-        "value": "01"
+        "value": "01",
+        "flat_rate": true
       },
       {
         "display": "Tube",
-        "value": "03"
+        "value": "03",
+        "flat_rate": true
       },
       {
         "display": "PAK",
-        "value": "04"
+        "value": "04",
+        "flat_rate": true
       },
       {
         "display": "Small Express Box",
-        "value": "2a"
+        "value": "2a",
+        "flat_rate": true
       },
       {
         "display": "Medium Express Box",
-        "value": "2b"
+        "value": "2b",
+        "flat_rate": true
       },
       {
         "display": "Large Express Box",
-        "value": "2c"
+        "value": "2c",
+        "flat_rate": true
       },
       {
         "display": "UPS 10 KG Box®",
-        "value": "25"
+        "value": "25",
+        "flat_rate": true
       },
       {
         "display": "UPS 25 KG Box®",
-        "value": "24"
+        "value": "24",
+        "flat_rate": true
       },
       {
         "display": "Flats",
@@ -1494,23 +1505,28 @@
       },
       {
         "display": "Simple Rate Extra Small",
-        "value": "XS"
+        "value": "XS",
+        "flat_rate": true
       },
       {
         "display": "Simple Rate Small",
-        "value": "S"
+        "value": "S",
+        "flat_rate": true
       },
       {
         "display": "Simple Rate Medium",
-        "value": "M"
+        "value": "M",
+        "flat_rate": true
       },
       {
         "display": "Simple Rate Large",
-        "value": "L"
+        "value": "L",
+        "flat_rate": true
       },
       {
         "display": "Simple Rate Extra Large",
-        "value": "XL"
+        "value": "XL",
+        "flat_rate": true
       }
     ],
     "box_shape_mail_innovations": [
@@ -1774,43 +1790,62 @@
     "box_shape": [
       {
         "value": "SFRB",
-        "display": "Small Flat Rate Box"
+        "display": "Small Flat Rate Box",
+        "flat_rate": true
       },
       {
         "value": "FRB",
-        "display": "Medium Flat Rate Box"
+        "display": "Medium Flat Rate Box",
+        "flat_rate": true
       },
       {
         "value": "LFRB",
-        "display": "Large Flat Rate Box"
+        "display": "Large Flat Rate Box",
+        "flat_rate": true
       },
       {
         "value": "PKG",
-        "display": "Parcel"
+        "display": "Parcel",
+        "max_dims": [120, 38, 41],
+        "max_len_plus_girth": 130,
+        "max_oz": 1120
       },
       {
         "value": "LETTER",
-        "display": "Letter"
+        "display": "Letter",
+        "min_dims": [0.001, 5, 3.5],
+        "max_dims": [0.25, 11.5, 6.125],
+        "dim_count": 2,
+        "max_oz": 3.5
       },
       {
         "value": "FRE",
-        "display": "Flat Rate Envelope"
+        "display": "Flat Rate Envelope",
+        "flat_rate": true
       },
       {
         "value": "LGLFRENV",
-        "display": "Flat Rate Legal Envelope"
+        "display": "Flat Rate Legal Envelope",
+        "flat_rate": true
       },
       {
         "value": "PFRENV",
-        "display": "Flat Rate Padded Envelope"
+        "display": "Flat Rate Padded Envelope",
+        "flat_rate": true
       },
       {
         "value": "FLAT",
-        "display": "Flat"
+        "display": "Flat",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 13
       },
       {
         "value": "SOFTPACK",
-        "display": "Softpack"
+        "display": "Softpack",
+        "max_dims": [15, 12, 2],
+        "dim_count": 2,
+        "max_oz": 20
       }
     ],
     "shipping_method": [
@@ -2901,7 +2936,12 @@
   "sendle": {
     "display_name": "Sendle",
     "box_shape": [
-      {"display": "Parcel", "value": "PKG"}
+      {
+        "display": "Parcel",
+        "value": "PKG",
+        "max_len_plus_girth": 108,
+        "max_oz": 1120
+      }
     ],
     "shipping_method": [
       {"value": "SAVER-DROPOFF", "display": "Sendle Saver Drop Off"},
