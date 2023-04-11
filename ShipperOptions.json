@@ -1458,19 +1458,16 @@
       {
         "display": "UPS Letter",
         "value": "01",
-        "weight": false,
         "dim_count": 0
       },
       {
         "display": "Tube",
         "value": "03",
-        "weight": false,
         "dim_count": 0
       },
       {
         "display": "PAK",
         "value": "04",
-        "weight": false,
         "dim_count": 0
       },
       {
