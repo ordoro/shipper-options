@@ -1458,42 +1458,47 @@
       {
         "display": "UPS Letter",
         "value": "01",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Tube",
         "value": "03",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "PAK",
         "value": "04",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Small Express Box",
         "value": "2a",
-        "flat_rate": true
+        "dim_count": 0
       },
       {
         "display": "Medium Express Box",
         "value": "2b",
-        "flat_rate": true
+        "dim_count": 0
       },
       {
         "display": "Large Express Box",
         "value": "2c",
-        "flat_rate": true
+        "dim_count": 0
       },
       {
         "display": "UPS 10 KG Box®",
         "value": "25",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "UPS 25 KG Box®",
         "value": "24",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Flats",
@@ -1506,27 +1511,32 @@
       {
         "display": "Simple Rate Extra Small",
         "value": "XS",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Simple Rate Small",
         "value": "S",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Simple Rate Medium",
         "value": "M",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Simple Rate Large",
         "value": "L",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Simple Rate Extra Large",
         "value": "XL",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       }
     ],
     "box_shape_mail_innovations": [
@@ -1791,17 +1801,20 @@
       {
         "value": "SFRB",
         "display": "Small Flat Rate Box",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "FRB",
         "display": "Medium Flat Rate Box",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "LFRB",
         "display": "Large Flat Rate Box",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "PKG",
@@ -1821,17 +1834,20 @@
       {
         "value": "FRE",
         "display": "Flat Rate Envelope",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "LGLFRENV",
         "display": "Flat Rate Legal Envelope",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "PFRENV",
         "display": "Flat Rate Padded Envelope",
-        "flat_rate": true
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "FLAT",
