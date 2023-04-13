@@ -1864,7 +1864,8 @@
     "shipping_method": [
       {
         "value": "FCM",
-        "display": "First-Class Mail"
+        "display": "First-Class Mail",
+        "transaction_fee": true
       },
       {
         "value": "PM",
