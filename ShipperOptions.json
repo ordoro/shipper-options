@@ -1884,6 +1884,10 @@
         "display": "Parcel Select Ground"
       },
       {
+        "value": "UGA",
+        "display": "Ground Advantage"
+      },
+      {
         "value": "MEDIA",
         "display": "Media Mail"
       },
@@ -2049,6 +2053,10 @@
       {
         "value": "PRCLSEL",
         "display": "Parcel Select Ground"
+      },
+      {
+        "value": "UGA",
+        "display": "Ground Advantage"
       },
       {
         "value": "MEDIA",
@@ -2687,6 +2695,11 @@
       {
         "display": "Parcel Select",
         "value": "PRCLSEL",
+        "no_rates": true
+      },
+      {
+        "display": "Ground Advantage",
+        "value": "UGA",
         "no_rates": true
       },
       {
