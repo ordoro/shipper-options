@@ -1776,6 +1776,78 @@
         "display": "Other",
         "value": "OTHER"
       }
+    ],
+    "hazmat_commodity_regulated_level": [
+      {
+        "display": "Excepted Quantity",
+        "value": "EQ"
+      },
+      {
+        "display": "Fully Regulated",
+        "value": "FR"
+      },
+      {
+        "display": "Lightly Regulated",
+        "value": "LR"
+      },
+      {
+        "display": "Limited Quantity",
+        "value": "LQ"
+      }
+    ],
+    "hazmat_packaging_group": [
+      {
+        "display": "",
+        "value": ""
+      },
+      {
+        "display": "I (High Danger)",
+        "value": "I"
+      },
+      {
+        "display": "II (Medium Danger)",
+        "value": "II"
+      },
+      {
+        "display": "III (Low Danger)",
+        "value": "III"
+      }
+    ],
+    "hazmat_regulation_set": [
+      {
+        "display": "ADR (Europe)",
+        "value": "ADR"
+      },
+      {
+        "display": "CFR (US)",
+        "value": "CFR"
+      },
+      {
+        "display": "IATA (International Air Transport)",
+        "value": "IATA"
+      },
+      {
+        "display": "TDG (Canada)",
+        "value": "TDG"
+      }
+    ],
+    "hazmat_transportation_mode": [
+      {
+        "display": "Cargo Aircraft Only",
+        "value": "Cargo Aircraft Only"
+      },
+      {
+        "display": "Ground",
+        "value": "Ground"
+      },
+      {
+        "display": "Highway",
+        "value": "Highway"
+      },
+      {
+        "display": "Passenger Aircraft",
+        "value": "Passenger Aircraft"
+      }
     ]
   },
   "usps": {
