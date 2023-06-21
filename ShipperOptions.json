@@ -1797,6 +1797,10 @@
     ],
     "hazmat_packaging_group": [
       {
+        "display": "",
+        "value": ""
+      },
+      {
         "display": "I (High Danger)",
         "value": "I"
       },
