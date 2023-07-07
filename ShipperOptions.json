@@ -2760,18 +2760,8 @@
     ],
     "shipping_method": [
       {
-        "display": "Priority",
-        "value": "PM",
-        "no_rates": true
-      },
-      {
         "display": "Parcel Select",
         "value": "PRCLSEL",
-        "no_rates": true
-      },
-      {
-        "display": "Ground Advantage",
-        "value": "UGA",
         "no_rates": true
       },
       {
@@ -2780,8 +2770,112 @@
         "no_rates": true
       },
       {
-        "display": "First Class",
-        "value": "FCM",
+        "display": "Bound Printed Matter",
+        "value": "BPM",
+        "no_rates": true
+      }
+    ],
+    "box_shape": [
+      {"display": "Parcel", "value": "PKG"}
+    ],
+    "nondelivery": [
+      {
+        "value": "AddressServiceRequested",
+        "display": "Address Service Requested"
+      },
+      {
+        "value": "AddressServiceRequestedBPRS",
+        "display": "Address Service Requested (BPRS)"
+      },
+      {
+        "value": "ReturnServiceRequested",
+        "display": "Return Service Requested"
+      },
+      {
+        "value": "ReturnServiceRequestedBPRS",
+        "display": "Return Service Requested (BPRS)"
+      },
+      {
+        "value": "ChangeServiceRequested",
+        "display": "Change Service Requested"
+      },
+      {
+        "value": "ForwardingServiceRequested",
+        "display": "Forwarding Service Requested"
+      },
+      {
+        "value": "ElectronicServiceRequested",
+        "display": "Electronic Service Requested"
+      }
+    ],
+    "dangerous_goods": [
+      {
+        "value": "Explosives",
+        "display": "Explosives"
+      },
+      {
+        "value": "Gases",
+        "display": "Gases"
+      },
+      {
+        "value": "FlammableCombustibleLiquids",
+        "display": "Flammable Combustible Liquids"
+      },
+      {
+        "value": "FlammableSolids",
+        "display": "Flammable Solids"
+      },
+      {
+        "value": "OxidizingSubstancesOrganicPeroxides",
+        "display": "Oxidizing Substances Organic Peroxides"
+      },
+      {
+        "value": "ToxicSubstancesAndInfectiousSubstances",
+        "display": "Toxic Substances And Infectious Substances"
+      },
+      {
+        "value": "RadioactiveMaterial",
+        "display": "Radioactive Material"
+      },
+      {
+        "value": "Corrosives",
+        "display": "Corrosives"
+      },
+      {
+        "value": "ORMD",
+        "display": "ORM-D"
+      },
+      {
+        "value": "ConsumerCommodities",
+        "display": "Consumer Commodities"
+      },
+      {
+        "value": "MiscellaneousHazardousMaterial",
+        "display": "Miscellaneous Hazardous Material"
+      }
+    ]
+  },
+  "pb_standard": {
+    "display_name": "PB Standard",
+    "delivery_confirmation": [
+      {
+        "display": "Delivery Confirmation",
+        "value": "DelCon"
+      },
+      {
+        "display": "Signature Required",
+        "value": "Sig"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "Parcel Select",
+        "value": "PRCLSEL",
+        "no_rates": true
+      },
+      {
+        "display": "Parcel Select Lightweight",
+        "value": "PSLW",
         "no_rates": true
       },
       {
