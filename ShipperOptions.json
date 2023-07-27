@@ -1957,7 +1957,8 @@
       },
       {
         "value": "UGA",
-        "display": "Ground Advantage"
+        "display": "Ground Advantage",
+        "transaction_fee": true
       },
       {
         "value": "MEDIA",
