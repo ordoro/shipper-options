@@ -2166,8 +2166,8 @@
         "value": "abandon"
       },
       {
-        "display": "Reject",
-        "value": "reject"
+        "display": "Redirect",
+        "value": "redirect"
       }
     ],
     "delivery_confirmation": [
