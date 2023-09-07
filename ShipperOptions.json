@@ -2605,6 +2605,18 @@
         "display": "USPS® Parcel Select"
       },
       {
+        "value": "USPS_PTP_GAC",
+        "display": "USPS® Ground Advantage® Cubic"
+      },
+      {
+        "value": "USPS_PTP_GAL",
+        "display": "USPS® Ground Advantage® (<1 lb)"
+      },
+      {
+        "value": "USPS_PTP_GAH",
+        "display": "USPS® Ground Advantage® (1-70 lb)"
+      },
+      {
         "value": "UPS_PTP_GND",
         "display": "UPS® Ground"
       },
