@@ -1848,6 +1848,66 @@
         "display": "Passenger Aircraft",
         "value": "Passenger Aircraft"
       }
+    ],
+    "hazmat_transport_category": [
+      {
+        "display": "0",
+        "value": "0"
+      },
+      {
+        "display": "1",
+        "value": "1"
+      },
+      {
+        "display": "2",
+        "value": "2"
+      },
+      {
+        "display": "3",
+        "value": "3"
+      },
+      {
+        "display": "4",
+        "value": "4"
+      }
+    ],
+    "hazmat_tunnel_restriction_code": [
+      {
+        "display": "(B)",
+        "value": "(B)"
+      },
+      {
+        "display": "(B/D)",
+        "value": "(B/D)"
+      },
+      {
+        "display": "(B/E)",
+        "value": "(B/E)"
+      },
+      {
+        "display": "(C)",
+        "value": "(C)"
+      },
+      {
+        "display": "(C/D)",
+        "value": "(C/D)"
+      },
+      {
+        "display": "(C/E)",
+        "value": "(C/E)"
+      },
+      {
+        "display": "(D)",
+        "value": "(D)"
+      },
+      {
+        "display": "(D/E)",
+        "value": "(D/E)"
+      },
+      {
+        "display": "(E)",
+        "value": "(E)"
+      }
     ]
   },
   "usps": {
