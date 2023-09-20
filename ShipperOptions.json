@@ -1986,6 +1986,20 @@
         "max_oz": 13
       },
       {
+        "value": "LGENV",
+        "display": "Large Envelope",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 15
+      },
+      {
+        "value": "NMLETTER",
+        "display": "Nonmachinable Letter",
+        "max_dims": [0.25, 11.5, 6.125],
+        "dim_count": 2,
+        "max_oz": 3.5
+      },
+      {
         "value": "SOFTPACK",
         "display": "Softpack",
         "max_dims": [15, 12, 2],
