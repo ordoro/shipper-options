@@ -2149,35 +2149,82 @@
     "box_shape": [
       {
         "value": "SFRB",
-        "display": "Small Flat Rate Box"
+        "display": "Small Flat Rate Box",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "FRB",
-        "display": "Medium Flat Rate Box"
+        "display": "Medium Flat Rate Box",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "LFRB",
-        "display": "Large Flat Rate Box"
+        "display": "Large Flat Rate Box",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "PKG",
-        "display": "Parcel"
+        "display": "Parcel",
+        "max_dims": [120, 38, 41],
+        "max_len_plus_girth": 130,
+        "max_oz": 1120
       },
       {
         "value": "LETTER",
-        "display": "Letter"
+        "display": "Letter",
+        "min_dims": [0.001, 5, 3.5],
+        "max_dims": [0.25, 11.5, 6.125],
+        "dim_count": 2,
+        "max_oz": 3.5
       },
       {
         "value": "FRE",
-        "display": "Flat Rate Envelope"
+        "display": "Flat Rate Envelope",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "LGLFRENV",
-        "display": "Flat Rate Legal Envelope"
+        "display": "Flat Rate Legal Envelope",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "value": "PFRENV",
-        "display": "Flat Rate Padded Envelope"
+        "display": "Flat Rate Padded Envelope",
+        "weight": false,
+        "dim_count": 0
+      },
+      {
+        "value": "FLAT",
+        "display": "Flat",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 13
+      },
+      {
+        "value": "LGENV",
+        "display": "Large Envelope",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 15
+      },
+      {
+        "value": "NMLETTER",
+        "display": "Nonmachinable Letter",
+        "max_dims": [0.25, 11.5, 6.125],
+        "dim_count": 2,
+        "max_oz": 3.5
+      },
+      {
+        "value": "SOFTPACK",
+        "display": "Softpack",
+        "max_dims": [15, 12, 2],
+        "dim_count": 2,
+        "max_oz": 20
       }
     ],
     "shipping_method": [
