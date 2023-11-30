@@ -2303,6 +2303,18 @@
       {
         "display": "Signature Required",
         "value": "Sig"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "ADSIG"
+      },
+      {
+        "display": "Adult Signature Restricted Delivery",
+        "value": "ADSIGRD"
+      },
+      {
+        "display": "Signature with Restricted Delivery",
+        "value": "SigRD"
       }
     ],
     "reason_for_export": [
@@ -2329,6 +2341,16 @@
       {
         "display": "Other",
         "value": "OTHER"
+      }
+    ],
+    "tax_id_type": [
+      {
+        "display": "VAT",
+        "value": "VAT_NUMBER"
+      },
+      {
+        "display": "IOSS",
+        "value": "IOSS_NUMBER"
       }
     ]
   },
