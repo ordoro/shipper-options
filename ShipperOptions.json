@@ -1616,10 +1616,12 @@
         "value": "65"
       },
       {
+        "discounted_display": "UPS® Ground Saver Less than 1lb",
         "display": "UPS SurePost® Less than 1lb",
         "value": "92"
       },
       {
+        "discounted_display": "UPS® Ground Saver 1lb or Greater",
         "display": "UPS SurePost® 1lb or Greater",
         "value": "93"
       },
