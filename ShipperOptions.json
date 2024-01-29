@@ -754,11 +754,6 @@
         "value": "PKT",
         "display": "DHL Packet Plus International",
         "no_rates": true
-      },
-      {
-        "value": "PKA",
-        "display": "DHL Global Mail Packet - IPA",
-        "no_rates": true
       }
     ],
     "dangerous_goods": [
