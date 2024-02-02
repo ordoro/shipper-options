@@ -3303,6 +3303,14 @@
       {"value": "PRIORITY-PICKUP", "display": "Priority Mail Plus Pickup"},
       {"value": "THREE-DAY-DROPOFF", "display": "Sendle 3-Day Guaranteed Drop Off"},
       {"value": "THREE-DAY-PICKUP", "display": "Sendle 3-Day Guaranteed Pickup"}
+    ],
+    "reason_for_export": [
+      {"value": "Documents", "display": "Documents"},
+      {"value": "Gift", "display": "Gift"},
+      {"value": "Merchandise", "display": "Merchandise"},
+      {"value": "Returned Goods", "display": "Returned Goods"},
+      {"value": "Sample", "display": "Sample"},
+      {"value": "Other", "display": "Other"}
     ]
   }
 }
