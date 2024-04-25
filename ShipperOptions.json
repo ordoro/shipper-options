@@ -1407,6 +1407,9 @@
   "purolator": {
     "display_name": "Purolator"
   },
+  "r_l_carriers": {
+    "display_name": "R+L Carriers"
+  },
   "ups": {
     "insurance": [
       {
