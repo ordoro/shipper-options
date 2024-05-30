@@ -3301,7 +3301,9 @@
       {"value": "PRIORITY-EXPRESS-PICKUP", "display": "Priority Mail Express Plus Pickup"},
       {"value": "PRIORITY-PICKUP", "display": "Priority Mail Plus Pickup"},
       {"value": "THREE-DAY-DROPOFF", "display": "Sendle 3-Day Guaranteed Drop Off"},
-      {"value": "THREE-DAY-PICKUP", "display": "Sendle 3-Day Guaranteed Pickup"}
+      {"value": "THREE-DAY-PICKUP", "display": "Sendle 3-Day Guaranteed Pickup"},
+      {"value": "TWO-DAY-DROPOFF", "display": "Sendle 2-Day Guaranteed Drop Off"},
+      {"value": "TWO-DAY-PICKUP", "display": "Sendle 2-Day Guaranteed Pickup"}
     ],
     "reason_for_export": [
       {"value": "Documents", "display": "Documents"},
