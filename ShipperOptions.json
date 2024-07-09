@@ -1107,15 +1107,15 @@
         "value": "FEDEX_2_DAY_AM"
       },
       {
-        "display": "Standard Overnight",
+        "display": "FedEx Standard Overnight",
         "value": "STANDARD_OVERNIGHT"
       },
       {
-        "display": "Priority Overnight",
+        "display": "FedEx Priority Overnight",
         "value": "PRIORITY_OVERNIGHT"
       },
       {
-        "display": "First Overnight",
+        "display": "FedEx First Overnight",
         "value": "FIRST_OVERNIGHT"
       },
       {
@@ -1133,6 +1133,18 @@
       {
         "display": "International First",
         "value": "INTERNATIONAL_FIRST"
+      },
+      {
+        "display": "FedEx First Overnight Extra Hours™",
+        "value": "FEDEX_FIRST_OVERNIGHT_EXTRA_HOURS"
+      },
+      {
+        "display": "FedEx Priority Overnight Extra Hours™",
+        "value": "FEDEX_PRIORITY_OVERNIGHT_EXTRA_HOURS"
+      },
+      {
+        "display": "FedEx Standard Overnight Extra Hours™",
+        "value": "FEDEX_STANDARD_OVERNIGHT_EXTRA_HOURS"
       }
     ],
     "insurance": [
