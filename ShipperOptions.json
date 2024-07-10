@@ -1135,6 +1135,14 @@
         "value": "INTERNATIONAL_FIRST"
       },
       {
+        "display": "FedEx International Priority",
+        "value": "FEDEX_INTERNATIONAL_PRIORITY"
+      },
+      {
+        "display": "FedEx International Express",
+        "value": "FEDEX_INTERNATIONAL_PRIORITY_EXPRESS"
+      },
+      {
         "display": "FedEx First Overnight Extra Hours™",
         "value": "FEDEX_FIRST_OVERNIGHT_EXTRA_HOURS"
       },
