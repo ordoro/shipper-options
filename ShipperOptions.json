@@ -1143,6 +1143,10 @@
         "value": "FEDEX_INTERNATIONAL_PRIORITY_EXPRESS"
       },
       {
+        "display": "FedEx International Connect Plus™",
+        "value": "FEDEX_INTERNATIONAL_CONNECT_PLUS"
+      },
+      {
         "display": "FedEx First Overnight Extra Hours™",
         "value": "FEDEX_FIRST_OVERNIGHT_EXTRA_HOURS"
       },
@@ -1179,6 +1183,10 @@
       {
         "display": "Atlanta",
         "value": "5303"
+      },
+      {
+        "display": "Baltimore",
+        "value": "5213"
       },
       {
         "display": "Charlotte",
@@ -1233,6 +1241,10 @@
         "value": "5902"
       },
       {
+        "display": "Macungie",
+        "value": "5183"
+      },
+      {
         "display": "Martinsburg",
         "value": "5254"
       },
@@ -1247,6 +1259,10 @@
       {
         "display": "New Berlin",
         "value": "5531"
+      },
+      {
+        "display": "Newark",
+        "value": "5095"
       },
       {
         "display": "Newburgh",
@@ -1285,12 +1301,28 @@
         "value": "5843"
       },
       {
+        "display": "Scranton",
+        "value": "5186"
+      },
+      {
         "display": "Seattle",
         "value": "5983"
       },
       {
+        "display": "South Brunswick",
+        "value": "5097"
+      },
+      {
         "display": "St. Louis",
         "value": "5631"
+      },
+      {
+        "display": "Tampa",
+        "value": "5345"
+      },
+      {
+        "display": "Windsor",
+        "value": "5061"
       }
     ],
     "delivery_confirmation": [
