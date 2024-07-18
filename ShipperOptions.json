@@ -3025,6 +3025,36 @@
         "value": "MiscellaneousHazardousMaterial",
         "display": "Miscellaneous Hazardous Material"
       }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Dangerous Goods",
+        "value": "DANGEROUS_GOODS"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
     ]
   },
   "pb_standard": {
