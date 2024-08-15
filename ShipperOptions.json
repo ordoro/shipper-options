@@ -1119,7 +1119,7 @@
         "value": "FIRST_OVERNIGHT"
       },
       {
-        "display": "SmartPost",
+        "display": "FedEx Ground® Economy",
         "value": "SMART_POST"
       },
       {
@@ -1139,7 +1139,7 @@
         "value": "FEDEX_INTERNATIONAL_PRIORITY"
       },
       {
-        "display": "FedEx International Express",
+        "display": "FedEx International Priority Express",
         "value": "FEDEX_INTERNATIONAL_PRIORITY_EXPRESS"
       },
       {
