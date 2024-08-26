@@ -959,7 +959,8 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       },
       {
         "display": "Endicia",
@@ -1120,7 +1121,10 @@
       },
       {
         "display": "FedEx Ground® Economy",
-        "value": "SMART_POST"
+        "value": "SMART_POST",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "International Priority",
@@ -1162,7 +1166,8 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       }
     ],
     "insurance_V2": [
@@ -1514,13 +1519,15 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       }
     ],
     "insurance_V2": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       },
       {
         "display": "UPS",
@@ -1712,20 +1719,32 @@
       {
         "discounted_display": "UPS® Ground Saver Less than 1lb",
         "display": "UPS SurePost® Less than 1lb",
-        "value": "92"
+        "value": "92",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "discounted_display": "UPS® Ground Saver 1lb or Greater",
         "display": "UPS SurePost® 1lb or Greater",
-        "value": "93"
+        "value": "93",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS SurePost® BPM",
-        "value": "94"
+        "value": "94",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS SurePost® Media",
-        "value": "95"
+        "value": "95",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS Worldwide Express®",
@@ -1743,23 +1762,38 @@
     "shipping_method_mail_innovations": [
       {
         "display": "UPS Mail Innovations® First Class",
-        "value": "M2"
+        "value": "M2",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS Mail Innovations® Priority Mail",
-        "value": "M3"
+        "value": "M3",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS Mail Innovations® Expedited",
-        "value": "M4"
+        "value": "M4",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS Mail Innovations® Priority Intl.",
-        "value": "M5"
+        "value": "M5",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "display": "UPS Mail Innovations® Economy Intl.",
-        "value": "M6"
+        "value": "M6",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       }
     ],
     "display_name": "UPS",
@@ -2019,7 +2053,8 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       }
     ],
     "box_shape": [
@@ -2239,7 +2274,8 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       }
     ],
     "box_shape": [
@@ -2457,7 +2493,8 @@
     "insurance": [
       {
         "display": "Discounted Insurance",
-        "value": "discounted_insurance"
+        "value": "discounted_insurance",
+        "max": 5000
       }
     ],
     "box_shape": [
@@ -2801,11 +2838,17 @@
       },
       {
         "value": "USPS_PTP_FC",
-        "display": "USPS® First Class"
+        "display": "USPS® First Class",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "value": "USPS_PTP_FC_CUSTOMS",
-        "display": "USPS® First Class (Customs)"
+        "display": "USPS® First Class (Customs)",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "value": "USPS_PTP_PRI",
