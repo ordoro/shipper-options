@@ -2142,7 +2142,10 @@
       {
         "value": "FCM",
         "display": "First-Class Mail",
-        "transaction_fee": true
+        "transaction_fee": true,
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "value": "PM",
@@ -2362,7 +2365,10 @@
     "shipping_method": [
       {
         "value": "FCM",
-        "display": "First-Class Mail"
+        "display": "First-Class Mail",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "value": "PM",
@@ -3336,7 +3342,10 @@
     "shipping_method": [
       {
         "value": "FirstClassMail",
-        "display": "First-Class Mail"
+        "display": "First-Class Mail",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
       },
       {
         "value": "PriorityMail",
