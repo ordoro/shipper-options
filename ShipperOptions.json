@@ -1088,35 +1088,35 @@
     ],
     "shipping_method": [
       {
-        "display": "Home Delivery",
+        "display": "FedEx Home Delivery®",
         "value": "GROUND_HOME_DELIVERY"
       },
       {
-        "display": "Ground",
+        "display": "FedEx Ground®",
         "value": "FEDEX_GROUND"
       },
       {
-        "display": "Express Saver",
+        "display": "FedEx Express Saver®",
         "value": "FEDEX_EXPRESS_SAVER"
       },
       {
-        "display": "2 Day",
+        "display": "FedEx 2Day®",
         "value": "FEDEX_2_DAY"
       },
       {
-        "display": "2 Day AM",
+        "display": "FedEx 2Day® A.M.",
         "value": "FEDEX_2_DAY_AM"
       },
       {
-        "display": "FedEx Standard Overnight",
+        "display": "FedEx Standard Overnight®",
         "value": "STANDARD_OVERNIGHT"
       },
       {
-        "display": "FedEx Priority Overnight",
+        "display": "FedEx Priority Overnight®",
         "value": "PRIORITY_OVERNIGHT"
       },
       {
-        "display": "FedEx First Overnight",
+        "display": "FedEx First Overnight®",
         "value": "FIRST_OVERNIGHT"
       },
       {
@@ -1127,23 +1127,23 @@
         }
       },
       {
-        "display": "International Priority",
+        "display": "FedEx International Priority®",
         "value": "INTERNATIONAL_PRIORITY"
       },
       {
-        "display": "International Economy",
+        "display": "FedEx International Economy®",
         "value": "INTERNATIONAL_ECONOMY"
       },
       {
-        "display": "International First",
+        "display": "FedEx International First®",
         "value": "INTERNATIONAL_FIRST"
       },
       {
-        "display": "FedEx International Priority",
+        "display": "FedEx International Priority®",
         "value": "FEDEX_INTERNATIONAL_PRIORITY"
       },
       {
-        "display": "FedEx International Priority Express",
+        "display": "FedEx International Priority® Express",
         "value": "FEDEX_INTERNATIONAL_PRIORITY_EXPRESS"
       },
       {
