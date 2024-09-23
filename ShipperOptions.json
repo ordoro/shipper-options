@@ -2038,6 +2038,11 @@
         "display": "(E)",
         "value": "(E)"
       }
+    ],
+    "tax_id_type": [
+      {"display": "DNS", "value": "DNS"},
+      {"display": "EIN", "value": "EIN"},
+      {"display": "FGN", "value": "FGN"}
     ]
   },
   "usps": {
@@ -2260,14 +2265,8 @@
       }
     ],
     "tax_id_type": [
-      {
-        "display": "VAT",
-        "value": "VAT_NUMBER"
-      },
-      {
-        "display": "IOSS",
-        "value": "IOSS_NUMBER"
-      }
+      {"display": "VAT", "value": "VAT_NUMBER"},
+      {"display": "IOSS", "value": "IOSS_NUMBER"}
     ]
   },
   "pitney_merchant": {
@@ -2482,14 +2481,8 @@
       }
     ],
     "tax_id_type": [
-      {
-        "display": "VAT",
-        "value": "VAT_NUMBER"
-      },
-      {
-        "display": "IOSS",
-        "value": "IOSS_NUMBER"
-      }
+      {"display": "VAT", "value": "VAT_NUMBER"},
+      {"display": "IOSS", "value": "IOSS_NUMBER"}
     ]
   },
   "pitney_presort": {
@@ -2918,11 +2911,15 @@
       },
       {
         "value": "UPS_PTP_NEXT_DAY_AIR",
-        "display": "UPS® Next Day Air"
+        "display": "UPS® Next Day Air®"
+      },
+      {
+        "value": "UPS_PTP_NEXT_DAY_AIR_SAT",
+        "display": "UPS® Next Day Air® Saturday"
       },
       {
         "value": "UPS_PTP_NEXT_DAY_AIR_SAVER",
-        "display": "UPS® Next Day Air Saver"
+        "display": "UPS® Next Day Air Saver®"
       },
       {
         "value": "STAMPS_US_PM_SFRB",
