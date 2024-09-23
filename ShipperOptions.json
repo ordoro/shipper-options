@@ -2911,11 +2911,15 @@
       },
       {
         "value": "UPS_PTP_NEXT_DAY_AIR",
-        "display": "UPS® Next Day Air"
+        "display": "UPS® Next Day Air®"
+      },
+      {
+        "value": "UPS_PTP_NEXT_DAY_AIR_SAT",
+        "display": "UPS® Next Day Air® Saturday"
       },
       {
         "value": "UPS_PTP_NEXT_DAY_AIR_SAVER",
-        "display": "UPS® Next Day Air Saver"
+        "display": "UPS® Next Day Air Saver®"
       },
       {
         "value": "STAMPS_US_PM_SFRB",
