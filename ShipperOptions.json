@@ -1030,10 +1030,6 @@
       {
         "display": "Presorted Standard",
         "value": "PRESORTED_STANDARD"
-      },
-      {
-        "display": "Parcel Return",
-        "value": "PARCEL_RETURN"
       }
     ],
     "box_shape": [
