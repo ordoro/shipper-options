@@ -1038,47 +1038,47 @@
         "value": "YOUR_PACKAGING"
       },
       {
-        "display": "FedEx Box",
+        "display": "FedEx® Box",
         "value": "FEDEX_BOX"
       },
       {
-        "display": "FedEx Envelope",
+        "display": "FedEx® Envelope",
         "value": "FEDEX_ENVELOPE"
       },
       {
-        "display": "FedEx Pak",
+        "display": "FedEx® Pak",
         "value": "FEDEX_PAK"
       },
       {
-        "display": "FedEx Tube",
+        "display": "FedEx® Tube",
         "value": "FEDEX_TUBE"
       },
       {
-        "display": "One Rate Envelope",
+        "display": "One Rate® Envelope",
         "value": "ONE_RATE_ENVELOPE"
       },
       {
-        "display": "One Rate Small Box",
+        "display": "One Rate® Small Box",
         "value": "ONE_RATE_SMALL_BOX"
       },
       {
-        "display": "One Rate Medium Box",
+        "display": "One Rate® Medium Box",
         "value": "ONE_RATE_MEDIUM_BOX"
       },
       {
-        "display": "One Rate Large Box",
+        "display": "One Rate® Large Box",
         "value": "ONE_RATE_LARGE_BOX"
       },
       {
-        "display": "One Rate Extra Large Box",
+        "display": "One Rate® Extra Large Box",
         "value": "ONE_RATE_EXTRA_LARGE_BOX"
       },
       {
-        "display": "One Rate Pak",
+        "display": "One Rate® Pak",
         "value": "ONE_RATE_PAK"
       },
       {
-        "display": "One Rate Tube",
+        "display": "One Rate® Tube",
         "value": "ONE_RATE_TUBE"
       }
     ],
