@@ -1176,6 +1176,28 @@
         "value": "fedex"
       }
     ],
+    "ancillary_endorsement": [
+      {
+        "display": "Address Correction",
+        "value": "ADDRESS_CORRECTION"
+      },
+      {
+        "display": "Carrier - Leave If No Response",
+        "value": "CARRIER_LEAVE_IF_NO_RESPONSE"
+      },
+      {
+        "display": "Change Service",
+        "value": "CHANGE_SERVICE"
+      },
+      {
+        "display": "Forwarding Service",
+        "value": "FORWARDING_SERVICE"
+      },
+      {
+        "display": "Return Service",
+        "value": "RETURN_SERVICE"
+      }
+    ],
     "hub": [
       {
         "display": "Allentown",
