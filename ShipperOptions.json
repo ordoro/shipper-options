@@ -1016,19 +1016,19 @@
     "display_name": "FedEx",
     "indicia": [
       {
-        "display": "Media Mail",
+        "display": "FedEx Ground® Economy Media Mail",
         "value": "MEDIA_MAIL"
       },
       {
-        "display": "Parcel Select",
+        "display": "FedEx Ground® Economy Parcel Select",
         "value": "PARCEL_SELECT"
       },
       {
-        "display": "Presorted Bound Printed Matter",
+        "display": "FedEx Ground® Economy Bound Printed Matter",
         "value": "PRESORTED_BOUND_PRINTED_MATTER"
       },
       {
-        "display": "Presorted Standard",
+        "display": "FedEx Ground® Economy (under 1 lb.)",
         "value": "PRESORTED_STANDARD"
       }
     ],
@@ -1054,8 +1054,16 @@
         "value": "FEDEX_TUBE"
       },
       {
-        "display": "FedEx® Envelope",
+        "display": "One rate - FedEx® Envelope",
         "value": "ONE_RATE_ENVELOPE"
+      },
+      {
+        "display": "One rate - FedEx® Pak",
+        "value": "ONE_RATE_PAK"
+      },
+      {
+        "display": "One rate - FedEx® Tube",
+        "value": "ONE_RATE_TUBE"
       },
       {
         "display": "FedEx® Small Box",
@@ -1072,14 +1080,6 @@
       {
         "display": "FedEx® Extra Large Box",
         "value": "ONE_RATE_EXTRA_LARGE_BOX"
-      },
-      {
-        "display": "FedEx® One Rate® Pak",
-        "value": "ONE_RATE_PAK"
-      },
-      {
-        "display": "FedEx® One Rate® Tube",
-        "value": "ONE_RATE_TUBE"
       }
     ],
     "shipping_method": [
