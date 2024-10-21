@@ -1020,7 +1020,7 @@
         "value": "MEDIA_MAIL"
       },
       {
-        "display": "FedEx Ground® Economy Parcel Select",
+        "display": "FedEx Ground® Economy",
         "value": "PARCEL_SELECT"
       },
       {
@@ -1371,11 +1371,11 @@
     "pickup_carrier_code": [
       {
         "value": "FDXG",
-        "display": "Fedex Ground"
+        "display": "FedEx Ground®"
       },
       {
         "value": "FDXE",
-        "display": "Fedex Express"
+        "display": "FedEx Express"
       }
     ],
     "pickup_service_category": [
