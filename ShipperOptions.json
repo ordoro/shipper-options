@@ -1493,13 +1493,6 @@
       {"display": "Tube", "value": "TUBE"},
       {"display": "Unit", "value": "UNIT"}
     ],
-    "cod": [
-      {"value": "ANY", "display": "Any"},
-      {"value": "CASH", "display": "Cash"},
-      {"value": "GUARANTEED_FUNDS", "display": "Guaranteed Funds"},
-      {"value": "COMPANY_CHECK", "display": "Company Check"},
-      {"value": "PERSONAL_CHECK", "display": "Personal Check"}
-    ],
     "priority_alert": [
       {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
       {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
