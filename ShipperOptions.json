@@ -1412,6 +1412,16 @@
         "display": "FedEx Next Day Freight"
       }
     ],
+    "pickup_date_type": [
+      {
+        "value": "SAME_DAY",
+        "display": "Same Day"
+      },
+      {
+        "value": "FUTURE_DAY",
+        "display": "Future Day"
+      }
+    ],
     "dangerous_goods_option": [
       {
         "value": "BATTERY",
