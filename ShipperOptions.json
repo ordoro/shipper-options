@@ -2601,7 +2601,7 @@
     ]
   },
   "amazon": {
-    "display_name": "Amazon SFP",
+    "display_name": "Amazon Buy Shipping",
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -2856,6 +2856,10 @@
       {
         "value": "FEDEX_PTP_EXPRESS_SAVER_ONE_RATE",
         "display": "FedEx® Express Saver® One Rate®"
+      },
+      {
+        "value": "FEDEX_PTP_SMARTPOST",
+        "display": "FedEx Ground® Economy"
       },
       {
         "value": "USPS_PTP_EXP",
