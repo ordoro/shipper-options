@@ -1432,6 +1432,12 @@
         "display": "Future Day"
       }
     ],
+    "pickup_package_location": [
+      {"value": "NONE", "display": "None"},
+      {"value": "FRONT", "display": "Front"},
+      {"value": "REAR", "display": "Rear"},
+      {"value": "SIDE", "display": "Side"}
+    ],
     "dangerous_goods_option": [
       {
         "value": "BATTERY",
