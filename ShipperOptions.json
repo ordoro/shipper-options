@@ -3027,6 +3027,10 @@
         "display": "No delivery confirmation"
       },
       {
+        "value": "NoPreference",
+        "display": "No preference"
+      },
+      {
         "value": "DeliveryConfirmationWithoutSignature",
         "display": "Delivery Confirmation"
       },
