@@ -1049,7 +1049,8 @@
       {
         "display": "FedEx® Box",
         "value": "FEDEX_BOX",
-        "dimensions_required": true
+        "dimensions_required": true,
+        "hide_for_one_rate": true
       },
       {
         "display": "FedEx® Envelope",
@@ -1065,15 +1066,21 @@
       },
       {
         "display": "FedEx One Rate® - FedEx® Envelope",
-        "value": "ONE_RATE_ENVELOPE"
+        "value": "ONE_RATE_ENVELOPE",
+        "temp_use_fedex_auth": "comment property to make chopping easier",
+        "hide_for_csp": true
       },
       {
         "display": "FedEx One Rate® - FedEx® Pak",
-        "value": "ONE_RATE_PAK"
+        "value": "ONE_RATE_PAK",
+        "temp_use_fedex_auth": "comment property to make chopping easier",
+        "hide_for_csp": true
       },
       {
         "display": "FedEx One Rate® - FedEx® Tube",
-        "value": "ONE_RATE_TUBE"
+        "value": "ONE_RATE_TUBE",
+        "temp_use_fedex_auth": "comment property to make chopping easier",
+        "hide_for_csp": true
       },
       {
         "display": "FedEx® Small Box",
