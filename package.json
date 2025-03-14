@@ -1,6 +1,6 @@
 {
   "name": "@ordoro/shipper-options",
-  "version": "1.20.15",
+  "version": "1.21.0",
   "description": "A collection of shipper options",
   "main": "ShipperOptions.json",
   "scripts": {
