@@ -1,4 +1,4 @@
-FROM gcr.io/ordoro-dev/python-build-package:latest
+FROM us-west1-docker.pkg.dev/ordoro-infra-ops/ordoro-services/python-build-package:latest
 
 COPY shipper_options /app/shipper_options
 COPY setup.py /app/setup.py
