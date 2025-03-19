@@ -2078,8 +2078,324 @@
       {"display": "FGN", "value": "FGN"}
     ]
   },
-  "usps": {
-    "display_name": "USPS"
+    "usps": {
+    "display_name": "USPS",
+    "customs_form": [],
+    "contents_type": [],
+    "insurance": [],
+    "box_shape": [
+      {
+        "display": "3-Digit",
+        "value": "3D"
+      },
+      {
+        "display": "3-Digit Dimensional Rectangular",
+        "value": "3N"
+      },
+      {
+        "display": "3-Digit Dimensional Nonrectangular",
+        "value": "3R"
+      },
+      {
+        "display": "5-Digit",
+        "value": "5D"
+      },
+      {
+        "display": "Basic",
+        "value": "BA"
+      },
+      {
+        "display": "Mixed NDC",
+        "value": "BB"
+      },
+      {
+        "display": "NDC",
+        "value": "BM"
+      },
+      {
+        "display": "Cubic Pricing Tier 1",
+        "value": "C1"
+      },
+      {
+        "display": "Cubic Pricing Tier 2",
+        "value": "C2"
+      },
+      {
+        "display": "Cubic Pricing Tier 3",
+        "value": "C3"
+      },
+      {
+        "display": "Cubic Pricing Tier 4",
+        "value": "C4"
+      },
+      {
+        "display": "Cubic Pricing Tier 5",
+        "value": "C5"
+      },
+      {
+        "display": "Cubic Parcel",
+        "value": "CP"
+      },
+      {
+        "display": "USPS Connect Local® Mail",
+        "value": "CM"
+      },
+      {
+        "display": "NDC",
+        "value": "DC"
+      },
+      {
+        "display": "SCF",
+        "value": "DE"
+      },
+      {
+        "display": "5-Digit",
+        "value": "DF"
+      },
+      {
+        "display": "Dimensional Nonrectangular",
+        "value": "DN"
+      },
+      {
+        "display": "Dimensional Rectangular",
+        "value": "DR"
+      },
+      {
+        "display": "Priority Mail Express Flat Rate Envelope <fix> Post Office To Addressee",
+        "value": "E4"
+      },
+      {
+        "display": "Priority Mail Express Legal Flat Rate Envelope",
+        "value": "E6"
+      },
+      {
+        "display": "Priority Mail Express Legal Flat Rate Envelope Sunday / Holiday",
+        "value": "E7"
+      },
+      {
+        "display": "Legal Flat Rate Envelope",
+        "value": "FA"
+      },
+      {
+        "display": "Medium Flat Rate Box/Large Flat Rate Bag",
+        "value": "FB"
+      },
+      {
+        "display": "Flat Rate Envelope",
+        "value": "FE"
+      },
+      {
+        "display": "Padded Flat Rate Envelope",
+        "value": "FP"
+      },
+      {
+        "display": "Small Flat Rate Box",
+        "value": "FS"
+      },
+      {
+        "display": "USPS Connect® Local Single Piece",
+        "value": "LC"
+      },
+      {
+        "display": "USPS Connect® Local Flat Rate Box",
+        "value": "LF"
+      },
+      {
+        "display": "USPS Connect® Local Large Flat Rate Bag",
+        "value": "LL"
+      },
+      {
+        "display": "USPS Connect® Local Oversized",
+        "value": "LO"
+      },
+      {
+        "display": "USPS Connect® Local Small Flat Rate Bag",
+        "value": "LS"
+      },
+      {
+        "display": "Non-Presorted",
+        "value": "NP"
+      },
+      {
+        "display": "Full Tray Box",
+        "value": "O1"
+      },
+      {
+        "display": "Half Tray Box",
+        "value": "O2"
+      },
+      {
+        "display": "EMM Tray Box",
+        "value": "O3"
+      },
+      {
+        "display": "Flat Tub Tray Box",
+        "value": "O4"
+      },
+      {
+        "display": "Surface Transported Pallet",
+        "value": "O5"
+      },
+      {
+        "display": "Full Pallet Box",
+        "value": "O6"
+      },
+      {
+        "display": "Half Pallet Box",
+        "value": "O7"
+      },
+      {
+        "display": "Oversized",
+        "value": "OS"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 1",
+        "value": "P5"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 2",
+        "value": "P6"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 3",
+        "value": "P7"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 4",
+        "value": "P8"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 5",
+        "value": "P9"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 6",
+        "value": "Q6"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 7",
+        "value": "Q7"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 8",
+        "value": "Q8"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 9",
+        "value": "Q9"
+      },
+      {
+        "display": "Cubic Soft Pack Tier 10",
+        "value": "Q0"
+      },
+      {
+        "display": "Priority Mail Express Single Piece",
+        "value": "PA"
+      },
+      {
+        "display": "Large Flat Rate Box",
+        "value": "PL"
+      },
+      {
+        "display": "Large Flat Rate Box APO/FPO/DPO",
+        "value": "PM"
+      },
+      {
+        "display": "Presorted",
+        "value": "PR"
+      },
+      {
+        "display": "Small Flat Rate Bag",
+        "value": "SB"
+      },
+      {
+        "display": "SCF Dimensional Nonrectangular",
+        "value": "SN"
+      },
+      {
+        "display": "Single Piece",
+        "value": "SP"
+      },
+      {
+        "display": "SCF Dimensional Rectangular",
+        "value": "SR"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "PARCEL_SELECT",
+        "value": "PARCEL_SELECT"
+      },
+      {
+        "display": "PARCEL_SELECT_LIGHTWEIGHT",
+        "value": "PARCEL_SELECT_LIGHTWEIGHT"
+      },
+      {
+        "display": "PRIORITY_MAIL_EXPRESS",
+        "value": "PRIORITY_MAIL_EXPRESS"
+      },
+      {
+        "display": "PRIORITY_MAIL",
+        "value": "PRIORITY_MAIL"
+      },
+      {
+        "display": "FIRST-CLASS_PACKAGE_SERVICE",
+        "value": "FIRST-CLASS_PACKAGE_SERVICE"
+      },
+      {
+        "display": "LIBRARY_MAIL",
+        "value": "LIBRARY_MAIL"
+      },
+      {
+        "display": "MEDIA_MAIL",
+        "value": "MEDIA_MAIL"
+      },
+      {
+        "display": "BOUND_PRINTED_MATTER",
+        "value": "BOUND_PRINTED_MATTER"
+      },
+      {
+        "display": "USPS_CONNECT_LOCAL",
+        "value": "USPS_CONNECT_LOCAL"
+      },
+      {
+        "display": "USPS_CONNECT_MAIL",
+        "value": "USPS_CONNECT_MAIL"
+      },
+      {
+        "display": "USPS_CONNECT_REGIONAL",
+        "value": "USPS_CONNECT_REGIONAL"
+      },
+      {
+        "display": "USPS_GROUND_ADVANTAGE",
+        "value": "USPS_GROUND_ADVANTAGE"
+      },
+      {
+        "display": "USPS_GROUND_ADVANTAGE_RETURN_SERVICE",
+        "value": "USPS_GROUND_ADVANTAGE_RETURN_SERVICE"
+      },
+      {
+        "display": "USPS_RETAIL_GROUND",
+        "value": "USPS_RETAIL_GROUND"
+      },
+      {
+        "display": "GROUND_RETURN_SERVICE",
+        "value": "GROUND_RETURN_SERVICE"
+      },
+      {
+        "display": "FIRST-CLASS_PACKAGE_RETURN_SERVICE",
+        "value": "FIRST-CLASS_PACKAGE_RETURN_SERVICE"
+      },
+      {
+        "display": "PRIORITY_MAIL_RETURN_SERVICE",
+        "value": "PRIORITY_MAIL_RETURN_SERVICE"
+      },
+      {
+        "display": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE",
+        "value": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE"
+      }
+    ],
+    "delivery_confirmation": []
   },
   "royal_mail": {
     "display_name": "Royal Mail"
