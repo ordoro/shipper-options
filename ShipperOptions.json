@@ -2078,7 +2078,10 @@
       {"display": "FGN", "value": "FGN"}
     ]
   },
-    "usps": {
+  "usps": {
+    "display_name": "USPS"
+  },
+  "usps_ship": {
     "display_name": "USPS",
     "customs_form": [],
     "contents_type": [],
