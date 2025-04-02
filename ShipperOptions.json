@@ -2083,6 +2083,7 @@
   },
   "usps_ship": {
     "display_name": "USPS",
+    "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
     "insurance": [],
@@ -2398,7 +2399,28 @@
         "value": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE"
       }
     ],
-    "delivery_confirmation": []
+    "delivery_confirmation": [
+      {
+        "display": "Signature Confirmation",
+        "value": "921"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "922"
+      },
+      {
+        "display": "Adult Signature Restricted Delivery",
+        "value": "923"
+      },
+      {
+        "display": "Signature Confirmation Restricted Delivery",
+        "value": "924"
+      },
+      {
+        "display": "Signature Requested",
+        "value": "981"
+      }
+    ]
   },
   "royal_mail": {
     "display_name": "Royal Mail"
