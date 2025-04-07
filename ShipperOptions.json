@@ -2424,15 +2424,15 @@
     "nondelivery": [
       {
         "display": "Return",
-        "value": "return"
+        "value": "RETURN"
       },
       {
         "display": "Abandon",
-        "value": "abandon"
+        "value": "ABANDON"
       },
       {
         "display": "Redirect",
-        "value": "redirect"
+        "value": "REDIRECT"
       }
     ]
   },
