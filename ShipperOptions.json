@@ -2420,6 +2420,20 @@
         "display": "Signature Requested",
         "value": "981"
       }
+    ],
+    "nondelivery": [
+      {
+        "display": "Return",
+        "value": "return"
+      },
+      {
+        "display": "Abandon",
+        "value": "abandon"
+      },
+      {
+        "display": "Redirect",
+        "value": "redirect"
+      }
     ]
   },
   "royal_mail": {
