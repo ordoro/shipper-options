@@ -2661,6 +2661,96 @@
     "tax_id_type": [
       {"display": "VAT", "value": "VAT_NUMBER"},
       {"display": "IOSS", "value": "IOSS_NUMBER"}
+    ],
+    "hazmat_type": [
+      {
+        "display": "Air Eligible Ethanol",
+        "value":  "Air Eligible Ethanol"
+      },
+      {
+        "display": "Class 1 Toy Propellant or Safety Fuse - Ground shipments only",
+        "value":  "Class 1 Toy Propellant or Safety Fuse"
+      },
+      {
+        "display": "Class 3 - Ground shipments only",
+        "value":  "Class 3"
+      },
+      {
+        "display": "Class 7 Radioactive Materials - Ground shipments only",
+        "value":  "Class 7 Radioactive Materials"
+      },
+      {
+        "display": "Class 8 Air Eligible Corrosive Materials",
+        "value":  "Class 8 Air Eligible Corrosive Materials"
+      },
+      {
+        "display": "Class 8 Sealed Lead Acid Battery",
+        "value":  "Class 8 Sealed Lead Acid Battery"
+      },
+      {
+        "display": "Class 9 Dry Ice",
+        "value":  "Class 9 Dry Ice"
+      },
+      {
+        "display": "Class 9 Lithium Battery Marked Ground Only",
+        "value":  "Class 9 Lithium Battery Marked Ground Only"
+      },
+      {
+        "display": "Class 9 Lithium Battery Unmarked",
+        "value":  "Class 9 Lithium Battery Unmarked"
+      },
+      {
+        "display": "Class 9 Lithium Battery with New Device",
+        "value":  "Class 9 Lithium Battery with New Device"
+      },
+      {
+        "display": "Class 9 Magnetized Materials",
+        "value":  "Class 9 Magnetized Materials"
+      },
+      {
+        "display": "Consumer Commodity",
+        "value":  "Consumer Commodity"
+      },
+      {
+        "display": "Div 4.1 Mailable Flammable Solids - Ground shipments only",
+        "value":  "Div 4.1 Mailable Flammable Solids"
+      },
+      {
+        "display": "Div 5.1 Hydrogen Peroxide 8 to 20 Percent",
+        "value":  "Div 5.1 Hydrogen Peroxide 8 to 20 Percent"
+      },
+      {
+        "display": "Div 5.2 Organic Peroxides",
+        "value":  "Div 5.2 Organic Peroxides"
+      },
+      {
+        "display": "Div 6.1 Toxic Materials",
+        "value":  "Div 6.1 Toxic Materials"
+      },
+      {
+        "display": "Div 6.2 Biological Materials",
+        "value":  "Div 6.2 Biological Materials"
+      },
+      {
+        "display": "Excepted Quantity Provision",
+        "value":  "Excepted Quantity Provision"
+      },
+      {
+        "display": "Ground Only Hazardous Materials",
+        "value":  "Ground Only Hazardous Materials"
+      },
+      {
+        "display": "Lighters - Ground shipments only",
+        "value":  "Lighters"
+      },
+      {
+        "display": "Limited Quantity Ground Only",
+        "value":  "Limited Quantity Ground Only"
+      },
+      {
+        "display": "Small Quantity Provision - Ground shipments only",
+        "value": "Small Quantity Provision"
+      }
     ]
   },
   "pitney_merchant": {
