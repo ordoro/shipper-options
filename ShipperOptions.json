@@ -223,6 +223,7 @@
     ]
   },
   "pitney_cbds": {
+    "deprecated": true,
     "display_name": "USPS (CBDS)",
     "dimensions_required": true,
     "box_shape": [
@@ -812,6 +813,7 @@
     ]
   },
   "endicia": {
+    "deprecated": true,
     "customs_form": [
       {
         "display": "None",
@@ -3550,6 +3552,7 @@
     ]
   },
   "newgistics": {
+    "deprecated": true,
     "display_name": "PB Standard",
     "dimensions_required": true,
     "delivery_confirmation": [
@@ -3800,6 +3803,7 @@
     ]
   },
   "visible_usps": {
+    "deprecated": true,
     "display_name": "USPS",
     "box_shape": [
       {
@@ -3944,6 +3948,7 @@
     ]
   },
   "onelivex": {
+    "deprecated": true,
     "display_name": "X Delivery",
     "dimensions_required": true,
     "box_shape": [
