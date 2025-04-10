@@ -1751,7 +1751,7 @@
       },
       {
         "discounted_display": "UPS® Ground Saver Less than 1lb",
-        "display": "UPS SurePost® Less than 1lb",
+        "display": "UPS Ground Saver® Less than 1lb",
         "value": "92",
         "insurance": {
           "discounted_insurance": {"max": 1000}
@@ -1759,21 +1759,21 @@
       },
       {
         "discounted_display": "UPS® Ground Saver 1lb or Greater",
-        "display": "UPS SurePost® 1lb or Greater",
+        "display": "UPS Ground Saver® 1lb or Greater",
         "value": "93",
         "insurance": {
           "discounted_insurance": {"max": 1000}
         }
       },
       {
-        "display": "UPS SurePost® BPM",
+        "display": "UPS Ground Saver® BPM",
         "value": "94",
         "insurance": {
           "discounted_insurance": {"max": 1000}
         }
       },
       {
-        "display": "UPS SurePost® Media",
+        "display": "UPS Ground Saver® Media",
         "value": "95",
         "insurance": {
           "discounted_insurance": {"max": 1000}
@@ -3396,6 +3396,10 @@
       {
         "value": "UPS_PTP_GND",
         "display": "UPS® Ground"
+      },
+      {
+        "value": "UPS_PTP_GROUNDSAVER",
+        "display": "UPS® Ground Saver®"
       },
       {
         "value": "UPS_PTP_3DAY_SELECT",
