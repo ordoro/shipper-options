@@ -1387,6 +1387,28 @@
         "display": "Licensee"
       }
     ],
+    "b13a_filing_option": [
+      {
+        "value": "NOT_REQUIRED",
+        "display": "Not Required"
+      },
+      {
+        "value": "MANUALLY_ATTACHED",
+        "display": "Manually Attached"
+      },
+      {
+        "value": "FILED_ELECTRONICALLY",
+        "display": "Filed Electronically"
+      },
+      {
+        "value": "SUMMARY_REPORTING",
+        "display": "Summary Reporting"
+      },
+      {
+        "value": "FEDEX_TO_STAMP",
+        "display": "FedEx to Stamp"
+      }
+    ],
     "pickup_carrier_code": [
       {
         "value": "FDXG",
