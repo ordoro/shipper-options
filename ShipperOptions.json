@@ -2114,97 +2114,97 @@
       {
         "display": "3-Digit",
         "value": "3D",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "3-Digit Dimensional Rectangular",
         "value": "3N",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "3-Digit Dimensional Nonrectangular",
         "value": "3R",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "5-Digit",
         "value": "5D",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Basic",
         "value": "BA",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Mixed NDC",
         "value": "BB",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "NDC",
         "value": "BM",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Pricing Tier 1",
         "value": "C1",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Pricing Tier 2",
         "value": "C2",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Pricing Tier 3",
         "value": "C3",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Pricing Tier 4",
         "value": "C4",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Pricing Tier 5",
         "value": "C5",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Parcel",
         "value": "CP",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "USPS Connect Local® Mail",
         "value": "CM",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "NDC",
         "value": "DC",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "SCF",
         "value": "DE",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "5-Digit",
         "value": "DF",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Dimensional Nonrectangular",
         "value": "DN",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Dimensional Rectangular",
         "value": "DR",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Priority Mail Express Flat Rate Envelope <fix> Post Office To Addressee",
@@ -2241,7 +2241,7 @@
       {
         "display": "USPS Connect® Local Single Piece",
         "value": "LC",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "USPS Connect® Local Flat Rate Box",
@@ -2254,7 +2254,7 @@
       {
         "display": "USPS Connect® Local Oversized",
         "value": "LO",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "USPS Connect® Local Small Flat Rate Bag",
@@ -2263,102 +2263,102 @@
       {
         "display": "Non-Presorted",
         "value": "NP",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Full Tray Box",
         "value": "O1",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Half Tray Box",
         "value": "O2",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "EMM Tray Box",
         "value": "O3",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Flat Tub Tray Box",
         "value": "O4",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Surface Transported Pallet",
         "value": "O5",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Full Pallet Box",
         "value": "O6",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Half Pallet Box",
         "value": "O7",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Oversized",
         "value": "OS",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 1",
         "value": "P5",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 2",
         "value": "P6",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 3",
         "value": "P7",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 4",
         "value": "P8",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 5",
         "value": "P9",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 6",
         "value": "Q6",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 7",
         "value": "Q7",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 8",
         "value": "Q8",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 9",
         "value": "Q9",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Cubic Soft Pack Tier 10",
         "value": "Q0",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Priority Mail Express Single Piece",
         "value": "PA",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Large Flat Rate Box",
@@ -2371,7 +2371,7 @@
       {
         "display": "Presorted",
         "value": "PR",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Small Flat Rate Bag",
@@ -2380,17 +2380,17 @@
       {
         "display": "SCF Dimensional Nonrectangular",
         "value": "SN",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "Single Piece",
         "value": "SP",
-        "dimensions_required": true,
+        "dimensions_required": true
       },
       {
         "display": "SCF Dimensional Rectangular",
         "value": "SR",
-        "dimensions_required": true,
+        "dimensions_required": true
       }
     ],
     "shipping_method": [
