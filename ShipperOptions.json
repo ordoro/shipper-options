@@ -2112,38 +2112,8 @@
     "insurance": [],
     "box_shape": [
       {
-        "display": "3-Digit",
-        "value": "3D",
-        "dimensions_required": true
-      },
-      {
-        "display": "3-Digit Dimensional Rectangular",
-        "value": "3N",
-        "dimensions_required": true
-      },
-      {
-        "display": "3-Digit Dimensional Nonrectangular",
-        "value": "3R",
-        "dimensions_required": true
-      },
-      {
-        "display": "5-Digit",
-        "value": "5D",
-        "dimensions_required": true
-      },
-      {
         "display": "Basic",
         "value": "BA",
-        "dimensions_required": true
-      },
-      {
-        "display": "Mixed NDC",
-        "value": "BB",
-        "dimensions_required": true
-      },
-      {
-        "display": "NDC",
-        "value": "BM",
         "dimensions_required": true
       },
       {
@@ -2182,21 +2152,6 @@
         "dimensions_required": true
       },
       {
-        "display": "NDC",
-        "value": "DC",
-        "dimensions_required": true
-      },
-      {
-        "display": "SCF",
-        "value": "DE",
-        "dimensions_required": true
-      },
-      {
-        "display": "5-Digit",
-        "value": "DF",
-        "dimensions_required": true
-      },
-      {
         "display": "Dimensional Nonrectangular",
         "value": "DN",
         "dimensions_required": true
@@ -2207,16 +2162,12 @@
         "dimensions_required": true
       },
       {
-        "display": "Priority Mail Express Flat Rate Envelope <fix> Post Office To Addressee",
+        "display": "Priority Mail Express Flat Rate Envelope - Post Office To Addressee",
         "value": "E4"
       },
       {
         "display": "Priority Mail Express Legal Flat Rate Envelope",
         "value": "E6"
-      },
-      {
-        "display": "Priority Mail Express Legal Flat Rate Envelope Sunday / Holiday",
-        "value": "E7"
       },
       {
         "display": "Legal Flat Rate Envelope",
@@ -2263,41 +2214,6 @@
       {
         "display": "Non-Presorted",
         "value": "NP",
-        "dimensions_required": true
-      },
-      {
-        "display": "Full Tray Box",
-        "value": "O1",
-        "dimensions_required": true
-      },
-      {
-        "display": "Half Tray Box",
-        "value": "O2",
-        "dimensions_required": true
-      },
-      {
-        "display": "EMM Tray Box",
-        "value": "O3",
-        "dimensions_required": true
-      },
-      {
-        "display": "Flat Tub Tray Box",
-        "value": "O4",
-        "dimensions_required": true
-      },
-      {
-        "display": "Surface Transported Pallet",
-        "value": "O5",
-        "dimensions_required": true
-      },
-      {
-        "display": "Full Pallet Box",
-        "value": "O6",
-        "dimensions_required": true
-      },
-      {
-        "display": "Half Pallet Box",
-        "value": "O7",
         "dimensions_required": true
       },
       {
@@ -2378,18 +2294,8 @@
         "value": "SB"
       },
       {
-        "display": "SCF Dimensional Nonrectangular",
-        "value": "SN",
-        "dimensions_required": true
-      },
-      {
         "display": "Single Piece",
         "value": "SP",
-        "dimensions_required": true
-      },
-      {
-        "display": "SCF Dimensional Rectangular",
-        "value": "SR",
         "dimensions_required": true
       }
     ],
