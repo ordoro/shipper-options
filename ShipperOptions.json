@@ -2112,6 +2112,23 @@
     "insurance": [],
     "box_shape": [
       {
+        "display": "Letter",
+        "value": "LETTERS",
+        "min_dims": [0.001, 5, 3.5],
+        "max_dims": [0.25, 11.5, 6.125],
+        "dim_count": 2,
+        "max_oz": 3.5,
+        "dimensions_required": true
+      },
+      {
+        "display": "Flat",
+        "value": "FLATS",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 13,
+        "dimensions_required": true
+      },
+      {
         "display": "Basic",
         "value": "BA",
         "dimensions_required": true
@@ -2163,31 +2180,45 @@
       },
       {
         "display": "Priority Mail Express Flat Rate Envelope - Post Office To Addressee",
-        "value": "E4"
+        "value": "E4",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Priority Mail Express Legal Flat Rate Envelope",
-        "value": "E6"
+        "value": "E6",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Legal Flat Rate Envelope",
-        "value": "FA"
+        "value": "FA",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Medium Flat Rate Box/Large Flat Rate Bag",
-        "value": "FB"
+        "value": "FB",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Flat Rate Envelope",
-        "value": "FE"
+        "value": "FE",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Padded Flat Rate Envelope",
-        "value": "FP"
+        "value": "FP",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Small Flat Rate Box",
-        "value": "FS"
+        "value": "FS",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "USPS Connect® Local Single Piece",
@@ -2278,11 +2309,15 @@
       },
       {
         "display": "Large Flat Rate Box",
-        "value": "PL"
+        "value": "PL",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Large Flat Rate Box APO/FPO/DPO",
-        "value": "PM"
+        "value": "PM",
+        "weight": false,
+        "dim_count": 0
       },
       {
         "display": "Presorted",
