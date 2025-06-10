@@ -2301,75 +2301,75 @@
     ],
     "shipping_method": [
       {
-        "display": "PARCEL_SELECT",
+        "display": "Parcel Select",
         "value": "PARCEL_SELECT"
       },
       {
-        "display": "PARCEL_SELECT_LIGHTWEIGHT",
+        "display": "Parcel Select Lightweight",
         "value": "PARCEL_SELECT_LIGHTWEIGHT"
       },
       {
-        "display": "PRIORITY_MAIL_EXPRESS",
+        "display": "Priority Mail Express",
         "value": "PRIORITY_MAIL_EXPRESS"
       },
       {
-        "display": "PRIORITY_MAIL",
+        "display": "Priority Mail",
         "value": "PRIORITY_MAIL"
       },
       {
-        "display": "FIRST-CLASS_PACKAGE_SERVICE",
+        "display": "First-Class Package Service",
         "value": "FIRST-CLASS_PACKAGE_SERVICE"
       },
       {
-        "display": "LIBRARY_MAIL",
+        "display": "Library Mail",
         "value": "LIBRARY_MAIL"
       },
       {
-        "display": "MEDIA_MAIL",
+        "display": "Media Mail",
         "value": "MEDIA_MAIL"
       },
       {
-        "display": "BOUND_PRINTED_MATTER",
+        "display": "Bound Printed Matter",
         "value": "BOUND_PRINTED_MATTER"
       },
       {
-        "display": "USPS_CONNECT_LOCAL",
+        "display": "USPS Connect Local",
         "value": "USPS_CONNECT_LOCAL"
       },
       {
-        "display": "USPS_CONNECT_MAIL",
+        "display": "USPS Connect Mail",
         "value": "USPS_CONNECT_MAIL"
       },
       {
-        "display": "USPS_CONNECT_REGIONAL",
+        "display": "USPS Connect Regional",
         "value": "USPS_CONNECT_REGIONAL"
       },
       {
-        "display": "USPS_GROUND_ADVANTAGE",
+        "display": "USPS Ground Advantage",
         "value": "USPS_GROUND_ADVANTAGE"
       },
       {
-        "display": "USPS_GROUND_ADVANTAGE_RETURN_SERVICE",
+        "display": "USPS Ground Advantage Return Service",
         "value": "USPS_GROUND_ADVANTAGE_RETURN_SERVICE"
       },
       {
-        "display": "USPS_RETAIL_GROUND",
+        "display": "USPS Retail Ground",
         "value": "USPS_RETAIL_GROUND"
       },
       {
-        "display": "GROUND_RETURN_SERVICE",
+        "display": "Ground Return Service",
         "value": "GROUND_RETURN_SERVICE"
       },
       {
-        "display": "FIRST-CLASS_PACKAGE_RETURN_SERVICE",
+        "display": "First-Class Package Return Service",
         "value": "FIRST-CLASS_PACKAGE_RETURN_SERVICE"
       },
       {
-        "display": "PRIORITY_MAIL_RETURN_SERVICE",
+        "display": "Priority Mail Return Service",
         "value": "PRIORITY_MAIL_RETURN_SERVICE"
       },
       {
-        "display": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE",
+        "display": "Priority Mail Express Return Service",
         "value": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE"
       }
     ],
