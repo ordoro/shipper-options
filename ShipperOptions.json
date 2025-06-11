@@ -2493,6 +2493,24 @@
         "display": "Other",
         "value": "OTHER"
       }
+    ],
+    "processing_category": [
+      {
+        "display": "Machinable",
+        "value": "MACHINABLE"
+      },
+      {
+        "display": "Flats",
+        "value": "FLATS"
+      },
+      {
+        "display": "Nonstandard",
+        "value": "NONSTANDARD"
+      },
+      {
+        "display": "Letters",
+        "value": "LETTERS"
+      }
     ]
   },
   "royal_mail": {
