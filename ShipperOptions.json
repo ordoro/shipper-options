@@ -2406,6 +2406,18 @@
       {
         "display": "Priority Mail Express Return Service",
         "value": "PRIORITY_MAIL_EXPRESS_RETURN_SERVICE"
+      },
+      {
+        "value": "FIRST-CLASS_PACKAGE_INTERNATIONAL_SERVICE",
+        "display": "First-Class Package International"
+      },
+      {
+        "value": "PRIORITY_MAIL_EXPRESS_INTERNATIONAL",
+        "display": "Priority Mail Express International"
+      },
+      {
+        "value": "PRIORITY_MAIL_INTERNATIONAL",
+        "display": "Priority Mail International"
       }
     ],
     "delivery_confirmation": [
