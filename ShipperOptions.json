@@ -2112,6 +2112,11 @@
     "insurance": [],
     "box_shape": [
       {
+          "display": "Parcel",
+          "value": "SP",
+          "dimensions_required": true
+      },
+      {
         "display": "Letter",
         "value": "LETTERS",
         "min_dims": [0.001, 5, 3.5],
@@ -2121,72 +2126,8 @@
         "dimensions_required": true
       },
       {
-        "display": "Flat",
-        "value": "FLATS",
-        "max_dims": [15, 12, 0.75],
-        "dim_count": 2,
-        "max_oz": 13,
-        "dimensions_required": true
-      },
-      {
-        "display": "Basic",
-        "value": "BA",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Pricing Tier 1",
-        "value": "C1",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Pricing Tier 2",
-        "value": "C2",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Pricing Tier 3",
-        "value": "C3",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Pricing Tier 4",
-        "value": "C4",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Pricing Tier 5",
-        "value": "C5",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Parcel",
-        "value": "CP",
-        "dimensions_required": true
-      },
-      {
-        "display": "USPS Connect Local® Mail",
-        "value": "CM",
-        "dimensions_required": true
-      },
-      {
-        "display": "Dimensional Nonrectangular",
-        "value": "DN",
-        "dimensions_required": true
-      },
-      {
-        "display": "Dimensional Rectangular",
-        "value": "DR",
-        "dimensions_required": true
-      },
-      {
-        "display": "Priority Mail Express Flat Rate Envelope - Post Office To Addressee",
-        "value": "E4",
-        "weight": false,
-        "dim_count": 0
-      },
-      {
-        "display": "Priority Mail Express Legal Flat Rate Envelope",
-        "value": "E6",
+        "display": "Flat Rate Envelope",
+        "value": "FE",
         "weight": false,
         "dim_count": 0
       },
@@ -2197,20 +2138,22 @@
         "dim_count": 0
       },
       {
-        "display": "Medium Flat Rate Box/Large Flat Rate Bag",
-        "value": "FB",
-        "weight": false,
-        "dim_count": 0
-      },
-      {
-        "display": "Flat Rate Envelope",
-        "value": "FE",
-        "weight": false,
-        "dim_count": 0
-      },
-      {
         "display": "Padded Flat Rate Envelope",
         "value": "FP",
+        "weight": false,
+        "dim_count": 0
+      },
+      {
+        "display": "Flat",
+        "value": "FLATS",
+        "max_dims": [15, 12, 0.75],
+        "dim_count": 2,
+        "max_oz": 13,
+        "dimensions_required": true
+      },
+      {
+        "display": "Medium Flat Rate Box/Large Flat Rate Bag",
+        "value": "FB",
         "weight": false,
         "dim_count": 0
       },
@@ -2221,91 +2164,8 @@
         "dim_count": 0
       },
       {
-        "display": "USPS Connect® Local Single Piece",
-        "value": "LC",
-        "dimensions_required": true
-      },
-      {
-        "display": "USPS Connect® Local Flat Rate Box",
-        "value": "LF"
-      },
-      {
-        "display": "USPS Connect® Local Large Flat Rate Bag",
-        "value": "LL"
-      },
-      {
-        "display": "USPS Connect® Local Oversized",
-        "value": "LO",
-        "dimensions_required": true
-      },
-      {
-        "display": "USPS Connect® Local Small Flat Rate Bag",
-        "value": "LS"
-      },
-      {
-        "display": "Non-Presorted",
-        "value": "NP",
-        "dimensions_required": true
-      },
-      {
-        "display": "Oversized",
-        "value": "OS",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 1",
-        "value": "P5",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 2",
-        "value": "P6",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 3",
-        "value": "P7",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 4",
-        "value": "P8",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 5",
-        "value": "P9",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 6",
-        "value": "Q6",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 7",
-        "value": "Q7",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 8",
-        "value": "Q8",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 9",
-        "value": "Q9",
-        "dimensions_required": true
-      },
-      {
-        "display": "Cubic Soft Pack Tier 10",
-        "value": "Q0",
-        "dimensions_required": true
-      },
-      {
-        "display": "Priority Mail Express Single Piece",
-        "value": "PA",
-        "dimensions_required": true
+        "display": "Small Flat Rate Bag",
+        "value": "SB"
       },
       {
         "display": "Large Flat Rate Box",
@@ -2320,17 +2180,8 @@
         "dim_count": 0
       },
       {
-        "display": "Presorted",
-        "value": "PR",
-        "dimensions_required": true
-      },
-      {
-        "display": "Small Flat Rate Bag",
-        "value": "SB"
-      },
-      {
-        "display": "Single Piece",
-        "value": "SP",
+        "display": "Oversized",
+        "value": "OS",
         "dimensions_required": true
       }
     ],
