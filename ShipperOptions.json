@@ -2357,6 +2357,11 @@
         "value": "OTHER"
       }
     ],
+    "tax_id_type": [
+      {"display": "VAT", "value": "VAT_NUMBER"},
+      {"display": "IMPORTER CODE", "value": "IMPORTER_CODE"},
+      {"display": "TAX CODE", "value": "TAX_CODE"}
+    ],
     "processing_category": [
       {
         "display": "Machinable",
