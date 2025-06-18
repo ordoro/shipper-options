@@ -2314,7 +2314,7 @@
       },
       {
         "display": "Documents",
-        "value": "DOCUMENTS"
+        "value": "DOCUMENT"
       },
       {
         "display": "Gift",
@@ -2356,6 +2356,11 @@
         "display": "Other",
         "value": "OTHER"
       }
+    ],
+    "tax_id_type": [
+      {"display": "VAT", "value": "VAT_NUMBER"},
+      {"display": "Importer Code", "value": "IMPORTER_CODE"},
+      {"display": "Tax Code", "value": "TAX_CODE"}
     ],
     "processing_category": [
       {
