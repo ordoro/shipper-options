@@ -2379,6 +2379,100 @@
         "display": "Letters",
         "value": "LETTERS"
       }
+    ],
+    "hazmat_type": [
+      {
+        "display": "Hazardous Materials - Air Eligible Ethanol",
+        "value": "810"
+      },
+      {
+        "display": "Hazardous Materials - Class 1 – Toy Propellant/Safety Fuse Package",
+        "value": "811"
+      },
+      {
+        "display": "Hazardous Materials - Class 3 - Flammable and Combustible Liquids",
+        "value": "812"
+      },
+      {
+        "display": "Hazardous Materials - Class 7 – Radioactive Materials",
+        "value": "813"
+      },
+      {
+        "display": "Hazardous Materials - Class 8 – Air Eligible Corrosive Materials",
+        "value": "814"
+      },
+      {
+        "display": "Hazardous Materials - Class 8 – Nonspillable Wet Batteries",
+        "value": "815"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 - Lithium Battery Marked Ground Only",
+        "value": "816"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 - Lithium Battery Returns",
+        "value": "817"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 - Marked Lithium Batteries",
+        "value": "818"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 – Dry Ice",
+        "value": "819"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 – Unmarked Lithium Batteries",
+        "value": "820"
+      },
+      {
+        "display": "Hazardous Materials - Class 9 – Magnetized Materials",
+        "value": "821"
+      },
+      {
+        "display": "Hazardous Materials - Division 4.1 – Mailable Flammable Solids and Safety Matches",
+        "value": "822"
+      },
+      {
+        "display": "Hazardous Materials - Division 5.1 – Oxidizers",
+        "value": "823"
+      },
+      {
+        "display": "Hazardous Materials - Division 5.2 – Organic Peroxides",
+        "value": "824"
+      },
+      {
+        "display": "Hazardous Materials - Division 6.1 – Toxic Materials",
+        "value": "825"
+      },
+      {
+        "display": "Hazardous Materials - Division 6.2 Biological Materials",
+        "value": "826"
+      },
+      {
+        "display": "Hazardous Materials - Excepted Quantity Provision",
+        "value": "827"
+      },
+      {
+        "display": "Hazardous Materials - Ground Only Hazardous Materials",
+        "value": "828"
+      },
+      {
+        "display": "Hazardous Materials - Air Eligible ID8000 Consumer Commodity",
+        "value": "829"
+      },
+      {
+        "display": "Hazardous Materials - Lighters",
+        "value": "830"
+      },
+      {
+        "display": "Hazardous Materials - Limited Quantity Ground",
+        "value": "831"
+      },
+      {
+        "display": "Hazardous Materials - Small Quantity Provision (Markings Required)",
+        "value": "832"
+      }
     ]
   },
   "royal_mail": {
