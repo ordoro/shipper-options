@@ -2178,11 +2178,6 @@
         "value": "PM",
         "weight": false,
         "dim_count": 0
-      },
-      {
-        "display": "Oversized",
-        "value": "OS",
-        "dimensions_required": true
       }
     ],
     "shipping_method": [
@@ -2205,6 +2200,10 @@
       {
         "display": "First-Class Package Service",
         "value": "FIRST-CLASS_PACKAGE_SERVICE"
+      },
+      {
+        "display": "First-Class Mail",
+        "value": "FIRST-CLASS_MAIL"
       },
       {
         "display": "Library Mail",
