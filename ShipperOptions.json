@@ -2178,6 +2178,14 @@
         "value": "PM",
         "weight": false,
         "dim_count": 0
+      },
+      {
+        "value": "SOFTPACK",
+        "display": "Softpack",
+        "max_dims": [15, 12, 2],
+        "dim_count": 2,
+        "max_oz": 20,
+        "dimensions_required": true
       }
     ],
     "shipping_method": [
