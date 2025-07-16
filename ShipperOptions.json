@@ -2678,6 +2678,24 @@
         "value": "SigRD"
       }
     ],
+    "parcel_characteristics": [
+      {
+        "display": "Nonstandard Tube or Roll",
+        "value": "NONSTD_TUBE_ROLL"
+      },
+      {
+        "display": "Nonstandard Can, Wood or Metal Box",
+        "value": "NONSTD_CAN_WOOD_METAL_BX"
+      },
+      {
+        "display": "Nonstandard Liquid Container",
+        "value": "NONSTD_LIQUID"
+      },
+      {
+        "display": "Nonstandard Package Preparation",
+        "value": "NONSTD_PKG_PREP"
+      }
+    ],
     "reason_for_export": [
       {
         "display": "Merchandise",
