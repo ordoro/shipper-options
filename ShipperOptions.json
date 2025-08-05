@@ -3312,6 +3312,46 @@
       }
     ],
     "display_name": "FedEx",
+    "payor": [
+      {
+        "display": "Sender",
+        "value": "SENDER"
+      },
+      {
+        "display": "Recipient",
+        "value": "RECIPIENT"
+      },
+      {
+        "display": "Third Party",
+        "value": "THIRD_PARTY"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
+    ],
     "shipping_method": [
       {
         "display": "FedEx Home Delivery®",
