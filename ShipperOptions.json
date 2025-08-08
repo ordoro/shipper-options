@@ -3212,6 +3212,208 @@
       }
     ]
   },
+  "fedex_360": {
+    "alcohol_recipient_type": [
+      {
+        "value": "CONSUMER",
+        "display": "Consumer"
+      },
+      {
+        "value": "LICENSEE",
+        "display": "Licensee"
+      }
+    ],
+    "ancillary_endorsement": [
+      {
+        "display": "Address Correction",
+        "value": "ADD_CORR"
+      },
+      {
+        "display": "Carrier - Leave If No Response",
+        "value": "CARRIER_LEAVE_IF_NO_RES",
+        "note": "not sure but this cannot be used with other ancillary endorsements "
+      },
+      {
+        "display": "Return Service",
+        "value": "RET_SERVICE"
+      }
+    ],
+    "battery_materials": [
+      {
+        "display": "Lithium Ion",
+        "value": "LITHIUM_ION"
+      },
+      {
+        "display": "Lithium Metal",
+        "value": "LITHIUM_METAL"
+      }
+    ],
+    "battery_packaging": [
+      {
+        "display": "Packed with Equipment",
+        "value": "PACKED_WITH_EQUIPMENT"
+      },
+      {
+        "display": "Contained in Equipment",
+        "value": "CONTAINED_IN_EQUIPMENT"
+      }
+    ],
+    "box_shape": [
+      {
+        "display": "Custom Packaging",
+        "value": "PKG",
+        "dimensions_required": true
+      },
+      {
+        "display": "FedEx® Envelope",
+        "value": "LTR"
+      },
+      {
+        "display": "FedEx® Pak",
+        "value": "PACK"
+      },
+      {
+        "display": "FedEx® Tube",
+        "value": "TUBE"
+      },
+      {
+        "display": "FedEx® Small Box",
+        "value": "SMALL_EXP_BOX"
+      },
+      {
+        "display": "FedEx® Medium Box",
+        "value": "MED_EXP_BOX"
+      },
+      {
+        "display": "FedEx® Large Box",
+        "value": "LG_EXP_BOX"
+      },
+      {
+        "display": "FedEx® Extra Large Box",
+        "value": "EXTRA_LG_EXP_BOX"
+      }
+    ],
+    "delivery_confirmation": [
+      {
+        "display": "Deliver Without Signature",
+        "value": "NO_SIG"
+      },
+      {
+        "display": "Indirect Signature Required",
+        "value": "SIG"
+      },
+      {
+        "display": "Direct Signature Required",
+        "value": "DIRECT_SIG"
+      },
+      {
+        "display": "Adult Signature Required",
+        "value": "ADULT_SIG"
+      }
+    ],
+    "display_name": "FedEx",
+    "payor": [
+      {
+        "display": "Sender",
+        "value": "SENDER"
+      },
+      {
+        "display": "Recipient",
+        "value": "RECIPIENT"
+      },
+      {
+        "display": "Third Party",
+        "value": "THIRD_PARTY"
+      }
+    ],
+    "reason_for_export": [
+      {
+        "display": "Merchandise",
+        "value": "MERCHANDISE"
+      },
+      {
+        "display": "Documents",
+        "value": "DOCUMENTS"
+      },
+      {
+        "display": "Gift",
+        "value": "GIFT"
+      },
+      {
+        "display": "Returned Goods",
+        "value": "RETURNED_GOODS"
+      },
+      {
+        "display": "Commercial Sample",
+        "value": "COMMERCIAL_SAMPLE"
+      },
+      {
+        "display": "Other",
+        "value": "OTHER"
+      }
+    ],
+    "shipping_method": [
+      {
+        "display": "FedEx Home Delivery®",
+        "value": "HOM"
+      },
+      {
+        "display": "FedEx Ground®",
+        "value": "GRD"
+      },
+      {
+        "display": "FedEx Express Saver®",
+        "value": "3DA"
+      },
+      {
+        "display": "FedEx 2Day®",
+        "value": "2DA"
+      },
+      {
+        "display": "FedEx 2Day® A.M.",
+        "value": "2DA_AM"
+      },
+      {
+        "display": "FedEx Standard Overnight®",
+        "value": "NDA_SVR"
+      },
+      {
+        "display": "FedEx Priority Overnight®",
+        "value": "NDA"
+      },
+      {
+        "display": "FedEx First Overnight®",
+        "value": "NDA_AM"
+      },
+      {
+        "display": "FedEx Ground® Economy",
+        "value": "SP_PRCLSEL",
+        "insurance": {
+          "discounted_insurance": {"max": 1000}
+        }
+      },
+      {
+        "display": "FedEx International Priority®",
+        "value": "EXP"
+      },
+      {
+        "display": "FedEx International Priority® Express",
+        "value": "EXP_X"
+      },
+      {
+        "display": "FedEx® International Connect Plus",
+        "value": "EXP_CP"
+      },
+      {
+        "display": "FedEx International Economy®",
+        "value": "XPD"
+      },
+      {
+        "display": "FedEx International First®",
+        "value": "XPP"
+      }
+    ]
+  },
   "amazon": {
     "display_name": "Amazon Buy Shipping",
     "dimensions_required": true,
