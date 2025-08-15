@@ -2109,7 +2109,13 @@
     "display_name": "USPS",
     "customs_form": [],
     "contents_type": [],
-    "insurance": [],
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance",
+        "max": 5000
+      }
+    ],
     "box_shape": [
       {
           "display": "Parcel",
@@ -3262,7 +3268,8 @@
       {
         "display": "Custom Packaging",
         "value": "PKG",
-        "dimensions_required": true
+        "dimensions_required": true,
+        "default": true
       },
       {
         "display": "FedEx® Envelope",
