@@ -3333,6 +3333,10 @@
         "value": "THIRD_PARTY"
       }
     ],
+    "priority_alert": [
+      {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
+      {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
+    ],
     "reason_for_export": [
       {
         "display": "Merchandise",
