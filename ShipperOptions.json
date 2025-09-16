@@ -3404,6 +3404,10 @@
         }
       },
       {
+        "display": "FedEx International Ground®",
+        "value": "STD"
+      },
+      {
         "display": "FedEx International Priority®",
         "value": "EXP"
       },
