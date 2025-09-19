@@ -1135,6 +1135,18 @@
         "value": "FIRST_OVERNIGHT"
       },
       {
+        "display": "FedEx Standard Overnight® Extra Hours",
+        "value": "FEDEX_STANDARD_OVERNIGHT_EXTRA_HOURS"
+      },
+      {
+        "display": "FedEx Priority Overnight® Extra Hours",
+        "value": "FEDEX_PRIORITY_OVERNIGHT_EXTRA_HOURS"
+      },
+      {
+        "display": "FedEx First Overnight® Extra Hours",
+        "value": "FEDEX_FIRST_OVERNIGHT_EXTRA_HOURS"
+      },
+      {
         "display": "FedEx Ground® Economy",
         "value": "SMART_POST",
         "insurance": {
