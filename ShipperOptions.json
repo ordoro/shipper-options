@@ -3334,15 +3334,15 @@
     "payor": [
       {
         "display": "Sender",
-        "value": "SENDER"
+        "value": "BILL_SENDER"
       },
       {
         "display": "Recipient",
-        "value": "RECIPIENT"
+        "value": "BILL_RECIPIENT"
       },
       {
         "display": "Third Party",
-        "value": "THIRD_PARTY"
+        "value": "BILL_THIRD_PARTY"
       }
     ],
     "priority_alert": [
