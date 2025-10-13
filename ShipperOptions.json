@@ -3338,7 +3338,7 @@
       },
       {
         "display": "Recipient",
-        "value": "BILL_RECIPIENT"
+        "value": "BILL_RECEIVER"
       },
       {
         "display": "Third Party",
