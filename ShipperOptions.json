@@ -3438,6 +3438,22 @@
       {
         "display": "FedEx International First®",
         "value": "XPP"
+      },
+      {
+        "display": "FedEx Ground® Economy (under 1 lb)",
+        "value": "SP_PRE_STD"
+      },
+      {
+        "display": "FedEx Ground® Economy Media",
+        "value": "SP_MEDIA"
+      },
+      {
+        "display": "FedEx Ground® Economy Bound Printed Matter",
+        "value": "SP_PRE_PRINT"
+      },
+      {
+        "display": "FedEx Ground® Economy",
+        "value": "SP_PRCLSEL"
       }
     ]
   },
