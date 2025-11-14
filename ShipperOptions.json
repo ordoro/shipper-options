@@ -3331,6 +3331,12 @@
       }
     ],
     "display_name": "FedEx",
+    "insurance": [
+      {
+        "display": "Discounted Insurance",
+        "value": "discounted_insurance"
+      }
+    ],
     "payor": [
       {
         "display": "Sender",
