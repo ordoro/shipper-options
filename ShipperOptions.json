@@ -1176,6 +1176,22 @@
       {
         "display": "FedEx® International Connect Plus",
         "value": "FEDEX_INTERNATIONAL_CONNECT_PLUS"
+      },
+      {
+        "display": "FedEx Economy Select®",
+        "value": "FEDEX_ECONOMY_SELECT"
+      },
+      {
+        "display": "FedEx Priority®",
+        "value": "FEDEX_PRIORITY"
+      },
+      {
+        "display": "FedEx Priority Express®",
+        "value": "FEDEX_PRIORITY_EXPRESS"
+      },
+      {
+        "display": "FedEx First®",
+        "value": "FEDEX_FIRST"
       }
     ],
     "insurance": [
