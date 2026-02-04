@@ -1192,6 +1192,10 @@
       {
         "display": "FedEx First®",
         "value": "FEDEX_FIRST"
+      },
+      {
+        "display": "FedEx® Regional Economy",
+        "value": "FEDEX_REGIONAL_ECONOMY"
       }
     ],
     "insurance": [
