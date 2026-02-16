@@ -1085,6 +1085,10 @@
         "hide_for_csp": true
       },
       {
+        "display": "FedEx® Extra Small Box",
+        "value": "FEDEX_EXTRA_SMALL_BOX"
+      },
+      {
         "display": "FedEx® Small Box",
         "value": "ONE_RATE_SMALL_BOX"
       },
@@ -1586,6 +1590,108 @@
       {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
       {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
     ],
+    "unit_of_measure": [
+      {
+        "display": "Carat",
+        "value": "AR"
+      },
+      {
+        "display": "Centimeter",
+        "value": "CM"
+      },
+      {
+        "display": "Cubic Foot",
+        "value": "CFT"
+      },
+      {
+        "display": "Cubic Meter",
+        "value": "M3"
+      },
+      {
+        "display": "Dozen",
+        "value": "DOZ"
+      },
+      {
+        "display": "Dozen Pair",
+        "value": "DPR"
+      },
+      {
+        "display": "Each",
+        "value": "EA"
+      },
+      {
+        "display": "Foot",
+        "value": "LFT"
+      },
+      {
+        "display": "Gram",
+        "value": "G"
+      },
+      {
+        "display": "Gross",
+        "value": "GR"
+      },
+      {
+        "display": "Kilogram",
+        "value": "KG"
+      },
+      {
+        "display": "Linear Meter",
+        "value": "LNM"
+      },
+      {
+        "display": "Liter",
+        "value": "LTR"
+      },
+      {
+        "display": "Meter",
+        "value": "M"
+      },
+      {
+        "display": "Milligram",
+        "value": "MG"
+      },
+      {
+        "display": "Milliliter",
+        "value": "ML"
+      },
+      {
+        "display": "Number",
+        "value": "NO"
+      },
+      {
+        "display": "Ounce",
+        "value": "OZ"
+      },
+      {
+        "display": "Pair",
+        "value": "PR"
+      },
+      {
+        "display": "Pieces",
+        "value": "PCS"
+      },
+      {
+        "display": "Pound",
+        "value": "LB"
+      },
+      {
+        "display": "Square Foot",
+        "value": "SFT"
+      },
+      {
+        "display": "Square Meter",
+        "value": "M2"
+      },
+      {
+        "display": "Square Yard",
+        "value": "SYD"
+      },
+      {
+        "display": "Yard",
+        "value": "YD"
+      }
+    ],
     "label_type": [
       {"value": "STOCK_4X85_TRAILING_DOC_TAB", "display": "Stock 4x8.5 Trailing Doc Tab"},
       {"value": "STOCK_4X105_TRAILING_DOC_TAB", "display": "Stock 4x10.5 Trailing Doc Tab"}
@@ -1942,6 +2048,168 @@
       {
         "value": "07",
         "display": "Domestic Pallet"
+      }
+    ],
+    "unit_of_measure": [
+      {
+        "display": "Barrel",
+        "value": "BA"
+      },
+      {
+        "display": "Bundle",
+        "value": "BE"
+      },
+      {
+        "display": "Bag",
+        "value": "BG"
+      },
+      {
+        "display": "Bunch",
+        "value": "BH"
+      },
+      {
+        "display": "Box",
+        "value": "BOX"
+      },
+      {
+        "display": "Bolt",
+        "value": "BT"
+      },
+      {
+        "display": "Butt",
+        "value": "BU"
+      },
+      {
+        "display": "Canister",
+        "value": "CI"
+      },
+      {
+        "display": "Centimeter",
+        "value": "CM"
+      },
+      {
+        "display": "Container",
+        "value": "CON"
+      },
+      {
+        "display": "Crate",
+        "value": "CR"
+      },
+      {
+        "display": "Case",
+        "value": "CS"
+      },
+      {
+        "display": "Carton",
+        "value": "CT"
+      },
+      {
+        "display": "Cylinder",
+        "value": "CY"
+      },
+      {
+        "display": "Dozen",
+        "value": "DOZ"
+      },
+      {
+        "display": "Each",
+        "value": "EA"
+      },
+      {
+        "display": "Envelope",
+        "value": "EN"
+      },
+      {
+        "display": "Feet",
+        "value": "FT"
+      },
+      {
+        "display": "Kilogram",
+        "value": "KG"
+      },
+      {
+        "display": "Kilograms",
+        "value": "KGS"
+      },
+      {
+        "display": "Pound",
+        "value": "LB"
+      },
+      {
+        "display": "Pounds",
+        "value": "LBS"
+      },
+      {
+        "display": "Liter",
+        "value": "L"
+      },
+      {
+        "display": "Meter",
+        "value": "M"
+      },
+      {
+        "display": "Number",
+        "value": "NMB"
+      },
+      {
+        "display": "Packet",
+        "value": "PA"
+      },
+      {
+        "display": "Pallet",
+        "value": "PAL"
+      },
+      {
+        "display": "Piece",
+        "value": "PC"
+      },
+      {
+        "display": "Pieces",
+        "value": "PCS"
+      },
+      {
+        "display": "Proof Liter",
+        "value": "PF"
+      },
+      {
+        "display": "Package",
+        "value": "PKG"
+      },
+      {
+        "display": "Pair",
+        "value": "PR"
+      },
+      {
+        "display": "Pairs",
+        "value": "PRS"
+      },
+      {
+        "display": "Roll",
+        "value": "RL"
+      },
+      {
+        "display": "Set",
+        "value": "SET"
+      },
+      {
+        "display": "Square Meter",
+        "value": "SME"
+      },
+      {
+        "display": "Square Yard",
+        "value": "SYD"
+      },
+      {
+        "display": "Tube",
+        "value": "TU"
+      },
+      {
+        "display": "Yard",
+        "value": "YD"
+      },
+      {
+        "display": "Other",
+        "value": "OTH"
       }
     ],
     "usps_endorsement": [
