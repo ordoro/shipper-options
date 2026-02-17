@@ -1593,103 +1593,129 @@
     "unit_of_measure": [
       {
         "display": "Carat",
-        "value": "AR"
+        "value": "carat",
+        "shipper_value": "AR"
       },
       {
         "display": "Centimeter",
-        "value": "CM"
+        "value": "centimeter",
+        "shipper_value": "CM"
       },
       {
         "display": "Cubic Foot",
-        "value": "CFT"
+        "value": "cubic_foot",
+        "shipper_value": "CFT"
       },
       {
         "display": "Cubic Meter",
-        "value": "M3"
+        "value": "cubic_meter",
+        "shipper_value": "M3"
       },
       {
         "display": "Dozen",
-        "value": "DOZ"
+        "value": "dozen",
+        "shipper_value": "DOZ"
       },
       {
         "display": "Dozen Pair",
-        "value": "DPR"
+        "value": "dozen_pair",
+        "shipper_value": "DPR"
       },
       {
         "display": "Each",
-        "value": "EA"
+        "value": "each",
+        "shipper_value": "EA"
       },
       {
         "display": "Foot",
-        "value": "LFT"
+        "value": "foot",
+        "shipper_value": "LFT"
       },
       {
         "display": "Gram",
-        "value": "G"
+        "value": "gram",
+        "shipper_value": "G"
       },
       {
         "display": "Gross",
-        "value": "GR"
+        "value": "gross",
+        "shipper_value": "GR"
       },
       {
         "display": "Kilogram",
-        "value": "KG"
+        "value": "kilogram",
+        "shipper_value": "KG"
       },
       {
         "display": "Linear Meter",
-        "value": "LNM"
+        "value": "linear_meter",
+        "shipper_value": "LNM"
       },
       {
         "display": "Liter",
-        "value": "LTR"
+        "value": "liter",
+        "shipper_value": "LTR"
       },
       {
         "display": "Meter",
-        "value": "M"
+        "value": "meter",
+        "shipper_value": "M"
       },
       {
         "display": "Milligram",
-        "value": "MG"
+        "value": "milligram",
+        "shipper_value": "MG"
       },
       {
         "display": "Milliliter",
-        "value": "ML"
+        "value": "milliliter",
+        "shipper_value": "ML"
       },
       {
         "display": "Number",
-        "value": "NO"
+        "default": true,
+        "value": "number",
+        "shipper_value": "NO"
       },
       {
         "display": "Ounce",
-        "value": "OZ"
+        "value": "ounce",
+        "shipper_value": "OZ"
       },
       {
         "display": "Pair",
-        "value": "PR"
+        "value": "pair",
+        "shipper_value": "PR"
       },
       {
         "display": "Pieces",
-        "value": "PCS"
+        "value": "pieces",
+        "shipper_value": "PCS"
       },
       {
         "display": "Pound",
-        "value": "LB"
+        "value": "pound",
+        "shipper_value": "LB"
       },
       {
         "display": "Square Foot",
-        "value": "SFT"
+        "value": "square_foot",
+        "shipper_value": "SFT"
       },
       {
         "display": "Square Meter",
-        "value": "M2"
+        "value": "square_meter",
+        "shipper_value": "M2"
       },
       {
         "display": "Square Yard",
-        "value": "SYD"
+        "value": "square_yard",
+        "shipper_value": "SYD"
       },
       {
         "display": "Yard",
-        "value": "YD"
+        "value": "yard",
+        "shipper_value": "YD"
       }
     ],
     "label_type": [
@@ -2053,163 +2079,204 @@
     "unit_of_measure": [
       {
         "display": "Barrel",
-        "value": "BA"
+        "value": "barrel",
+        "shipper_value": "BA"
       },
       {
         "display": "Bundle",
-        "value": "BE"
+        "value": "bundle",
+        "shipper_value": "BE"
       },
       {
         "display": "Bag",
-        "value": "BG"
+        "value": "bag",
+        "shipper_value": "BG"
       },
       {
         "display": "Bunch",
-        "value": "BH"
+        "value": "bunch",
+        "shipper_value": "BH"
       },
       {
         "display": "Box",
-        "value": "BOX"
+        "value": "box",
+        "shipper_value": "BOX"
       },
       {
         "display": "Bolt",
-        "value": "BT"
+        "value": "bolt",
+        "shipper_value": "BT"
       },
       {
         "display": "Butt",
-        "value": "BU"
+        "value": "butt",
+        "shipper_value": "BU"
       },
       {
         "display": "Canister",
-        "value": "CI"
+        "value": "canister",
+        "shipper_value": "CI"
       },
       {
         "display": "Centimeter",
-        "value": "CM"
+        "value": "centimeter",
+        "shipper_value": "CM"
       },
       {
         "display": "Container",
-        "value": "CON"
+        "value": "container",
+        "shipper_value": "CON"
       },
       {
         "display": "Crate",
-        "value": "CR"
+        "value": "crate",
+        "shipper_value": "CR"
       },
       {
         "display": "Case",
-        "value": "CS"
+        "value": "case",
+        "shipper_value": "CS"
       },
       {
         "display": "Carton",
-        "value": "CT"
+        "value": "carton",
+        "shipper_value": "CT"
       },
       {
         "display": "Cylinder",
-        "value": "CY"
+        "value": "cylinder",
+        "shipper_value": "CY"
       },
       {
         "display": "Dozen",
-        "value": "DOZ"
+        "value": "dozen",
+        "shipper_value": "DOZ"
       },
       {
         "display": "Each",
-        "value": "EA"
+        "value": "each",
+        "shipper_value": "EA"
       },
       {
         "display": "Envelope",
-        "value": "EN"
+        "value": "envelope",
+        "shipper_value": "EN"
       },
       {
         "display": "Feet",
-        "value": "FT"
+        "value": "feet",
+        "shipper_value": "FT"
       },
       {
         "display": "Kilogram",
-        "value": "KG"
+        "value": "kilogram",
+        "shipper_value": "KG"
       },
       {
         "display": "Kilograms",
-        "value": "KGS"
+        "value": "kilograms",
+        "shipper_value": "KGS"
       },
       {
         "display": "Pound",
-        "value": "LB"
+        "value": "pound",
+        "shipper_value": "LB"
       },
       {
         "display": "Pounds",
-        "value": "LBS"
+        "value": "pounds",
+        "shipper_value": "LBS"
       },
       {
         "display": "Liter",
-        "value": "L"
+        "value": "liter",
+        "shipper_value": "L"
       },
       {
         "display": "Meter",
-        "value": "M"
+        "value": "meter",
+        "shipper_value": "M"
       },
       {
         "display": "Number",
-        "value": "NMB"
+        "value": "number",
+        "shipper_value": "NMB"
       },
       {
         "display": "Packet",
-        "value": "PA"
+        "value": "packet",
+        "shipper_value": "PA"
       },
       {
         "display": "Pallet",
-        "value": "PAL"
+        "value": "pallet",
+        "shipper_value": "PAL"
       },
       {
         "display": "Piece",
-        "value": "PC"
+        "value": "piece",
+        "shipper_value": "PC"
       },
       {
         "display": "Pieces",
-        "value": "PCS"
+        "default": true,
+        "value": "pieces",
+        "shipper_value": "PCS"
       },
       {
         "display": "Proof Liter",
-        "value": "PF"
+        "value": "proof Liter",
+        "shipper_value": "PF"
       },
       {
         "display": "Package",
-        "value": "PKG"
+        "value": "package",
+        "shipper_value": "PKG"
       },
       {
         "display": "Pair",
-        "value": "PR"
+        "value": "pair",
+        "shipper_value": "PR"
       },
       {
         "display": "Pairs",
-        "value": "PRS"
+        "value": "pairs",
+        "shipper_value": "PRS"
       },
       {
         "display": "Roll",
-        "value": "RL"
+        "value": "roll",
+        "shipper_value": "RL"
       },
       {
         "display": "Set",
-        "value": "SET"
+        "value": "set",
+        "shipper_value": "SET"
       },
       {
         "display": "Square Meter",
-        "value": "SME"
+        "value": "square Meter",
+        "shipper_value": "SME"
       },
       {
         "display": "Square Yard",
-        "value": "SYD"
+        "value": "square Yard",
+        "shipper_value": "SYD"
       },
       {
         "display": "Tube",
-        "value": "TU"
+        "value": "tube",
+        "shipper_value": "TU"
       },
       {
         "display": "Yard",
-        "value": "YD"
+        "value": "yard",
+        "shipper_value": "YD"
       },
       {
         "display": "Other",
-        "value": "OTH"
+        "value": "other",
+        "shipper_value": "OTH"
       }
     ],
     "usps_endorsement": [
