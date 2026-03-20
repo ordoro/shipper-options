@@ -5120,7 +5120,7 @@
       }
     ],
     "label_options": [
-      "ship_date", "alternate_return_to_address", "alcohol_shipment_license", "ancillary_endorsement", "payor", "ignore_bad_address", "dangerous_goods_option", "dangerous_goods_code", "delivery_instructions", "saturday_delivery", "delivery_confirmation", "insurance"
+      "ship_date", "alternate_return_to_address", "alcohol_shipment_license", "ancillary_endorsement", "payor", "ignore_bad_address", "dangerous_goods_option", "dangerous_goods_code", "delivery_instructions", "saturday_delivery", "delivery_confirmation", "insurance", "rate_id", "shipment_id"
     ],
     "payor": [
       {
