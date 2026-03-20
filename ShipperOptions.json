@@ -5062,7 +5062,7 @@
         "display": "Fastway Australia Satchel A5"
       }
     ],
-    "dangerous_goods": [
+    "dangerous_goods_option": [
       {"value": "CONTAINS", "display": "Contains Dangerous Goods"},
       {"value": "BIOLOGICAL_MATERIAL", "display": "Contains Biological Material"},
       {"value": "LITHIUM_BATTERIES", "display": "Contains Lithium Batteries"}
@@ -5119,6 +5119,9 @@
         "value": "ONTRAC"
       }
     ],
+    "label_options": [
+      "ship_date", "alternate_return_to_address", "alcohol_shipment_license", "ancillary_endorsement", "payor", "ignore_bad_address", "dangerous_goods_option", "dangerous_goods_code", "delivery_instructions", "saturday_delivery", "delivery_confirmation", "insurance"
+    ],
     "payor": [
       {
         "display": "Sender",
@@ -5140,6 +5143,9 @@
         "display": "Collect",
         "value": "COLLECT"
       }
+    ],
+    "rate_options": [
+      "service_type", "ship_date", "alternate_return_to_address", "alcohol_shipment_license", "ancillary_endorsement", "payor", "ignore_bad_address", "dangerous_goods_option", "dangerous_goods_code", "delivery_instructions", "saturday_delivery", "delivery_confirmation", "insurance"
     ],
     "reason_for_export": [
       {"value": "DOCUMENTS", "display": "Documents"},
