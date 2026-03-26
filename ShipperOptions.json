@@ -1590,6 +1590,14 @@
       {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
       {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
     ],
+    "tax_id_type": [
+      {"value": "PERSONAL_NATIONAL", "display": "Personal National"},
+      {"value": "PERSONAL_STATE", "display": "Personal State"},
+      {"value": "FEDERAL", "display": "Federal"},
+      {"value": "BUSINESS_NATIONAL", "display": "Business National"},
+      {"value": "BUSINESS_STATE", "display": "Business State"},
+      {"value": "BUSINESS_UNION", "display": "Business Union"}
+    ],
     "unit_of_measure": [
       {
         "display": "Carat",
