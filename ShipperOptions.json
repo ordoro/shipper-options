@@ -1527,6 +1527,12 @@
         "display": "Reportable Quantities (Air)"
       }
     ],
+    "label_options": [
+      "email_alert", "payment_type", "payment_account", "delivery_instructions", "smartpost_detail", "evening_delivery", "home_delivery_premium", "saturday_delivery", "customs", "duties_payment_type", "duties_payment_account", "ship_date", "shipper_currency", "delivery_confirmation", "alcohol_shipment_license", "dangerous_goods_option", "dangerous_goods_regulation_type", "etd_service", "certificate_of_origin", "use_metric_units", "hold_at_location_id", "importer_of_record_address", "importer_of_record_account_number", "importer_of_record_tin", "alternate_return_to_address", "pharmacy_delivery", "label_type", "image_type", "priority_alert", "etd_preshipment_docs", "total_weight", "b13a_filing_option", "export_compliance_statement", "one_rate", "is_return"
+    ],
+    "rate_options": [
+      "service_type", "email_alert", "payment_type", "payment_account", "delivery_instructions", "smartpost_detail", "evening_delivery", "saturday_delivery", "customs", "duties_payment_type", "duties_payment_account", "ship_date", "shipper_currency", "delivery_confirmation", "alcohol_shipment_license", "dangerous_goods_option", "dangerous_goods_regulation_type", "etd_service", "use_metric_units", "hold_at_location_id", "pharmacy_delivery", "priority_alert", "one_rate", "is_return"
+    ],
     "reason_for_export": [
       {
         "display": "Sold",
