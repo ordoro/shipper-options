@@ -1505,7 +1505,7 @@
       {"value": "REAR", "display": "Rear"},
       {"value": "SIDE", "display": "Side"}
     ],
-    "dangerous_goods_option": [
+    "dangerous_goods": [
       {
         "value": "BATTERY",
         "display": "Battery (Ground)"
@@ -4778,6 +4778,7 @@
     ]
   },
   "shippo": {
+    "display_name": "Shippo",
     "alcohol_shipment_license": [
       {
         "value": "consumer",
@@ -5076,7 +5077,7 @@
         "display": "Fastway Australia Satchel A5"
       }
     ],
-    "dangerous_goods_option": [
+    "dangerous_goods": [
       {"value": "CONTAINS", "display": "Contains Dangerous Goods"},
       {"value": "BIOLOGICAL_MATERIAL", "display": "Contains Biological Material"},
       {"value": "LITHIUM_BATTERIES", "display": "Contains Lithium Batteries"}
@@ -5094,23 +5095,23 @@
     ],
     "delivery_confirmation": [
       {
-        "display": "Signature Required", 
+        "display": "Signature Required",
         "value": "STANDARD"
       },
       {
-        "display": "Adult Signature Required", 
+        "display": "Adult Signature Required",
         "value": "ADULT"
       },
       {
-        "display": "Certified Mail (USPS only)", 
+        "display": "Certified Mail (USPS only)",
         "value": "CERTIFIED"
       },
       {
-        "display": "Indirect Signature Required (FedEx only) ", 
+        "display": "Indirect Signature Required (FedEx only) ",
         "value": "INDIRECT"
       },
       {
-        "display": "Carrier Confirmation (Deutsche Post only)", 
+        "display": "Carrier Confirmation (Deutsche Post only)",
         "value": "CARRIER_CONFIRMATION"
       }
     ],
