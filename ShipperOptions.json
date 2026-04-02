@@ -4779,6 +4779,7 @@
   },
   "shippo": {
     "display_name": "Shippo",
+    "dimensions_required": true,
     "alcohol_shipment_license": [
       {
         "value": "consumer",
