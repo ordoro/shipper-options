@@ -1914,6 +1914,40 @@
         "value": "67"
       }
     ],
+    "label_options": [
+      "certificate_origin",
+      "cost_center",
+      "delivery_confirmation",
+      "direct_delivery",
+      "duties_payment_account",
+      "duties_payment_country",
+      "duties_payment_type",
+      "duties_payment_zip",
+      "is_return",
+      "package_bill_type",
+      "payment_account",
+      "payment_country",
+      "payment_type",
+      "payment_zip",
+      "saturday_delivery",
+      "ship_date",
+      "shipper_currency",
+      "shipper_release",
+      "shipper_return_to_address",
+      "use_metric_units",
+      "usps_endorsement"
+    ],
+    "rate_options": [
+      "certificate_origin",
+      "delivery_confirmation",
+      "direct_delivery",
+      "package_bill_type",
+      "saturday_delivery",
+      "ship_date",
+      "shipper_currency",
+      "shipper_return_to_address",
+      "use_metric_units"
+    ],
     "shipping_method": [
       {
         "display": "UPS® Ground",
@@ -2988,7 +3022,7 @@
       "hazmat_type",
       "hazmat_electronics",
       "parcel_characteristics"
-    ]
+    ],
     "rate_options": [
       "service_type",
       "postal_reporting_number",
