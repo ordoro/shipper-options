@@ -2609,6 +2609,30 @@
         "dimensions_required": true
       }
     ],
+    "label_options": [
+      "alternate_return_to_address",
+      "customs",
+      "delivery_confirmation",
+      "has_nonstandard_characteristics",
+      "hazmat_type",
+      "ignore_bad_address",
+      "mailing_zip_code",
+      "non_delivery",
+      "processing_category",
+      "rate_indicator",
+      "reference_number",
+      "ship_date"
+    ],
+    "rate_options": [
+      "delivery_confirmation",
+      "has_nonstandard_characteristics",
+      "hazmat_type",
+      "mailing_zip_code",
+      "processing_category",
+      "rate_holder_eps",
+      "service_type",
+      "ship_date"
+    ],
     "shipping_method": [
       {
         "display": "Parcel Select",
