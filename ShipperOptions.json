@@ -2970,6 +2970,44 @@
         "dimensions_required": true
       }
     ],
+    "label_options": [
+      "postal_reporting_number",
+      "pb_shipper_id",
+      "ship_date",
+      "non_delivery",
+      "delivery_confirmation",
+      "reference_number",
+      "mailing_zip_code",
+      "sender_signature",
+      "rate_type",
+      "international_rate_type",
+      "integrator_id",
+      "international_integrator_id",
+      "nsa_type",
+      "alternate_return_to_address",
+      "hazmat_type",
+      "hazmat_electronics",
+      "parcel_characteristics"
+    ]
+    "rate_options": [
+      "service_type",
+      "postal_reporting_number",
+      "pb_shipper_id",
+      "ship_date",
+      "non_delivery",
+      "delivery_confirmation",
+      "reference_number",
+      "mailing_zip_code",
+      "rate_type",
+      "international_rate_type",
+      "integrator_id",
+      "international_integrator_id",
+      "published_rates",
+      "nsa_type",
+      "hazmat_type",
+      "hazmat_electronics",
+      "parcel_characteristics"
+    ],
     "shipping_method": [
       {
         "value": "FCM",
