@@ -4399,6 +4399,8 @@
         "display": "Custom Packaging"
       }
     ],
+    "label_options": ["service_token", "shipment_id"],
+    "rate_options": ["amazon_order_id", "order_items", "ship_date"],
     "shipping_method": [
       {
         "value": "std-us-swa-mfn",
