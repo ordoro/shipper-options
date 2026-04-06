@@ -4116,6 +4116,23 @@
         "display": "USPS® Small Flat Rate Envelope"
       }
     ],
+    "label_options": [
+      "amazon_order_id",
+      "arrive_by_date",
+      "carrier_pickup",
+      "delivery_confirmation",
+      "order_items",
+      "ship_date",
+      "shipping_method"
+    ],
+    "rate_options": [
+      "amazon_order_id",
+      "arrive_by_date",
+      "carrier_pickup",
+      "delivery_confirmation",
+      "order_items",
+      "ship_date"
+    ],
     "shipping_method": [
       {
         "value": "FEDEX_PTP_PRIORITY_OVERNIGHT",
