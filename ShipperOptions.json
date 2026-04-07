@@ -3840,6 +3840,28 @@
         "value": "discounted_insurance"
       }
     ],
+    "label_options": [
+      "alcohol_shipment_license",
+      "alternate_return_to_address",
+      "batteries",
+      "customs",
+      "delivery_confirmation",
+      "duties_payment_account",
+      "duties_payment_type",
+      "email_alert",
+      "etd_service_default_false",
+      "evening_delivery",
+      "hold_at_location_id",
+      "importer_of_record_account_number",
+      "importer_of_record_address",
+      "importer_of_record_tin",
+      "is_return",
+      "payment_account",
+      "payment_type",
+      "priority_alert",
+      "saturday_delivery",
+      "ship_date"
+    ],
     "payor": [
       {
         "display": "Sender",
@@ -3857,6 +3879,29 @@
     "priority_alert": [
       {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
       {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
+    ],
+    "rate_options": [
+      "alcohol_shipment_license",
+      "alternate_return_to_address",
+      "batteries",
+      "customs",
+      "delivery_confirmation",
+      "duties_payment_account",
+      "duties_payment_type",
+      "email_alert",
+      "etd_service_default_false",
+      "evening_delivery",
+      "hold_at_location_id",
+      "importer_of_record_account_number",
+      "importer_of_record_address",
+      "importer_of_record_tin",
+      "is_return",
+      "payment_account",
+      "payment_type",
+      "priority_alert",
+      "saturday_delivery",
+      "service_type",
+      "ship_date"
     ],
     "reason_for_export": [
       {
