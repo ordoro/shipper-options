@@ -3672,6 +3672,7 @@
         "display": "Large Envelope"
       }
     ],
+    "label_options": ["non_delivery", "delivery_confirmation", "reference_number", "mailing_zip_code"],
     "shipping_method": [
       {
         "value": "STANDARD",
