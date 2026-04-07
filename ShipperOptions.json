@@ -8,6 +8,8 @@
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
     ],
+    "label_options": ["delivery_confirmation", "ship_date", "service_token", "shipment_id"],
+    "rate_options": ["delivery_confirmation", "ship_date"],
     "shipping_method": [
       {"display": "Express Post", "value": "ExpressPost"},
       {"display": "Express Post", "value": "ExpressPostSignature"},
@@ -319,7 +321,7 @@
       "ship_date",
       "shipper_currency",
       "signature_service"
-    ]
+    ],
     "shipping_method": [
       {
         "value": "0",
