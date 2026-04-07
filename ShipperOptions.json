@@ -94,6 +94,8 @@
         "dimensions_required": true
       }
     ],
+    "rate_options": ["service_option", "ship_date", "delivery_confirmation"],
+    "label_options": ["nondelivery_option", "service_option", "delivery_confirmation", "assigned_to_group_id"],
     "shipping_method": [
       {
         "display": "Regular Parcel",
