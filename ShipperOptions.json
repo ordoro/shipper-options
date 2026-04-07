@@ -289,6 +289,37 @@
         "display": "Parcels"
       }
     ],
+    "label_options": [
+      "customer_logo",
+      "customs",
+      "duty_payment_account",
+      "duty_payment_type",
+      "federal_tax_id",
+      "foreign_trade_regulation",
+      "insured_value",
+      "internal_transaction_number",
+      "is_dutiable",
+      "nonstandard_contents",
+      "nonstandard_day",
+      "pickup",
+      "ship_date",
+      "shipper_currency",
+      "shipping_payment_account",
+      "shipping_payment_type",
+      "signature_service",
+      "state_tax_id"
+    ],
+    "rate_options": [
+      "insured_value",
+      "is_dutiable",
+      "nonstandard_contents",
+      "nonstandard_day",
+      "pickup",
+      "service_type",
+      "ship_date",
+      "shipper_currency",
+      "signature_service"
+    ]
     "shipping_method": [
       {
         "value": "0",
@@ -684,6 +715,9 @@
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
     ],
+    "label_options": ["ship_date", "delivery_confirmation", "shipper_currency", "insured_value", "customs", "dangerous_goods", "service_endorsement"],
+    "rate_options": ["service_type", "ship_date", "delivery_confirmation", "shipper_currency", "insured_value", "customs", "dangerous_goods"],
+    "return_label_options": ["order_number", "return_reason"],
     "shipping_method": [
       {
         "value": "EXP",
