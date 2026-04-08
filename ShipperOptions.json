@@ -8,6 +8,8 @@
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
     ],
+    "label_options": ["delivery_confirmation", "ship_date", "service_token", "shipment_id"],
+    "rate_options": ["delivery_confirmation", "ship_date"],
     "shipping_method": [
       {"display": "Express Post", "value": "ExpressPost"},
       {"display": "Express Post", "value": "ExpressPostSignature"},
@@ -94,6 +96,8 @@
         "dimensions_required": true
       }
     ],
+    "rate_options": ["service_option", "ship_date", "delivery_confirmation"],
+    "label_options": ["nondelivery_option", "service_option", "delivery_confirmation", "assigned_to_group_id"],
     "shipping_method": [
       {
         "display": "Regular Parcel",
@@ -286,6 +290,37 @@
         "value": "BOX",
         "display": "Parcels"
       }
+    ],
+    "label_options": [
+      "customer_logo",
+      "customs",
+      "duty_payment_account",
+      "duty_payment_type",
+      "federal_tax_id",
+      "foreign_trade_regulation",
+      "insured_value",
+      "internal_transaction_number",
+      "is_dutiable",
+      "nonstandard_contents",
+      "nonstandard_day",
+      "pickup",
+      "ship_date",
+      "shipper_currency",
+      "shipping_payment_account",
+      "shipping_payment_type",
+      "signature_service",
+      "state_tax_id"
+    ],
+    "rate_options": [
+      "insured_value",
+      "is_dutiable",
+      "nonstandard_contents",
+      "nonstandard_day",
+      "pickup",
+      "service_type",
+      "ship_date",
+      "shipper_currency",
+      "signature_service"
     ],
     "shipping_method": [
       {
@@ -682,6 +717,9 @@
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
     ],
+    "label_options": ["ship_date", "delivery_confirmation", "shipper_currency", "insured_value", "customs", "dangerous_goods", "service_endorsement"],
+    "rate_options": ["service_type", "ship_date", "delivery_confirmation", "shipper_currency", "insured_value", "customs", "dangerous_goods"],
+    "return_label_options": ["order_number", "return_reason"],
     "shipping_method": [
       {
         "value": "EXP",
@@ -1914,6 +1952,40 @@
         "value": "67"
       }
     ],
+    "label_options": [
+      "certificate_origin",
+      "cost_center",
+      "delivery_confirmation",
+      "direct_delivery",
+      "duties_payment_account",
+      "duties_payment_country",
+      "duties_payment_type",
+      "duties_payment_zip",
+      "is_return",
+      "package_bill_type",
+      "payment_account",
+      "payment_country",
+      "payment_type",
+      "payment_zip",
+      "saturday_delivery",
+      "ship_date",
+      "shipper_currency",
+      "shipper_release",
+      "shipper_return_to_address",
+      "use_metric_units",
+      "usps_endorsement"
+    ],
+    "rate_options": [
+      "certificate_origin",
+      "delivery_confirmation",
+      "direct_delivery",
+      "package_bill_type",
+      "saturday_delivery",
+      "ship_date",
+      "shipper_currency",
+      "shipper_return_to_address",
+      "use_metric_units"
+    ],
     "shipping_method": [
       {
         "display": "UPS® Ground",
@@ -2575,6 +2647,30 @@
         "dimensions_required": true
       }
     ],
+    "label_options": [
+      "alternate_return_to_address",
+      "customs",
+      "delivery_confirmation",
+      "has_nonstandard_characteristics",
+      "hazmat_type",
+      "ignore_bad_address",
+      "mailing_zip_code",
+      "non_delivery",
+      "processing_category",
+      "rate_indicator",
+      "reference_number",
+      "ship_date"
+    ],
+    "rate_options": [
+      "delivery_confirmation",
+      "has_nonstandard_characteristics",
+      "hazmat_type",
+      "mailing_zip_code",
+      "processing_category",
+      "rate_holder_eps",
+      "service_type",
+      "ship_date"
+    ],
     "shipping_method": [
       {
         "display": "Parcel Select",
@@ -2969,6 +3065,44 @@
         "max_oz": 20,
         "dimensions_required": true
       }
+    ],
+    "label_options": [
+      "postal_reporting_number",
+      "pb_shipper_id",
+      "ship_date",
+      "non_delivery",
+      "delivery_confirmation",
+      "reference_number",
+      "mailing_zip_code",
+      "sender_signature",
+      "rate_type",
+      "international_rate_type",
+      "integrator_id",
+      "international_integrator_id",
+      "nsa_type",
+      "alternate_return_to_address",
+      "hazmat_type",
+      "hazmat_electronics",
+      "parcel_characteristics"
+    ],
+    "rate_options": [
+      "service_type",
+      "postal_reporting_number",
+      "pb_shipper_id",
+      "ship_date",
+      "non_delivery",
+      "delivery_confirmation",
+      "reference_number",
+      "mailing_zip_code",
+      "rate_type",
+      "international_rate_type",
+      "integrator_id",
+      "international_integrator_id",
+      "published_rates",
+      "nsa_type",
+      "hazmat_type",
+      "hazmat_electronics",
+      "parcel_characteristics"
     ],
     "shipping_method": [
       {
@@ -3538,6 +3672,7 @@
         "display": "Large Envelope"
       }
     ],
+    "label_options": ["non_delivery", "delivery_confirmation", "reference_number", "mailing_zip_code"],
     "shipping_method": [
       {
         "value": "STANDARD",
@@ -3706,6 +3841,28 @@
         "value": "discounted_insurance"
       }
     ],
+    "label_options": [
+      "alcohol_shipment_license",
+      "alternate_return_to_address",
+      "batteries",
+      "customs",
+      "delivery_confirmation",
+      "duties_payment_account",
+      "duties_payment_type",
+      "email_alert",
+      "etd_service_default_false",
+      "evening_delivery",
+      "hold_at_location_id",
+      "importer_of_record_account_number",
+      "importer_of_record_address",
+      "importer_of_record_tin",
+      "is_return",
+      "payment_account",
+      "payment_type",
+      "priority_alert",
+      "saturday_delivery",
+      "ship_date"
+    ],
     "payor": [
       {
         "display": "Sender",
@@ -3723,6 +3880,29 @@
     "priority_alert": [
       {"value": "PRIORITY_ALERT", "display": "Priority Alert"},
       {"value": "PRIORITY_ALERT_PLUS", "display": "Priority Alert Plus"}
+    ],
+    "rate_options": [
+      "alcohol_shipment_license",
+      "alternate_return_to_address",
+      "batteries",
+      "customs",
+      "delivery_confirmation",
+      "duties_payment_account",
+      "duties_payment_type",
+      "email_alert",
+      "etd_service_default_false",
+      "evening_delivery",
+      "hold_at_location_id",
+      "importer_of_record_account_number",
+      "importer_of_record_address",
+      "importer_of_record_tin",
+      "is_return",
+      "payment_account",
+      "payment_type",
+      "priority_alert",
+      "saturday_delivery",
+      "service_type",
+      "ship_date"
     ],
     "reason_for_export": [
       {
@@ -4020,6 +4200,23 @@
         "display": "USPS® Small Flat Rate Envelope"
       }
     ],
+    "label_options": [
+      "amazon_order_id",
+      "arrive_by_date",
+      "carrier_pickup",
+      "delivery_confirmation",
+      "order_items",
+      "ship_date",
+      "shipping_method"
+    ],
+    "rate_options": [
+      "amazon_order_id",
+      "arrive_by_date",
+      "carrier_pickup",
+      "delivery_confirmation",
+      "order_items",
+      "ship_date"
+    ],
     "shipping_method": [
       {
         "value": "FEDEX_PTP_PRIORITY_OVERNIGHT",
@@ -4286,6 +4483,8 @@
         "display": "Custom Packaging"
       }
     ],
+    "label_options": ["service_token", "shipment_id"],
+    "rate_options": ["amazon_order_id", "order_items", "ship_date"],
     "shipping_method": [
       {
         "value": "std-us-swa-mfn",
