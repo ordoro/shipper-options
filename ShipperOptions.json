@@ -1105,21 +1105,6 @@
         "value": "FEDEX_TUBE"
       },
       {
-        "display": "FedEx One Rate® - FedEx® Envelope",
-        "value": "ONE_RATE_ENVELOPE",
-        "deprecated": "2026-05-26"
-      },
-      {
-        "display": "FedEx One Rate® - FedEx® Pak",
-        "value": "ONE_RATE_PAK",
-        "deprecated": "2026-05-26"
-      },
-      {
-        "display": "FedEx One Rate® - FedEx® Tube",
-        "value": "ONE_RATE_TUBE",
-        "deprecated": "2026-05-26"
-      },
-      {
         "display": "FedEx® Extra Small Box",
         "value": "FEDEX_EXTRA_SMALL_BOX"
       },
