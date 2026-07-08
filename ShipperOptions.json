@@ -5419,5 +5419,8 @@
       {"display": "Tube", "value": "TUBE"},
       {"display": "Unit", "value": "UNIT"}
     ]
+  },
+  "xpo_logistics": {
+    "display_name": "XPO Logistics"
   }
 }
