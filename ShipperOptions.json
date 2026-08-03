@@ -2741,6 +2741,10 @@
       {
         "value": "PRIORITY_MAIL_INTERNATIONAL",
         "display": "Priority Mail International"
+      },
+      {
+        "value": "MARKETING_MAIL_PARCELS",
+        "display": "Marketing Mail Parcels"
       }
     ],
     "delivery_confirmation": [
