@@ -1,9 +1,11 @@
 {
   "other": {
-    "display_name": "Other"
+    "display_name": "Other",
+    "carrier": "other"
   },
   "australia_post": {
     "display_name": "Australia Post",
+    "carrier": "australia_post",
     "dimensions_required": true,
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
@@ -44,6 +46,8 @@
     ]
   },
   "canada_post": {
+    "display_name": "Canada Post",
+    "carrier": "canada_post",
     "service_option": [
       {
         "display": "Card for pickup",
@@ -200,7 +204,6 @@
         "value": "canada_post"
       }
     ],
-    "display_name": "Canada Post",
     "delivery_confirmation": [
       {
         "display": "Signature",
@@ -229,6 +232,7 @@
   "pitney_cbds": {
     "deprecated": true,
     "display_name": "USPS (CBDS)",
+    "carrier": "pitney_cbds",
     "dimensions_required": true,
     "box_shape": [
       {
@@ -252,10 +256,12 @@
     ]
   },
   "china_post": {
-    "display_name": "China Post"
+    "display_name": "China Post",
+    "carrier": "china_post"
   },
   "dhl": {
     "display_name": "DHL",
+    "carrier": "dhl",
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -713,6 +719,7 @@
   },
   "dhl_ecommerce": {
     "display_name": "DHL eCommerce",
+    "carrier": "dhl_ecommerce",
     "dimensions_required": true,
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
@@ -852,6 +859,8 @@
   },
   "endicia": {
     "deprecated": true,
+    "display_name": "USPS",
+    "carrier": "usps",
     "customs_form": [
       {
         "display": "None",
@@ -1015,7 +1024,6 @@
         "value": "endicia"
       }
     ],
-    "display_name": "USPS",
     "delivery_confirmation": [
       {
         "display": "No delivery confirmation",
@@ -1044,9 +1052,12 @@
     ]
   },
   "fastway": {
-    "display_name": "Fastway"
+    "display_name": "Fastway",
+    "carrier": "fastway"
   },
   "fedex": {
+    "display_name": "FedEx",
+    "carrier": "fedex",
     "payor": [
       {
         "display": "Sender",
@@ -1061,7 +1072,6 @@
         "value": "THIRD_PARTY"
       }
     ],
-    "display_name": "FedEx",
     "indicia": [
       {
         "display": "FedEx Ground® Economy Media Mail",
@@ -1758,18 +1768,24 @@
     ]
   },
   "ontrac": {
-    "display_name": "OnTrac"
+    "display_name": "OnTrac",
+    "carrier": "ontrac"
   },
   "parcelforce": {
-    "display_name": "Parcelforce"
+    "display_name": "Parcelforce",
+    "carrier": "parcelforce"
   },
   "purolator": {
-    "display_name": "Purolator"
+    "display_name": "Purolator",
+    "carrier": "purolator"
   },
   "r_l_carriers": {
-    "display_name": "R+L Carriers"
+    "display_name": "R+L Carriers",
+    "carrier": "r_l_carriers"
   },
   "ups": {
+    "display_name": "UPS",
+    "carrier": "ups",
     "insurance": [
       {
         "display": "Discounted Insurance",
@@ -2085,7 +2101,6 @@
         }
       }
     ],
-    "display_name": "UPS",
     "maximum_dimensions_error_level": 165,
     "maximum_dimensions_warning_level": 130,
     "dry_ice_regulation_set": [
@@ -2538,10 +2553,12 @@
     ]
   },
   "usps": {
-    "display_name": "USPS"
+    "display_name": "USPS",
+    "carrier": "usps"
   },
   "usps_ship": {
     "display_name": "USPS",
+    "carrier": "usps",
     "customs_form": [],
     "contents_type": [],
     "insurance": [
@@ -2952,10 +2969,12 @@
     ]
   },
   "royal_mail": {
-    "display_name": "Royal Mail"
+    "display_name": "Royal Mail",
+    "carrier": "royal_mail"
   },
   "pitney": {
     "display_name": "USPS",
+    "carrier": "usps",
     "customs_form": [],
     "contents_type": [],
     "insurance": [
@@ -3326,6 +3345,7 @@
   },
   "pitney_merchant": {
     "display_name": "USPS",
+    "carrier": "usps",
     "customs_form": [],
     "contents_type": [],
     "insurance": [
@@ -3638,6 +3658,7 @@
   },
   "pitney_presort": {
     "display_name": "USPS Presort",
+    "carrier": "usps",
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -3721,6 +3742,8 @@
     ]
   },
   "fedex_360": {
+    "display_name": "FedEx",
+    "carrier": "fedex",
     "alcohol_recipient_type": [
       {
         "value": "CONSUMER",
@@ -3820,7 +3843,6 @@
         "value": "ADULT_SIG"
       }
     ],
-    "display_name": "FedEx",
     "insurance": [
       {
         "display": "Discounted Insurance",
@@ -3996,6 +4018,7 @@
   },
   "amazon": {
     "display_name": "Amazon Buy Shipping",
+    "carrier": "amazon",
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -4462,6 +4485,7 @@
   },
   "amazon_shipper": {
     "display_name": "Amazon Shipping",
+    "carrier": "amazon_shipper",
     "dimensions_required": true,
     "box_shape": [
       {
@@ -4507,6 +4531,7 @@
   "newgistics": {
     "deprecated": true,
     "display_name": "PB Standard",
+    "carrier": "pb_standard",
     "dimensions_required": true,
     "delivery_confirmation": [
       {
@@ -4647,6 +4672,7 @@
   },
   "pb_standard": {
     "display_name": "PB Standard",
+    "carrier": "pb_standard",
     "dimensions_required": true,
     "delivery_confirmation": [
       {
@@ -4758,6 +4784,7 @@
   "visible_usps": {
     "deprecated": true,
     "display_name": "USPS",
+    "carrier": "usps",
     "box_shape": [
       {
         "value": "SmallFlatRateBox",
@@ -4903,6 +4930,7 @@
   "onelivex": {
     "deprecated": true,
     "display_name": "X Delivery",
+    "carrier": "onelivex",
     "dimensions_required": true,
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
@@ -4927,6 +4955,7 @@
   },
   "sendle": {
     "display_name": "Sendle",
+    "carrier": "sendle",
     "dimensions_required": true,
     "box_shape": [
       {
@@ -4964,6 +4993,7 @@
   },
   "shippo": {
     "display_name": "Shippo",
+    "carrier": "multiple",
     "dimensions_required": true,
     "alcohol_shipment_license": [
       {
@@ -5425,6 +5455,7 @@
     ]
   },
   "xpo_logistics": {
-    "display_name": "XPO Logistics"
+    "display_name": "XPO Logistics",
+    "carrier": "xpo_logistics"
   }
 }
