@@ -1,11 +1,13 @@
 {
   "other": {
     "display_name": "Other",
-    "carrier": "other"
+    "carrier": "other",
+    "tracking_numbers": true
   },
   "australia_post": {
     "display_name": "Australia Post",
     "carrier": "australia_post",
+    "tracking_numbers": true,
     "dimensions_required": true,
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
@@ -48,6 +50,7 @@
   "canada_post": {
     "display_name": "Canada Post",
     "carrier": "canada_post",
+    "tracking_numbers": true,
     "service_option": [
       {
         "display": "Card for pickup",
@@ -257,11 +260,13 @@
   },
   "china_post": {
     "display_name": "China Post",
-    "carrier": "china_post"
+    "carrier": "china_post",
+    "tracking_numbers": true
   },
   "dhl": {
     "display_name": "DHL",
     "carrier": "dhl",
+    "tracking_numbers": true,
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -720,6 +725,7 @@
   "dhl_ecommerce": {
     "display_name": "DHL eCommerce",
     "carrier": "dhl_ecommerce",
+    "tracking_numbers": true,
     "dimensions_required": true,
     "box_shape": [
       {"display": "Parcel", "value": "PKG"}
@@ -1053,11 +1059,13 @@
   },
   "fastway": {
     "display_name": "Fastway",
-    "carrier": "fastway"
+    "carrier": "fastway",
+    "tracking_numbers": true
   },
   "fedex": {
     "display_name": "FedEx",
     "carrier": "fedex",
+    "tracking_numbers": true,
     "payor": [
       {
         "display": "Sender",
@@ -1769,23 +1777,28 @@
   },
   "ontrac": {
     "display_name": "OnTrac",
-    "carrier": "ontrac"
+    "carrier": "ontrac",
+    "tracking_numbers": true
   },
   "parcelforce": {
     "display_name": "Parcelforce",
-    "carrier": "parcelforce"
+    "carrier": "parcelforce",
+    "tracking_numbers": true
   },
   "purolator": {
     "display_name": "Purolator",
-    "carrier": "purolator"
+    "carrier": "purolator",
+    "tracking_numbers": true
   },
   "r_l_carriers": {
     "display_name": "R+L Carriers",
-    "carrier": "r_l_carriers"
+    "carrier": "r_l_carriers",
+    "tracking_numbers": true
   },
   "ups": {
     "display_name": "UPS",
     "carrier": "ups",
+    "tracking_numbers": true,
     "insurance": [
       {
         "display": "Discounted Insurance",
@@ -2554,7 +2567,8 @@
   },
   "usps": {
     "display_name": "USPS",
-    "carrier": "usps"
+    "carrier": "usps",
+    "tracking_numbers": true
   },
   "usps_ship": {
     "display_name": "USPS",
@@ -2970,7 +2984,8 @@
   },
   "royal_mail": {
     "display_name": "Royal Mail",
-    "carrier": "royal_mail"
+    "carrier": "royal_mail",
+    "tracking_numbers": true
   },
   "pitney": {
     "display_name": "USPS",
@@ -4019,6 +4034,7 @@
   "amazon": {
     "display_name": "Amazon Buy Shipping",
     "carrier": "amazon",
+    "tracking_numbers": true,
     "dimensions_required": true,
     "customs_form": [],
     "contents_type": [],
@@ -4486,6 +4502,7 @@
   "amazon_shipper": {
     "display_name": "Amazon Shipping",
     "carrier": "amazon_shipper",
+    "tracking_numbers": true,
     "dimensions_required": true,
     "box_shape": [
       {
@@ -5457,6 +5474,7 @@
   },
   "xpo_logistics": {
     "display_name": "XPO Logistics",
-    "carrier": "xpo_logistics"
+    "carrier": "xpo_logistics",
+    "tracking_numbers": true
   }
 }
