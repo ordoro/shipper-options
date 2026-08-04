@@ -236,7 +236,6 @@
     "deprecated": true,
     "display_name": "USPS (CBDS)",
     "carrier": "pitney_cbds",
-    "tracking_numbers": true,
     "dimensions_required": true,
     "box_shape": [
       {
@@ -4692,7 +4691,6 @@
     "deprecated": true,
     "display_name": "PB Standard",
     "carrier": "pb_standard",
-    "tracking_numbers": true,
     "dimensions_required": true,
     "delivery_confirmation": [
       {
