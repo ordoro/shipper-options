@@ -1964,6 +1964,7 @@
       }
     ],
     "label_options": [
+      "alternate_return_to_address",
       "certificate_origin",
       "cost_center",
       "delivery_confirmation",
@@ -1982,19 +1983,19 @@
       "ship_date",
       "shipper_currency",
       "shipper_release",
-      "alternate_return_to_address",
       "use_metric_units",
       "usps_endorsement"
     ],
     "rate_options": [
+      "alternate_return_to_address",
       "certificate_origin",
       "delivery_confirmation",
       "direct_delivery",
+      "is_return",
       "package_bill_type",
       "saturday_delivery",
       "ship_date",
       "shipper_currency",
-      "alternate_return_to_address",
       "use_metric_units"
     ],
     "shipping_method": [
