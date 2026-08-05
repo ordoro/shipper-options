@@ -1982,7 +1982,7 @@
       "ship_date",
       "shipper_currency",
       "shipper_release",
-      "shipper_return_to_address",
+      "alternate_return_to_address",
       "use_metric_units",
       "usps_endorsement"
     ],
@@ -1994,7 +1994,7 @@
       "saturday_delivery",
       "ship_date",
       "shipper_currency",
-      "shipper_return_to_address",
+      "alternate_return_to_address",
       "use_metric_units"
     ],
     "shipping_method": [
