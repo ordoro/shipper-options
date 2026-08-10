@@ -1642,6 +1642,10 @@
       {"value": "BUSINESS_STATE", "display": "Business State"},
       {"value": "BUSINESS_UNION", "display": "Business Union"}
     ],
+    "terms_of_sale": [
+      {"value": "DDP", "display": "Delivered Duty Paid"},
+      {"value": "DAP", "display": "Delivered at Place"}
+    ],
     "unit_of_measure": [
       {
         "display": "Carat",
