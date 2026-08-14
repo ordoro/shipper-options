@@ -1,0 +1,22 @@
+name: Build Python Package
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '*/README'
+
+jobs:
+  build_package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Login to GAR
+        uses: docker/login-action@v2
+        with:
+          registry: us-west1-docker.pkg.dev
+          username: _json_key
+          password: ${{ secrets.GCR_CREDS }}
+      - name: Build python package
+        run: bash build_python.sh
