@@ -4235,7 +4235,9 @@
       "arrive_by_date",
       "carrier_pickup",
       "delivery_confirmation",
+      "is_hazmat",
       "order_items",
+      "service_type",
       "ship_date",
       "shipping_method"
     ],
@@ -4244,6 +4246,7 @@
       "arrive_by_date",
       "carrier_pickup",
       "delivery_confirmation",
+      "is_hazmat",
       "order_items",
       "ship_date"
     ],
@@ -4516,7 +4519,7 @@
       }
     ],
     "label_options": ["service_token", "shipment_id"],
-    "rate_options": ["amazon_order_id", "order_items", "ship_date"],
+    "rate_options": ["amazon_order_id", "is_hazmat", "order_items", "ship_date"],
     "shipping_method": [
       {
         "value": "std-us-swa-mfn",
