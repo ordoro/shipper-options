@@ -2568,6 +2568,11 @@
       {"display": "DNS", "value": "DNS"},
       {"display": "EIN", "value": "EIN"},
       {"display": "FGN", "value": "FGN"}
+    ],
+    "entity_type": [
+      {"display": "01", "value": "Business"},
+      {"display": "02", "value": "Consumer/Individual"},
+      {"display": "NA", "value": "Not Applicable"}
     ]
   },
   "usps": {
