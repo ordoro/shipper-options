@@ -2570,9 +2570,9 @@
       {"display": "FGN", "value": "FGN"}
     ],
     "entity_type": [
-      {"display": "01", "value": "Business"},
-      {"display": "02", "value": "Consumer/Individual"},
-      {"display": "NA", "value": "Not Applicable"}
+      {"display": "Business", "value": "01"},
+      {"display": "Consumer/Individual", "value": "02"},
+      {"display": "Not Applicable", "value": "NA"}
     ]
   },
   "usps": {
