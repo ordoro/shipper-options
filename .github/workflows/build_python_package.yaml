@@ -18,5 +18,6 @@ jobs:
           registry: us-west1-docker.pkg.dev
           username: _json_key
           password: ${{ secrets.GCR_CREDS }}
-      - name: Build python package
+
+      - name: Run build
         run: bash build_python.sh
