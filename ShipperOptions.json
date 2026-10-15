@@ -68,7 +68,8 @@
     "reason_for_export": [
       {
         "display": "Sale of Goods",
-        "value": "SOG"
+        "value": "SOG",
+        "default": true
       },
       {
         "display": "Document",
@@ -103,8 +104,8 @@
         "dimensions_required": true
       }
     ],
-    "rate_options": ["service_option", "ship_date", "delivery_confirmation"],
     "label_options": ["nondelivery_option", "service_option", "delivery_confirmation", "assigned_to_group_id"],
+    "rate_options": ["service_option", "ship_date", "delivery_confirmation"],
     "shipping_method": [
       {
         "display": "Regular Parcel",
@@ -190,7 +191,8 @@
     "nondelivery": [
       {
         "display": "Return at Sender Expense",
-        "value": "RASE"
+        "value": "RASE",
+        "default": true
       },
       {
         "display": "Return to Sender",
@@ -582,7 +584,8 @@
     "reason_for_export": [
       {
         "display": "Permanent",
-        "value": "P"
+        "value": "P",
+        "default": true
       },
       {
         "display": "Temporary",
@@ -1569,12 +1572,13 @@
       "email_alert", "payment_type", "payment_account", "delivery_instructions", "ancillary_endorsement", "smart_post_indicia", "smart_post_hub", "evening_delivery", "home_delivery_premium", "saturday_delivery", "customs", "duties_payment_type", "duties_payment_account", "ship_date", "shipper_currency", "delivery_confirmation", "alcohol_shipment_license", "dangerous_goods_option", "dangerous_goods_regulation_type", "etd_service", "certificate_of_origin", "use_metric_units", "hold_at_location_id", "importer_of_record_address", "importer_of_record_account_number", "importer_of_record_tin", "importer_of_record", "alternate_return_to_address", "pharmacy_delivery", "label_type", "image_type", "priority_alert", "etd_preshipment_docs", "total_weight", "b13a_filing_option", "export_compliance_statement", "one_rate", "is_return", "terms_of_sale"
     ],
     "rate_options": [
-      "service_type", "email_alert", "payment_type", "payment_account", "delivery_instructions", "ancillary_endorsement", "smart_post_indicia", "smart_post_hub", "evening_delivery", "saturday_delivery", "customs", "duties_payment_type", "duties_payment_account", "ship_date", "shipper_currency", "delivery_confirmation", "alcohol_shipment_license", "dangerous_goods_option", "dangerous_goods_regulation_type", "etd_service", "certificate_of_origin", "use_metric_units", "hold_at_location_id", "pharmacy_delivery", "priority_alert", "one_rate", "is_return"
+      "service_type", "email_alert", "payment_type", "payment_account", "delivery_instructions", "ancillary_endorsement", "smart_post_indicia", "smart_post_hub", "evening_delivery", "saturday_delivery", "customs", "duties_payment_type", "duties_payment_account", "ship_date", "shipper_currency", "delivery_confirmation", "alcohol_shipment_license", "dangerous_goods_option", "dangerous_goods_regulation_type", "etd_service", "use_metric_units", "hold_at_location_id", "pharmacy_delivery", "priority_alert", "one_rate", "is_return"
     ],
     "reason_for_export": [
       {
         "display": "Sold",
-        "value": "SOLD"
+        "value": "SOLD",
+        "default": true
       },
       {
         "display": "Not Sold",
@@ -2405,7 +2409,8 @@
     "reason_for_export": [
       {
         "display": "Sale",
-        "value": "SALE"
+        "value": "SALE",
+        "default": true
       },
       {
         "display": "Gift",
@@ -2827,7 +2832,8 @@
     "reason_for_export": [
       {
         "display": "Merchandise",
-        "value": "MERCHANDISE"
+        "value": "MERCHANDISE",
+        "default": true
       },
       {
         "display": "Documents",
@@ -3250,7 +3256,8 @@
     "reason_for_export": [
       {
         "display": "Merchandise",
-        "value": "MERCHANDISE"
+        "value": "MERCHANDISE",
+        "default": true
       },
       {
         "display": "Documents",
@@ -3563,7 +3570,8 @@
     "reason_for_export": [
       {
         "display": "Merchandise",
-        "value": "MERCHANDISE"
+        "value": "MERCHANDISE",
+        "default": true
       },
       {
         "display": "Documents",
@@ -3739,32 +3747,7 @@
         "value": "DelCon"
       }
     ],
-    "reason_for_export": [
-      {
-        "display": "Merchandise",
-        "value": "MERCHANDISE"
-      },
-      {
-        "display": "Documents",
-        "value": "DOCUMENTS"
-      },
-      {
-        "display": "Gift",
-        "value": "GIFT"
-      },
-      {
-        "display": "Returned Goods",
-        "value": "RETURNED_GOODS"
-      },
-      {
-        "display": "Commercial Sample",
-        "value": "COMMERCIAL_SAMPLE"
-      },
-      {
-        "display": "Other",
-        "value": "OTHER"
-      }
-    ]
+    "reason_for_export": []
   },
   "fedex_360": {
     "display_name": "FedEx",
@@ -3886,9 +3869,6 @@
       "etd_service_default_false",
       "evening_delivery",
       "hold_at_location_id",
-      "importer_of_record_account_number",
-      "importer_of_record_address",
-      "importer_of_record_tin",
       "is_return",
       "payment_account",
       "payment_type",
@@ -3926,9 +3906,6 @@
       "etd_service_default_false",
       "evening_delivery",
       "hold_at_location_id",
-      "importer_of_record_account_number",
-      "importer_of_record_address",
-      "importer_of_record_tin",
       "is_return",
       "payment_account",
       "payment_type",
@@ -3940,7 +3917,8 @@
     "reason_for_export": [
       {
         "display": "Merchandise",
-        "value": "MERCHANDISE"
+        "value": "MERCHANDISE",
+        "default": true
       },
       {
         "display": "Documents",
