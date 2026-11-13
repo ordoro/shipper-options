@@ -3012,6 +3012,10 @@
     "carrier": "usps",
     "customs_form": [],
     "contents_type": [],
+    "entity_type": [
+      {"display": "Business", "value": "business"},
+      {"display": "Consumer", "value": "consumer"}
+    ],
     "insurance": [
       {
         "display": "Discounted Insurance",
@@ -3384,6 +3388,10 @@
     "carrier": "usps",
     "customs_form": [],
     "contents_type": [],
+      "entity_type": [
+      {"display": "Business", "value": "business"},
+      {"display": "Consumer", "value": "consumer"}
+    ],
     "insurance": [
       {
         "display": "Discounted Insurance",
